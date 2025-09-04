@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AI/ML specific
+*.pth
+*.pkl
+*.h5
+*.hdf5
+model_cache/
+logs/
+wandb/
+
+# Data
+data/
+datasets/
+*.db
+*.sqlite
+
+# Secrets
+.env
+.env.local
+.env.production
+*.key
+secrets/
+
+# Cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Audio/Video/Images
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.gif
