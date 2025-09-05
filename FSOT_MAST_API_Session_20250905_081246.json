@@ -1,0 +1,26 @@
+{
+  "session_timestamp": "2025-09-05T08:12:45.567276",
+  "demonstrations": [
+    {
+      "demo_name": "Andromeda Galaxy Cone Search",
+      "success": false,
+      "error": "HTTP 500: {\"Message\":\"Invalid web service call, missing value for parameter: \\u0027request\\u0027.\",\"StackTrace\":\"   at System.Web.Script.Services.WebServiceMethodData.CallMethod(Object target, IDictionary`2 parameters)\\r\\n   at System.Web.Script.Services.RestHandler.InvokeMethod(HttpContext context, WebServiceMethodData methodData, IDictionary`2 rawParams)\\r\\n   at System.Web.Script.Services.RestHandler.ExecuteWebServiceCall(HttpContext context, WebServiceMethodData methodData)\",\"ExceptionType\":\"System.InvalidOperationException\"}"
+    },
+    {
+      "demo_name": "Hubble Space Telescope Observations",
+      "success": false,
+      "error": "HTTP 500: {\"Message\":\"Invalid web service call, missing value for parameter: \\u0027request\\u0027.\",\"StackTrace\":\"   at System.Web.Script.Services.WebServiceMethodData.CallMethod(Object target, IDictionary`2 parameters)\\r\\n   at System.Web.Script.Services.RestHandler.InvokeMethod(HttpContext context, WebServiceMethodData methodData, IDictionary`2 rawParams)\\r\\n   at System.Web.Script.Services.RestHandler.ExecuteWebServiceCall(HttpContext context, WebServiceMethodData methodData)\",\"ExceptionType\":\"System.InvalidOperationException\"}"
+    },
+    {
+      "demo_name": "Orion Nebula Object Search",
+      "success": false,
+      "error": "HTTP 500: {\"Message\":\"Invalid web service call, missing value for parameter: \\u0027request\\u0027.\",\"StackTrace\":\"   at System.Web.Script.Services.WebServiceMethodData.CallMethod(Object target, IDictionary`2 parameters)\\r\\n   at System.Web.Script.Services.RestHandler.InvokeMethod(HttpContext context, WebServiceMethodData methodData, IDictionary`2 rawParams)\\r\\n   at System.Web.Script.Services.RestHandler.ExecuteWebServiceCall(HttpContext context, WebServiceMethodData methodData)\",\"ExceptionType\":\"System.InvalidOperationException\"}"
+    }
+  ],
+  "summary": {
+    "total_demonstrations": 3,
+    "successful_demonstrations": 0,
+    "success_rate": "0.0%",
+    "query_history_count": 0
+  }
+}

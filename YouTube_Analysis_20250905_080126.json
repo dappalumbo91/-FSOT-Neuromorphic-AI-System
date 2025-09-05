@@ -1,0 +1,149 @@
+{
+  "youtube_exploration": {
+    "timestamp": "2025-09-05T08:01:26.850879",
+    "url_explored": "https://www.youtube.com/",
+    "page_title": "YouTube",
+    "content_analysis": {
+      "total_links": 16,
+      "total_forms": 1,
+      "total_images": 0,
+      "total_interactive_elements": 2,
+      "text_content_length": 796
+    },
+    "youtube_specific_analysis": {
+      "video_related_links": 6,
+      "navigation_elements": 0,
+      "youtube_features": 0,
+      "content_categories": {
+        "videos": 0,
+        "channels": 6,
+        "playlists": 0,
+        "search_results": 0
+      },
+      "platform_capabilities": [],
+      "youtube_terms_found": [
+        "youtube",
+        "video",
+        "subscribe",
+        "watch",
+        "music",
+        "gaming",
+        "news"
+      ]
+    },
+    "exploration_summary": "Successfully analyzed YouTube using FSOT autonomous web crawler"
+  },
+  "detailed_page_data": {
+    "url": "https://www.youtube.com/",
+    "title": "YouTube",
+    "links_found": [
+      {
+        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620",
+        "text": "Sign in",
+        "is_external": true
+      },
+      {
+        "url": "https://www.youtube.com/",
+        "text": "Home",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/feed/subscriptions",
+        "text": "Subscriptions",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/feed/you",
+        "text": "You",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/feed/history",
+        "text": "History",
+        "is_external": false
+      },
+      {
+        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en",
+        "text": "Sign in",
+        "is_external": true
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCkYQyvc_i9hXEo4xic9Hh2g",
+        "text": "Shopping",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+        "text": "Music",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/feed/storefront",
+        "text": "Movies & TV",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig",
+        "text": "Live",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/gaming",
+        "text": "Gaming",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw",
+        "text": "News",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw",
+        "text": "Sports",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/feed/courses_destination",
+        "text": "Courses",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ",
+        "text": "Fashion & Beauty",
+        "is_external": false
+      },
+      {
+        "url": "https://www.youtube.com/podcasts",
+        "text": "Podcasts",
+        "is_external": false
+      }
+    ],
+    "forms_found": [
+      {
+        "action": "https://www.youtube.com/results",
+        "method": "get",
+        "inputs": [
+          {
+            "type": "text",
+            "name": "search_query",
+            "placeholder": "Search"
+          }
+        ]
+      }
+    ],
+    "images_found": [],
+    "text_content": "Sign in\nHome\nShorts\nSubscriptions\nYou\nHistory\nSign in to like videos, comment, and subscribe.\nSign in\nExplore\nShopping\nMusic\nMovies & TV\nLive\nGaming\nNews\nSports\nCourses\nFashion & Beauty\nPodcasts\nPlayables\nMore from YouTube\nYouTube Premium\nYouTube TV\nYouTube Music\nYouTube Kids\nSettings\nReport history\nHelp\nSend feedback\nAboutPressCopyrightContact usCreatorsAdvertiseDevelopers\nTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket\n\u00a9 2025 Google LLC\nChiefs vs Chargers on Friday, Sept 5 at 8pm ET - free on YouTube\nYouTube featured\nNo subscription required. Certain local broadcasts available.\nSet reminder\nTry searching to get started\nStart watching videos to help us build a feed of videos you'll love.\nWaiting for permission\nAllow microphone access to search with voice",
+    "interactive_elements": [
+      {
+        "type": "input[text]",
+        "placeholder": "Search",
+        "enabled": true
+      },
+      {
+        "type": "input[checkbox]",
+        "placeholder": "",
+        "enabled": true
+      }
+    ]
+  }
+}

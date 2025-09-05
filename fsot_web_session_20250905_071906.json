@@ -1,0 +1,171 @@
+{
+  "session_id": "fsot_web_session_20250905_071831",
+  "start_time": "2025-09-05T07:18:35.730529",
+  "end_time": "2025-09-05T07:19:06.366039",
+  "base_url": "https://httpbin.org/",
+  "pages_visited": [
+    "https://httpbin.org/",
+    "https://httpbin.org/forms/post"
+  ],
+  "total_actions": 31,
+  "session_summary": "Explored 2 pages in 0:00:30.635510",
+  "data_collected": {
+    "https://httpbin.org/": {
+      "url": "https://httpbin.org/",
+      "title": "httpbin.org",
+      "links_found": [
+        {
+          "url": "https://kennethreitz.org/",
+          "text": "the developer - Website",
+          "is_external": true
+        },
+        {
+          "url": "mailto:me@kennethreitz.org",
+          "text": "Send email to the developer",
+          "is_external": true
+        },
+        {
+          "url": "https://github.com/rochacbruno/flasgger",
+          "text": "Flasgger",
+          "is_external": true
+        },
+        {
+          "url": "https://httpbin.org/forms/post",
+          "text": "HTML form",
+          "is_external": false
+        }
+      ],
+      "forms_found": [],
+      "images_found": [],
+      "text_content": "httpbin.org\n0.9.2\n[ Base URL: httpbin.org/ ]\nA simple HTTP Request & Response Service.\n\nRun locally: $ docker run -p 80:80 kennethreitz/httpbin\nthe developer - Website\nSend email to the developer\n[Powered by Flasgger]\nOther Utilities\nHTML form that posts to /post /forms/post",
+      "interactive_elements": []
+    },
+    "https://httpbin.org/forms/post": {
+      "url": "https://httpbin.org/forms/post",
+      "title": "",
+      "links_found": [],
+      "forms_found": [
+        {
+          "action": "https://httpbin.org/post",
+          "method": "post",
+          "inputs": [
+            {
+              "type": "text",
+              "name": "custname",
+              "placeholder": ""
+            },
+            {
+              "type": "tel",
+              "name": "custtel",
+              "placeholder": ""
+            },
+            {
+              "type": "email",
+              "name": "custemail",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "size",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "size",
+              "placeholder": ""
+            },
+            {
+              "type": "radio",
+              "name": "size",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topping",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topping",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topping",
+              "placeholder": ""
+            },
+            {
+              "type": "checkbox",
+              "name": "topping",
+              "placeholder": ""
+            },
+            {
+              "type": "time",
+              "name": "delivery",
+              "placeholder": ""
+            }
+          ]
+        }
+      ],
+      "images_found": [],
+      "text_content": "Customer name:\nTelephone:\nE-mail address:\nPizza Size\nSmall\nMedium\nLarge\nPizza Toppings\nBacon\nExtra Cheese\nOnion\nMushroom\nPreferred delivery time:\nDelivery instructions:\nSubmit order",
+      "interactive_elements": [
+        {
+          "type": "button",
+          "text": "Submit order",
+          "clickable": true
+        },
+        {
+          "type": "input[text]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[tel]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[email]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[radio]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[radio]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[radio]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[checkbox]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[checkbox]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[checkbox]",
+          "placeholder": "",
+          "enabled": true
+        },
+        {
+          "type": "input[checkbox]",
+          "placeholder": "",
+          "enabled": true
+        }
+      ]
+    }
+  }
+}

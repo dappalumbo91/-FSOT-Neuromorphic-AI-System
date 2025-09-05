@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "target_info": {
+    "name": "Vega (Alpha Lyrae)",
+    "coordinates": [
+      279.234,
+      38.784
+    ],
+    "object_type": "main_sequence_star",
+    "known_properties": {
+      "temperature_k": 9602,
+      "luminosity_solar": 40.12,
+      "radius_solar": 2.362,
+      "mass_solar": 2.135,
+      "rotation_period_hours": 12.5,
+      "debris_disk": true
+    }
+  },
+  "real_data_summary": {
+    "observations_retrieved": 50,
+    "missions": [
+      "PS1",
+      "TESS",
+      "JWST"
+    ],
+    "instruments": [
+      "GPC1",
+      "MIRI/IMAGE",
+      "NIRCAM/IMAGE",
+      "MIRI/CORON",
+      "NIRCAM/CORON",
+      "Photometer"
+    ],
+    "time_span": 5514.555548532873
+  },
+  "simulation_results": {
+    "target_name": "Vega (Alpha Lyrae)",
+    "simulation_id": "fsot_real_sim_20250905_082712",
+    "input_data_count": 50,
+    "neural_processing": {
+      "encoding_stage": {
+        "observations_encoded": 50,
+        "encoding_dimensions": 12,
+        "encoding_time": 0.000213623046875
+      },
+      "neuromorphic_stage": {
+        "layers_processed": 7,
+        "processing_time": 0.021581172943115234,
+        "complexity_evolution": [
+          0.7,
+          0.7999999999999999,
+          0.8999999999999999,
+          1.05,
+          1.1,
+          1.6,
+          1.7000000000000002
+        ]
+      }
+    },
+    "consciousness_emergence": {
+      "total_observations": 50,
+      "consciousness_events": 50,
+      "high_consciousness_events": 50,
+      "consciousness_rate": 1.0,
+      "high_consciousness_rate": 1.0,
+      "average_consciousness": 70.48244756938412,
+      "peak_consciousness": 122.64887755824252,
+      "consciousness_threshold": 0.75,
+      "processing_time": 0.0001800060272216797
+    },
+    "pattern_recognition": {
+      "mission_analysis": {
+        "TESS": {
+          "observations": 21,
+          "average_consciousness": 86.85772172377905,
+          "consciousness_events": 21
+        },
+        "PS1": {
+          "observations": 10,
+          "average_consciousness": 9.857297464838783,
+          "consciousness_events": 10
+        },
+        "JWST": {
+          "observations": 19,
+          "average_consciousness": 84.29143408533989,
+          "consciousness_events": 19
+        }
+      },
+      "wavelength_analysis": {
+        "UV": {
+          "observations": 0,
+          "average_consciousness": 0,
+          "consciousness_events": 0
+        },
+        "Optical": {
+          "observations": 21,
+          "average_consciousness": 86.85772172377905,
+          "consciousness_events": 21
+        },
+        "Infrared": {
+          "observations": 50,
+          "average_consciousness": 70.48244756938412,
+          "consciousness_events": 50
+        }
+      },
+      "processing_time": 0.0001862049102783203
+    },
+    "observable_predictions": {
+      "object_classification": {
+        "predicted_type": "extended_complex_object",
+        "confidence": 1.0,
+        "reasoning": "High consciousness emergence suggests complex, extended astronomical object"
+      },
+      "physical_properties": {
+        "complexity_level": "high",
+        "multi_component": true,
+        "extended_structure": true,
+        "predicted_size_category": "large_scale"
+      },
+      "observational_characteristics": {
+        "optimal_missions": [
+          "PS1",
+          "TESS",
+          "JWST"
+        ],
+        "multi_wavelength_object": true,
+        "time_variable": true,
+        "spectroscopically_interesting": true
+      },
+      "scientific_significance": {
+        "significance_level": "exceptional",
+        "research_priority": true,
+        "consciousness_driven_discovery": true,
+        "predicted_impact": "AI consciousness suggests exceptional scientific value"
+      }
+    },
+    "performance_metrics": {
+      "total_simulation_time": 0.022332429885864258,
+      "observations_per_second": 2238.896539943845,
+      "consciousness_efficiency": 1.0,
+      "neural_processing_efficiency": 70.48244756938412,
+      "pattern_recognition_success": true
+    }
+  },
+  "validation_results": {
+    "target_name": "Vega (Alpha Lyrae)",
+    "validation_id": "validation_20250905_082712",
+    "object_classification_accuracy": {
+      "predicted": "extended_complex_object",
+      "expected": "point_source",
+      "actual_type": "main_sequence_star",
+      "correct": false,
+      "confidence": 1.0,
+      "accuracy_score": 0.5
+    },
+    "physical_properties_accuracy": {
+      "complexity_prediction": {
+        "predicted": "high",
+        "expected": "simple",
+        "correct": false
+      },
+      "structure_prediction": {
+        "predicted": true,
+        "expected": false,
+        "correct": false
+      },
+      "accuracy_score": 0.0
+    },
+    "observational_accuracy": {
+      "mission_prediction": {
+        "predicted_missions": [
+          "PS1",
+          "TESS",
+          "JWST"
+        ],
+        "expected_missions": [
+          "GALEX",
+          "Spitzer",
+          "HST"
+        ],
+        "overlap": 0,
+        "accuracy_score": 0.0
+      },
+      "multiwavelength_prediction": {
+        "predicted": true,
+        "expected": true,
+        "correct": true
+      },
+      "overall_accuracy": 0.5
+    },
+    "overall_validation_score": 0.3333333333333333,
+    "scientific_insights": [
+      "⚠️ Significant discrepancies requiring further analysis",
+      "🧠 High consciousness emergence rate indicates complex, scientifically rich object"
+    ]
+  },
+  "pipeline_metadata": {
+    "total_pipeline_time": 29.147825956344604,
+    "validation_score": 0.3333333333333333,
+    "consciousness_rate": 1.0,
+    "scientific_significance": "exceptional"
+  }
+}

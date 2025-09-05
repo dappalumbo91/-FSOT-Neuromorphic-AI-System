@@ -1,0 +1,397 @@
+{
+  "analysis_metadata": {
+    "analysis_id": "fsot_deep_analysis_20250905_085259",
+    "total_targets": 5,
+    "analysis_time_seconds": 0.003360271453857422,
+    "fsot_version": "2.0",
+    "precision_digits": 50
+  },
+  "target_analyses": {
+    "vega": {
+      "target_info": {
+        "name": "Vega (α Lyrae)",
+        "catalog_id": "HD 172167",
+        "type": "main_sequence_star",
+        "distance_pc": 7.68
+      },
+      "fsot_scalar": 4.724362800208992,
+      "domain_parameters": {
+        "D_eff": 20,
+        "recent_hits": 1,
+        "delta_psi": 1.0,
+        "delta_theta": 1.0,
+        "observed": true,
+        "N": 1,
+        "P": 9
+      },
+      "observed_properties": {
+        "mass_solar": 2.135,
+        "luminosity_solar": 40.12,
+        "radius_solar": 2.362,
+        "temperature_k": 9602,
+        "surface_gravity": 3.95,
+        "metallicity": -0.5,
+        "rotation_velocity_kms": 20.6,
+        "age_gyr": 0.455,
+        "spectral_class": "A0V"
+      },
+      "fsot_predictions": {
+        "mass_luminosity_relation": {
+          "fsot_exponent": "3.9424362800208993504769967843395524055039587858921",
+          "predicted_luminosity": "19.889787818459706089180018136985498301800502597487",
+          "observed_luminosity": 40.12,
+          "fsot_enhancement_factor": 1.2362181400104495
+        },
+        "stellar_evolution": {
+          "main_sequence_lifetime_gyr": "1.7142298394054863309905917865572030858030241957775",
+          "core_temperature_modification": 1.0944872560041798,
+          "nuclear_burning_efficiency": 1.1889745120083597
+        },
+        "atmospheric_structure": {
+          "photosphere_enhancement": 0.047243628002089914,
+          "convection_efficiency": 1.1417308840062697,
+          "magnetic_field_amplification": 1.4724362800208992
+        }
+      },
+      "standard_model_comparison": {
+        "mass_luminosity_accuracy": {
+          "standard_model_error": 0.6455690380723836,
+          "fsot_error": 0.504242576808083,
+          "fsot_improvement": 21.8917657027496,
+          "winner": "FSOT"
+        }
+      },
+      "observational_fit": {
+        "overall_accuracy": 0.49575742319191696,
+        "confidence_level": "moderate",
+        "statistical_significance": "significant"
+      },
+      "novel_predictions": {
+        "consciousness_coupling": {
+          "stellar_consciousness_factor": 1.358727458589011,
+          "observational_signature": "Modified stellar pulsations",
+          "detection_method": "High-precision photometry"
+        },
+        "dimensional_compression": {
+          "effective_dimensions": 20,
+          "compression_efficiency": 0.22360679774997896,
+          "energy_flow_modification": 0.7251056665410257
+        },
+        "acoustic_resonance": {
+          "stellar_acoustic_frequency": 1046.973630587551,
+          "resonance_amplitude": 0.47243628002089916,
+          "observational_test": "Asteroseismology"
+        }
+      }
+    },
+    "rigel": {
+      "target_info": {
+        "name": "Rigel (β Orionis)",
+        "catalog_id": "HD 34085",
+        "type": "supergiant_star",
+        "distance_pc": 264.6
+      },
+      "fsot_scalar": 5.909788850133286,
+      "domain_parameters": {
+        "D_eff": 22,
+        "recent_hits": 2,
+        "delta_psi": 1.2,
+        "delta_theta": 1.1,
+        "observed": true,
+        "N": 1,
+        "P": 9
+      },
+      "observed_properties": {
+        "mass_solar": 21.0,
+        "luminosity_solar": 120000,
+        "radius_solar": 78.9,
+        "temperature_k": 12100,
+        "surface_gravity": 3.0,
+        "metallicity": -0.06,
+        "rotation_velocity_kms": 25.0,
+        "age_gyr": 0.008,
+        "spectral_class": "B8Ia"
+      },
+      "fsot_predictions": {
+        "evolution_timescale": {
+          "supergiant_lifetime_myr": "0.0013988656111722970384336609092140688154982794180761",
+          "mass_loss_rate_enhancement": 1.5909788850133286,
+          "core_collapse_timeline": 0.8818042229973343
+        },
+        "stellar_winds": {
+          "wind_velocity_modification": 1.4727831080106628,
+          "mass_loss_efficiency": 0.8689398076736622,
+          "terminal_velocity_kms": "39.774472125333216367591007765963867808026666999748"
+        },
+        "internal_structure": {
+          "convective_core_size": 1.2363915540053314,
+          "nuclear_burning_layers": 8,
+          "energy_generation_rate": 1.3545873310079972
+        }
+      },
+      "standard_model_comparison": {},
+      "observational_fit": {
+        "theoretical_consistency": "high",
+        "testable_predictions": 3,
+        "experimental_feasibility": "challenging"
+      },
+      "novel_predictions": {
+        "poof_factor_effects": {
+          "gravitational_tunneling": 0.9070474822769863,
+          "information_flow_rate": 4.6565637087605145,
+          "observational_signature": "Variable neutrino emission"
+        },
+        "dimensional_scaling": {
+          "stellar_radius_modification": 1.1181957770026658,
+          "luminosity_enhancement": 1.2954894425066643,
+          "surface_temperature_shift": "12815.084450866127647381929091403546178966581291284"
+        },
+        "chaos_dynamics": {
+          "chaos_factor_influence": -1.9562830235159105,
+          "stellar_variability": 0.5909788850133286,
+          "prediction": "Enhanced stellar pulsations"
+        }
+      }
+    },
+    "orion_nebula": {
+      "target_info": {
+        "name": "Orion Nebula (M42)",
+        "catalog_id": "NGC 1976",
+        "type": "h_ii_region",
+        "distance_pc": 414
+      },
+      "fsot_scalar": 3927.4197205529345,
+      "domain_parameters": {
+        "D_eff": 18,
+        "recent_hits": 1,
+        "delta_psi": 0.8,
+        "delta_theta": 0.9,
+        "observed": true,
+        "N": 2000,
+        "P": 9
+      },
+      "observed_properties": {
+        "electron_temperature_k": 10000,
+        "electron_density_cm3": 600,
+        "ionization_parameter": -2.5,
+        "expansion_velocity_kms": 18,
+        "magnetic_field_ug": 100,
+        "turbulent_velocity_kms": 5.5,
+        "dust_to_gas_ratio": 0.01,
+        "stellar_formation_efficiency": 0.02,
+        "mass_solar": 2000
+      },
+      "fsot_predictions": {
+        "ionization_structure": {
+          "electron_temperature_enhancement": "1973709.8602764674313876317981342211022459321062552",
+          "density_distribution_modification": "71293.554969952820989487043045682691673049474215563",
+          "ionization_parameter_shift": "-198.87098602764673632577599055597495604979729228216"
+        },
+        "magnetic_field_dynamics": {
+          "field_amplification": "39374.197205529348627752635962684422044918642125104",
+          "turbulent_enhancement": "1733.564677043291279666828716892579613238216172083",
+          "acoustic_coupling": 6546.434662150445
+        },
+        "stellar_formation": {
+          "efficiency_modification": "11.802259161658803743931712955116304121737467850673",
+          "fragmentation_scale": 0.005066600821763767,
+          "protostar_collapse_rate": 393.7419720552935
+        }
+      },
+      "standard_model_comparison": {},
+      "observational_fit": {
+        "temperature_fit_accuracy": -195.37098602764675,
+        "density_fit_accuracy": -116.82259161658804,
+        "overall_consistency": "good"
+      },
+      "novel_predictions": {
+        "fluid_spacetime_effects": {
+          "dimensional_compression_signature": 1.3888888888888888,
+          "information_flow_rate": 3094.574206214608,
+          "observational_test": "Multi-wavelength spectroscopy"
+        },
+        "consciousness_interactions": {
+          "collective_consciousness_factor": 575.2003036383679,
+          "coherence_enhancement": 3761.298516988975,
+          "predicted_effect": "Organized structure formation"
+        },
+        "acoustic_resonance_modes": {
+          "primary_frequency_mhz": 104.6973630587551,
+          "harmonic_structure": [
+            104.6973630587551,
+            209.3947261175102,
+            314.0920891762653
+          ],
+          "amplitude_modulation": 785.483944110587
+        }
+      }
+    },
+    "crab_nebula": {
+      "target_info": {
+        "name": "Crab Nebula (M1)",
+        "catalog_id": "NGC 1952",
+        "type": "supernova_remnant",
+        "distance_pc": 2000
+      },
+      "fsot_scalar": 2.3840757188506387,
+      "domain_parameters": {
+        "D_eff": 24,
+        "recent_hits": 3,
+        "delta_psi": 1.5,
+        "delta_theta": 1.3,
+        "observed": true,
+        "N": 1,
+        "P": 9
+      },
+      "observed_properties": {
+        "expansion_velocity_kms": 1500,
+        "electron_temperature_k": 15000,
+        "magnetic_field_mg": 0.5,
+        "pulsar_period_ms": 33.4,
+        "luminosity_erg_s": 4.6e+31,
+        "age_years": 968,
+        "mass_solar": 4.6,
+        "distance_kpc": 2.0,
+        "synchrotron_luminosity": 1.26e+31
+      },
+      "fsot_predictions": {
+        "shock_wave_dynamics": {
+          "expansion_velocity_modification": "1571.522271565519167712826785971221376321545662333",
+          "shock_compression_ratio": "4.4768151437701278012950270451274172401175021917195",
+          "energy_dissipation_rate": 1.238407571885064
+        },
+        "magnetic_field_amplification": {
+          "field_strength_enhancement": "0.73840757188506390064751352256370862005875109585977",
+          "turbulent_amplification": -0.7891867161140297,
+          "reconnection_efficiency": 0.365913221805276
+        },
+        "particle_acceleration": {
+          "cosmic_ray_efficiency": 1.357611357827596,
+          "maximum_energy_tev": "1238.4075718850639006475135225637086200587510958598",
+          "acceleration_timescale_years": "893.49233138793837290105845690059562199885542161202"
+        }
+      },
+      "standard_model_comparison": {},
+      "observational_fit": {
+        "expansion_velocity_accuracy": 0.9523184856229873,
+        "magnetic_field_accuracy": 0.5231848562298722,
+        "theoretical_consistency": "excellent"
+      },
+      "novel_predictions": {
+        "dimensional_tunneling": {
+          "poof_factor_significance": 0.365913221805276,
+          "information_preservation": 0.984651778510555,
+          "observational_signature": "Anomalous neutrino production"
+        },
+        "spacetime_fluid_dynamics": {
+          "flow_velocity_modification": 0.3505401545049786,
+          "vorticity_generation": -0.7891867161140297,
+          "gravitational_wave_coupling": 1.046973630587551e-21
+        },
+        "pulsar_consciousness_coupling": {
+          "timing_precision_enhancement": 2.87600151819184e-10,
+          "spin_stability_factor": 2.283234567157455,
+          "predicted_effect": "Ultra-stable timing"
+        }
+      }
+    },
+    "alpha_centauri": {
+      "target_info": {
+        "name": "α Centauri A",
+        "catalog_id": "HD 128620",
+        "type": "main_sequence_star",
+        "distance_pc": 1.34
+      },
+      "fsot_scalar": 3.6019764848198634,
+      "domain_parameters": {
+        "D_eff": 19,
+        "recent_hits": 0,
+        "delta_psi": 0.9,
+        "delta_theta": 1.0,
+        "observed": true,
+        "N": 1,
+        "P": 9
+      },
+      "observed_properties": {
+        "mass_solar": 1.1,
+        "luminosity_solar": 1.519,
+        "radius_solar": 1.227,
+        "temperature_k": 5790,
+        "surface_gravity": 4.3,
+        "metallicity": 0.2,
+        "rotation_velocity_kms": 2.7,
+        "age_gyr": 4.85,
+        "spectral_class": "G2V"
+      },
+      "fsot_predictions": {
+        "mass_luminosity_relation": {
+          "fsot_exponent": "3.8301976484819865490380461259488056190967351075031",
+          "predicted_luminosity": "1.4405958699350792708070053117058438416545519080755",
+          "observed_luminosity": 1.519,
+          "fsot_enhancement_factor": 1.180098824240993
+        },
+        "stellar_evolution": {
+          "main_sequence_lifetime_gyr": "8.7313478017697075992578863233394925090195501471028",
+          "core_temperature_modification": 1.0720395296963974,
+          "nuclear_burning_efficiency": 1.1440790593927945
+        },
+        "atmospheric_structure": {
+          "photosphere_enhancement": 0.03601976484819863,
+          "convection_efficiency": 1.108059294544596,
+          "magnetic_field_amplification": 1.3601976484819864
+        }
+      },
+      "standard_model_comparison": {
+        "mass_luminosity_accuracy": {
+          "standard_model_error": 0.08099764521759562,
+          "fsot_error": 0.05161562216255473,
+          "fsot_improvement": 36.27515710624393,
+          "winner": "FSOT"
+        }
+      },
+      "observational_fit": {
+        "overall_accuracy": 0.9483843778374452,
+        "confidence_level": "high",
+        "statistical_significance": "significant"
+      },
+      "novel_predictions": {
+        "consciousness_coupling": {
+          "stellar_consciousness_factor": 1.0359289838833232,
+          "observational_signature": "Modified stellar pulsations",
+          "detection_method": "High-precision photometry"
+        },
+        "dimensional_compression": {
+          "effective_dimensions": 19,
+          "compression_efficiency": 0.22941573387056177,
+          "energy_flow_modification": 0.5528393288878808
+        },
+        "acoustic_resonance": {
+          "stellar_acoustic_frequency": 1046.973630587551,
+          "resonance_amplitude": 0.3601976484819864,
+          "observational_test": "Asteroseismology"
+        }
+      }
+    }
+  },
+  "overall_statistics": {
+    "total_targets": 5,
+    "total_predictions": 15,
+    "fsot_improvements": 2,
+    "novel_predictions": 15,
+    "average_accuracy": -51.550882340362676,
+    "confidence_levels": []
+  },
+  "fsot_constants": {
+    "universal_scaling_k": 0.4202216641606967,
+    "consciousness_factor": 0.28760015181918397,
+    "poof_factor": 0.1534822148944508,
+    "coherence_efficiency": 0.9577022026205613,
+    "chaos_factor": -0.33102418261048183
+  },
+  "theoretical_insights": {
+    "dimensional_compression_effects": "Effective dimensions range from 18 to 24",
+    "consciousness_coupling_significance": 1.4380007590959198,
+    "fluid_spacetime_dynamics": "Poof factor influences observed in 15 novel predictions",
+    "observational_testability": "15 testable novel predictions generated"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "resolvedCoordinate": [
+      {
+        "searchString": "orion nebula",
+        "resolver": "SIMBAD",
+        "cached": true,
+        "resolverTime": 357,
+        "cacheDate": "Apr 30, 2025, 3:17:41 AM",
+        "searchRadius": -1.0,
+        "canonicalName": "M  42",
+        "ra": 83.8201,
+        "decl": -5.3876,
+        "radius": 0.55,
+        "majorAxis": 1.1,
+        "minorAxis": 1.1,
+        "positionAngle": 90.0,
+        "objectType": "HIIReg"
+      }
+    ],
+    "status": ""
+  },
+  "analysis": {
+    "record_count": 0,
+    "column_count": 0,
+    "columns": [],
+    "data_types": {},
+    "summary": {},
+    "api_status": ""
+  },
+  "query": {
+    "service": "Mast.Name.Lookup",
+    "params": {
+      "input": "Orion Nebula",
+      "format": "json"
+    },
+    "format": "json",
+    "pagesize": 2000,
+    "removenullcolumns": true,
+    "timeout": 30
+  },
+  "metadata": {
+    "timestamp": "2025-09-05T08:13:51.656954",
+    "response_time": 0.622624,
+    "status_code": 200
+  }
+}

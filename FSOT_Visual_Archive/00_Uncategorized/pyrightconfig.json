@@ -1,0 +1,25 @@
+{
+    "include": [
+        "**/*.py"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/.git"
+    ],
+    "pythonPlatform": "Windows",
+    "pythonVersion": "3.13",
+    "extraPaths": [
+        "C:/Users/damia/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/site-packages",
+        "./FSOT_Clean_System",
+        "./Modular_AI_Project"
+    ],
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "reportMissingImports": "warning",
+    "reportMissingTypeStubs": false,
+    "reportCallIssue": "information",
+    "reportArgumentType": "information",
+    "reportAssignmentType": "information",
+    "reportGeneralTypeIssues": "information"
+}

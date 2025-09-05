@@ -1,0 +1,114 @@
+{
+  "summary": {
+    "total_tests": 9,
+    "passed_tests": 3,
+    "failed_tests": 6,
+    "success_rate": 33.33333333333333,
+    "test_date": "2025-09-04T10:23:25.320844"
+  },
+  "detailed_results": {
+    "Enhanced Memory System": {
+      "status": "FAILED",
+      "duration": 0.13655591011047363,
+      "details": {
+        "success": false,
+        "error": "Enhanced Memory System not available"
+      },
+      "timestamp": "2025-09-04T10:23:14.733201"
+    },
+    "Multi-modal Processor": {
+      "status": "FAILED",
+      "duration": 0.0012598037719726562,
+      "details": {
+        "success": false,
+        "error": "Multi-modal Processor not available"
+      },
+      "timestamp": "2025-09-04T10:23:14.734657"
+    },
+    "Continuous API Discovery": {
+      "status": "FAILED",
+      "duration": 0.00013685226440429688,
+      "details": {
+        "success": false,
+        "error": "Continuous API Discovery not available"
+      },
+      "timestamp": "2025-09-04T10:23:14.734985"
+    },
+    "Web Dashboard": {
+      "status": "FAILED",
+      "duration": 0.4710047245025635,
+      "details": {
+        "success": false,
+        "error": "'SimpleFSOTDashboard' object has no attribute 'get_system_status'"
+      },
+      "timestamp": "2025-09-04T10:23:15.206166"
+    },
+    "Desktop Control": {
+      "status": "PASSED",
+      "duration": 0.17816686630249023,
+      "details": {
+        "success": true,
+        "capabilities_detected": true,
+        "app_database": true,
+        "window_listing": true,
+        "system_info": true,
+        "safety_enabled": true
+      },
+      "timestamp": "2025-09-04T10:23:15.384573"
+    },
+    "Advanced Training": {
+      "status": "PASSED",
+      "duration": 9.929631471633911,
+      "details": {
+        "success": true,
+        "database_connected": true,
+        "curriculum_loaded": true,
+        "data_collection": true,
+        "knowledge_graph": true,
+        "concepts_storage": true,
+        "capabilities": {
+          "text_processing": true,
+          "numerical_computation": true,
+          "web_data_collection": true,
+          "self_supervised_learning": true,
+          "curriculum_learning": true,
+          "knowledge_distillation": true,
+          "online_learning": true,
+          "meta_learning": true
+        }
+      },
+      "timestamp": "2025-09-04T10:23:25.314491"
+    },
+    "Neuromorphic Brain": {
+      "status": "FAILED",
+      "duration": 0.0003235340118408203,
+      "details": {
+        "success": false,
+        "error": "Neuromorphic brain file not found"
+      },
+      "timestamp": "2025-09-04T10:23:25.315138"
+    },
+    "Free API System": {
+      "status": "FAILED",
+      "duration": 0.0001709461212158203,
+      "details": {
+        "success": false,
+        "error": "Free API system not found"
+      },
+      "timestamp": "2025-09-04T10:23:25.315535"
+    },
+    "System Integration": {
+      "status": "PASSED",
+      "duration": 0.0021543502807617188,
+      "details": {
+        "success": true,
+        "system_initialized": false,
+        "config_loaded": true,
+        "components_detected": false,
+        "status_reporting": true,
+        "component_count": 0
+      },
+      "timestamp": "2025-09-04T10:23:25.317851"
+    }
+  }
+}

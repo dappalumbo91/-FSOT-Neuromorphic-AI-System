@@ -1,0 +1,70 @@
+{
+  "openai": {
+    "enabled": false,
+    "api_key": "",
+    "base_url": "https://api.openai.com/v1",
+    "rate_limit": {
+      "per_minute": 60,
+      "per_hour": 3600
+    },
+    "model": "gpt-4",
+    "note": "Optional paid service - leave disabled for free operation"
+  },
+  "github": {
+    "enabled": true,
+    "api_key": "",
+    "base_url": "https://api.github.com",
+    "rate_limit": {
+      "per_minute": 60,
+      "per_hour": 5000
+    },
+    "note": "Works without API key for public repositories"
+  },
+  "wolfram": {
+    "enabled": false,
+    "api_key": "",
+    "base_url": "http://api.wolframalpha.com/v2",
+    "rate_limit": {
+      "per_minute": 33,
+      "per_hour": 2000
+    },
+    "note": "Optional paid service - leave disabled for free operation"
+  },
+  "huggingface": {
+    "enabled": false,
+    "api_key": "",
+    "base_url": "https://api-inference.huggingface.co",
+    "rate_limit": {
+      "per_minute": 16,
+      "per_hour": 1000
+    },
+    "note": "Optional service - works with free tier"
+  },
+  "google_custom_search": {
+    "enabled": false,
+    "api_key": "",
+    "search_engine_id": "",
+    "base_url": "https://www.googleapis.com/customsearch/v1",
+    "rate_limit": {
+      "per_minute": 10,
+      "per_hour": 100
+    },
+    "note": "Optional paid service - free web search used instead"
+  },
+  "serpapi": {
+    "enabled": false,
+    "api_key": "",
+    "base_url": "https://serpapi.com/search",
+    "rate_limit": {
+      "per_minute": 50,
+      "per_hour": 1000
+    },
+    "note": "Optional paid service - free web search used instead"
+  },
+  "free_mode": {
+    "enabled": true,
+    "web_search_scraping": true,
+    "free_apis_only": true,
+    "note": "System configured for completely free operation"
+  }
+}

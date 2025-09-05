@@ -1,0 +1,194 @@
+{
+  "success": true,
+  "target_info": {
+    "name": "M42 (Orion Nebula)",
+    "coordinates": [
+      83.8221,
+      -5.3911
+    ],
+    "object_type": "emission_nebula",
+    "known_properties": {
+      "diameter_ly": 24,
+      "central_stars": [
+        "Trapezium Cluster"
+      ],
+      "stellar_nursery": true,
+      "ionization_source": "O-type stars",
+      "temperature_k": 10000
+    }
+  },
+  "real_data_summary": {
+    "observations_retrieved": 50,
+    "missions": [
+      "TESS",
+      "SDSS"
+    ],
+    "instruments": [
+      "Photometer",
+      "apogee-apo25m",
+      "SDSS Camera"
+    ],
+    "time_span": 5734.612994990188
+  },
+  "simulation_results": {
+    "target_name": "M42 (Orion Nebula)",
+    "simulation_id": "fsot_real_sim_20250905_082737",
+    "input_data_count": 50,
+    "neural_processing": {
+      "encoding_stage": {
+        "observations_encoded": 50,
+        "encoding_dimensions": 12,
+        "encoding_time": 0.00033092498779296875
+      },
+      "neuromorphic_stage": {
+        "layers_processed": 7,
+        "processing_time": 0.00895833969116211,
+        "complexity_evolution": [
+          0.7,
+          0.7999999999999999,
+          0.8999999999999999,
+          1.05,
+          1.1,
+          1.6,
+          1.7000000000000002
+        ]
+      }
+    },
+    "consciousness_emergence": {
+      "total_observations": 50,
+      "consciousness_events": 50,
+      "high_consciousness_events": 50,
+      "consciousness_rate": 1.0,
+      "high_consciousness_rate": 1.0,
+      "average_consciousness": 93.78426639673263,
+      "peak_consciousness": 155.4722536303537,
+      "consciousness_threshold": 0.75,
+      "processing_time": 9.894371032714844e-05
+    },
+    "pattern_recognition": {
+      "mission_analysis": {
+        "TESS": {
+          "observations": 39,
+          "average_consciousness": 89.27369702592145,
+          "consciousness_events": 39
+        },
+        "SDSS": {
+          "observations": 11,
+          "average_consciousness": 109.77628507506319,
+          "consciousness_events": 11
+        }
+      },
+      "wavelength_analysis": {
+        "UV": {
+          "observations": 3,
+          "average_consciousness": 133.06535777405094,
+          "consciousness_events": 3
+        },
+        "Optical": {
+          "observations": 39,
+          "average_consciousness": 89.27369702592145,
+          "consciousness_events": 39
+        },
+        "Infrared": {
+          "observations": 50,
+          "average_consciousness": 93.78426639673263,
+          "consciousness_events": 50
+        }
+      },
+      "processing_time": 0.00015282630920410156
+    },
+    "observable_predictions": {
+      "object_classification": {
+        "predicted_type": "extended_complex_object",
+        "confidence": 1.0,
+        "reasoning": "High consciousness emergence suggests complex, extended astronomical object"
+      },
+      "physical_properties": {
+        "complexity_level": "high",
+        "multi_component": true,
+        "extended_structure": true,
+        "predicted_size_category": "large_scale"
+      },
+      "observational_characteristics": {
+        "optimal_missions": [
+          "TESS",
+          "SDSS"
+        ],
+        "multi_wavelength_object": false,
+        "time_variable": true,
+        "spectroscopically_interesting": true
+      },
+      "scientific_significance": {
+        "significance_level": "exceptional",
+        "research_priority": true,
+        "consciousness_driven_discovery": true,
+        "predicted_impact": "AI consciousness suggests exceptional scientific value"
+      }
+    },
+    "performance_metrics": {
+      "total_simulation_time": 0.009737968444824219,
+      "observations_per_second": 5134.541181079228,
+      "consciousness_efficiency": 1.0,
+      "neural_processing_efficiency": 93.78426639673263,
+      "pattern_recognition_success": true
+    }
+  },
+  "validation_results": {
+    "target_name": "M42 (Orion Nebula)",
+    "validation_id": "validation_20250905_082737",
+    "object_classification_accuracy": {
+      "predicted": "extended_complex_object",
+      "expected": "intermediate_object",
+      "actual_type": "emission_nebula",
+      "correct": false,
+      "confidence": 1.0,
+      "accuracy_score": 0.5
+    },
+    "physical_properties_accuracy": {
+      "complexity_prediction": {
+        "predicted": "high",
+        "expected": "moderate",
+        "correct": false
+      },
+      "structure_prediction": {
+        "predicted": true,
+        "expected": true,
+        "correct": true
+      },
+      "accuracy_score": 0.5
+    },
+    "observational_accuracy": {
+      "mission_prediction": {
+        "predicted_missions": [
+          "TESS",
+          "SDSS"
+        ],
+        "expected_missions": [
+          "WISE",
+          "JWST",
+          "Spitzer",
+          "HST"
+        ],
+        "overlap": 0,
+        "accuracy_score": 0.0
+      },
+      "multiwavelength_prediction": {
+        "predicted": false,
+        "expected": true,
+        "correct": false
+      },
+      "overall_accuracy": 0.0
+    },
+    "overall_validation_score": 0.3333333333333333,
+    "scientific_insights": [
+      "⚠️ Significant discrepancies requiring further analysis",
+      "🧠 High consciousness emergence rate indicates complex, scientifically rich object"
+    ]
+  },
+  "pipeline_metadata": {
+    "total_pipeline_time": 25.307957649230957,
+    "validation_score": 0.3333333333333333,
+    "consciousness_rate": 1.0,
+    "scientific_significance": "exceptional"
+  }
+}

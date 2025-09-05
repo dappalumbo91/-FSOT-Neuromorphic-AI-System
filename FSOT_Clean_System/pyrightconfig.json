@@ -1,0 +1,32 @@
+{
+  "include": [
+    "core",
+    "brain",
+    "config",
+    "interfaces",
+    "utils",
+    "tests"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "**/.pytest_cache"
+  ],
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Windows",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.13",
+      "pythonPlatform": "Windows",
+      "extraPaths": [
+        "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0",
+        "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\\Lib\\site-packages",
+        "C:\\Users\\damia\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages"
+      ]
+    }
+  ],
+  "typeCheckingMode": "basic",
+  "useLibraryCodeForTypes": true,
+  "autoImportCompletions": true,
+  "autoSearchPaths": true
+}

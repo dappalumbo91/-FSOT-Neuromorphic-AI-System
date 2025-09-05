@@ -1,0 +1,78 @@
+{
+  "timestamp": "2025-09-04 11:33:00",
+  "total_files_analyzed": 74,
+  "system_health_score": 40,
+  "critical_issues": 0,
+  "high_priority_fixes": [],
+  "architecture_insights": {
+    "modules_found": 32,
+    "python_files": 74,
+    "estimated_complexity": "Medium-High",
+    "architecture_score": 85.0
+  },
+  "performance_metrics": {
+    "analysis_time": 0.30643248558044434
+  },
+  "issues": [
+    {
+      "file_path": "capabilities\\advanced_training.py",
+      "line_number": 314,
+      "issue_type": "runtime_error",
+      "severity": "medium",
+      "title": "Missing Error Handling",
+      "description": "Network request without proper exception handling",
+      "fix_recommendation": "Wrap network requests in try-except blocks to handle connection errors",
+      "fix_code": null
+    },
+    {
+      "file_path": "integration\\training_facility.py",
+      "line_number": 489,
+      "issue_type": "architecture_warning",
+      "severity": "medium",
+      "title": "Missing Class Docstring",
+      "description": "Class 'OccipitalEvaluator' lacks documentation",
+      "fix_recommendation": "Add a docstring to class \"OccipitalEvaluator\" explaining its purpose and usage.",
+      "fix_code": null
+    },
+    {
+      "file_path": "integration\\training_facility.py",
+      "line_number": 505,
+      "issue_type": "architecture_warning",
+      "severity": "medium",
+      "title": "Missing Class Docstring",
+      "description": "Class 'CerebellumEvaluator' lacks documentation",
+      "fix_recommendation": "Add a docstring to class \"CerebellumEvaluator\" explaining its purpose and usage.",
+      "fix_code": null
+    },
+    {
+      "file_path": "integration\\training_facility.py",
+      "line_number": 521,
+      "issue_type": "architecture_warning",
+      "severity": "medium",
+      "title": "Missing Class Docstring",
+      "description": "Class 'ParietalEvaluator' lacks documentation",
+      "fix_recommendation": "Add a docstring to class \"ParietalEvaluator\" explaining its purpose and usage.",
+      "fix_code": null
+    },
+    {
+      "file_path": "integration\\training_facility.py",
+      "line_number": 537,
+      "issue_type": "architecture_warning",
+      "severity": "medium",
+      "title": "Missing Class Docstring",
+      "description": "Class 'PFLTEvaluator' lacks documentation",
+      "fix_recommendation": "Add a docstring to class \"PFLTEvaluator\" explaining its purpose and usage.",
+      "fix_code": null
+    },
+    {
+      "file_path": "integration\\training_facility.py",
+      "line_number": 553,
+      "issue_type": "architecture_warning",
+      "severity": "medium",
+      "title": "Missing Class Docstring",
+      "description": "Class 'BrainstemEvaluator' lacks documentation",
+      "fix_recommendation": "Add a docstring to class \"BrainstemEvaluator\" explaining its purpose and usage.",
+      "fix_code": null
+    }
+  ]
+}

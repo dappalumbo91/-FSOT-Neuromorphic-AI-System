@@ -1,0 +1,586 @@
+{
+  "timestamp": "2025-09-04T19:59:29.617572",
+  "operation": "move",
+  "results": {
+    "consciousness": {
+      "files_processed": 4,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\emergent_consciousness_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\01_Consciousness_Simulations\\Current\\emergent_consciousness_test.py",
+          "timestamp": "2025-09-04T19:59:29.618675"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fractal_consciousness_analysis.png",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\01_Consciousness_Simulations\\Current\\fractal_consciousness_analysis.png",
+          "timestamp": "2025-09-04T19:59:29.620260"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\google_search_ai_consciousness.png",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\01_Consciousness_Simulations\\Current\\google_search_ai_consciousness.png",
+          "timestamp": "2025-09-04T19:59:29.621034"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\monte_carlo_consciousness.png",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\01_Consciousness_Simulations\\Current\\monte_carlo_consciousness.png",
+          "timestamp": "2025-09-04T19:59:29.622089"
+        }
+      ],
+      "errors": []
+    },
+    "neural": {
+      "files_processed": 12,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_debug_report_20250904_153042.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_debug_report_20250904_153042.json",
+          "timestamp": "2025-09-04T19:59:29.623002"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_debug_results_20250904_153042.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_debug_results_20250904_153042.json",
+          "timestamp": "2025-09-04T19:59:29.623858"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_network.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_network.py",
+          "timestamp": "2025-09-04T19:59:29.624566"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_pathway_architecture.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_pathway_architecture.py",
+          "timestamp": "2025-09-04T19:59:29.625229"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_pathway_debug_system.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_pathway_debug_system.py",
+          "timestamp": "2025-09-04T19:59:29.627351"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\NEURAL_PATHWAY_FIXES_REPORT.txt",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\NEURAL_PATHWAY_FIXES_REPORT.txt",
+          "timestamp": "2025-09-04T19:59:29.628281"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\NEURAL_PATHWAY_PYLANCE_FIXES.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\NEURAL_PATHWAY_PYLANCE_FIXES.md",
+          "timestamp": "2025-09-04T19:59:29.629201"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\NEURAL_PATHWAY_PYLANCE_FIXES_COMPLETE.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\NEURAL_PATHWAY_PYLANCE_FIXES_COMPLETE.md",
+          "timestamp": "2025-09-04T19:59:29.630072"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_pathway_test_report.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_pathway_test_report.json",
+          "timestamp": "2025-09-04T19:59:29.630872"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\neural_processing.png",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\neural_processing.png",
+          "timestamp": "2025-09-04T19:59:29.631735"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_neural_pathway_fixes.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\test_neural_pathway_fixes.py",
+          "timestamp": "2025-09-04T19:59:29.632379"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\validate_neural_pathway_fixes.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current\\validate_neural_pathway_fixes.py",
+          "timestamp": "2025-09-04T19:59:29.633158"
+        }
+      ],
+      "errors": []
+    },
+    "artistic": {
+      "files_processed": 5,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\.fsot_restart_needed",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current\\.fsot_restart_needed",
+          "timestamp": "2025-09-04T19:59:29.633853"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\ai_artistic_creation.png",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current\\ai_artistic_creation.png",
+          "timestamp": "2025-09-04T19:59:29.634717"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_AUTO_RESTART.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current\\FSOT_AUTO_RESTART.md",
+          "timestamp": "2025-09-04T19:59:29.635474"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\quick_creative_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current\\quick_creative_test.py",
+          "timestamp": "2025-09-04T19:59:29.636394"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\restart_pylance.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current\\restart_pylance.py",
+          "timestamp": "2025-09-04T19:59:29.637231"
+        }
+      ],
+      "errors": []
+    },
+    "search": {
+      "files_processed": 8,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_AI_SELF_ANALYSIS_GUIDE.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\FSOT_AI_SELF_ANALYSIS_GUIDE.md",
+          "timestamp": "2025-09-04T19:59:29.637947"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_debug_analysis_20250904_153556.log",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\fsot_debug_analysis_20250904_153556.log",
+          "timestamp": "2025-09-04T19:59:29.638610"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_debug_analysis_20250904_160821.log",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\fsot_debug_analysis_20250904_160821.log",
+          "timestamp": "2025-09-04T19:59:29.639246"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_debug_analysis_20250904_161117.log",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\fsot_debug_analysis_20250904_161117.log",
+          "timestamp": "2025-09-04T19:59:29.639893"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Self_Analysis_Report.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\FSOT_Self_Analysis_Report.json",
+          "timestamp": "2025-09-04T19:59:29.640700"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Self_Analysis_Report.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\FSOT_Self_Analysis_Report.md",
+          "timestamp": "2025-09-04T19:59:29.641385"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_results.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\test_results.json",
+          "timestamp": "2025-09-04T19:59:29.642161"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_web_search_fixes.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current\\test_web_search_fixes.py",
+          "timestamp": "2025-09-04T19:59:29.643023"
+        }
+      ],
+      "errors": []
+    },
+    "reports": {
+      "files_processed": 26,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\autonomous_learning.log",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\autonomous_learning.log",
+          "timestamp": "2025-09-04T19:59:29.643708"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPLETE_SYSTEM_TEST_REPORT.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPLETE_SYSTEM_TEST_REPORT.json",
+          "timestamp": "2025-09-04T19:59:29.644394"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_DEBUG_EVALUATION_FIX_COMPLETE.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_DEBUG_EVALUATION_FIX_COMPLETE.md",
+          "timestamp": "2025-09-04T19:59:29.645124"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_DEBUG_REPORT.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_DEBUG_REPORT.md",
+          "timestamp": "2025-09-04T19:59:29.645852"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_DEBUG_STATUS_REPORT.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_DEBUG_STATUS_REPORT.md",
+          "timestamp": "2025-09-04T19:59:29.646745"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_EVALUATION_FINAL_REPORT.txt",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_EVALUATION_FINAL_REPORT.txt",
+          "timestamp": "2025-09-04T19:59:29.647522"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\comprehensive_fsot_debug_evaluation.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\comprehensive_fsot_debug_evaluation.py",
+          "timestamp": "2025-09-04T19:59:29.648300"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_FSOT_DEBUG_EVALUATION_20250904_153557.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_FSOT_DEBUG_EVALUATION_20250904_153557.json",
+          "timestamp": "2025-09-04T19:59:29.649092"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\COMPREHENSIVE_FSOT_DEBUG_EVALUATION_20250904_161117.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\COMPREHENSIVE_FSOT_DEBUG_EVALUATION_20250904_161117.json",
+          "timestamp": "2025-09-04T19:59:29.649982"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757016997.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757016997.json",
+          "timestamp": "2025-09-04T19:59:29.650822"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757018327.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757018327.json",
+          "timestamp": "2025-09-04T19:59:29.651658"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757018403.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757018403.json",
+          "timestamp": "2025-09-04T19:59:29.652387"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757018496.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757018496.json",
+          "timestamp": "2025-09-04T19:59:29.653061"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757018689.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757018689.json",
+          "timestamp": "2025-09-04T19:59:29.653909"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757018886.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757018886.json",
+          "timestamp": "2025-09-04T19:59:29.654715"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\conversation_log_sophisticated_conversation_1757020412.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\conversation_log_sophisticated_conversation_1757020412.json",
+          "timestamp": "2025-09-04T19:59:29.655409"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\crash_proof_visual_test_report.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\crash_proof_visual_test_report.json",
+          "timestamp": "2025-09-04T19:59:29.656157"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\ENHANCED_ITERATION_TEST_REPORT.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\ENHANCED_ITERATION_TEST_REPORT.json",
+          "timestamp": "2025-09-04T19:59:29.657040"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FINAL_REPORT.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\FINAL_REPORT.md",
+          "timestamp": "2025-09-04T19:59:29.657820"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\final_status_report.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\final_status_report.py",
+          "timestamp": "2025-09-04T19:59:29.658488"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_complete_final_report_20250904_153343.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\fsot_complete_final_report_20250904_153343.json",
+          "timestamp": "2025-09-04T19:59:29.659212"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_FINAL_STATUS_REPORT.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\FSOT_FINAL_STATUS_REPORT.json",
+          "timestamp": "2025-09-04T19:59:29.659890"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\perfect_visual_ai_report.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\perfect_visual_ai_report.json",
+          "timestamp": "2025-09-04T19:59:29.660533"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\PYLANCE_FIXES_FINAL_REPORT.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\PYLANCE_FIXES_FINAL_REPORT.md",
+          "timestamp": "2025-09-04T19:59:29.661297"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\PYLANCE_FIXES_MONITORING_REPORT.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\PYLANCE_FIXES_MONITORING_REPORT.md",
+          "timestamp": "2025-09-04T19:59:29.662007"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\system_monitoring_report_20250904_154040.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current\\system_monitoring_report_20250904_154040.json",
+          "timestamp": "2025-09-04T19:59:29.662755"
+        }
+      ],
+      "errors": []
+    },
+    "experiments": {
+      "files_processed": 26,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\brain_system.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\brain_system.py",
+          "timestamp": "2025-09-04T19:59:29.664087"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\complete_system_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\complete_system_test.py",
+          "timestamp": "2025-09-04T19:59:29.665007"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\comprehensive_ai_demo.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\comprehensive_ai_demo.py",
+          "timestamp": "2025-09-04T19:59:29.665967"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\comprehensive_pylance_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\comprehensive_pylance_test.py",
+          "timestamp": "2025-09-04T19:59:29.666739"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\crash_proof_visual_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\crash_proof_visual_test.py",
+          "timestamp": "2025-09-04T19:59:29.667438"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\demo_simulations.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\demo_simulations.py",
+          "timestamp": "2025-09-04T19:59:29.668153"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\direct_brain_conversation.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\direct_brain_conversation.py",
+          "timestamp": "2025-09-04T19:59:29.668834"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\enhanced_brain_conversation.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\enhanced_brain_conversation.py",
+          "timestamp": "2025-09-04T19:59:29.669532"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\enhanced_iteration_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\enhanced_iteration_test.py",
+          "timestamp": "2025-09-04T19:59:29.670561"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_complete_test_test_20250904_153343.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\fsot_complete_test_test_20250904_153343.json",
+          "timestamp": "2025-09-04T19:59:29.671329"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_integration_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\fsot_integration_test.py",
+          "timestamp": "2025-09-04T19:59:29.672079"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\hybrid_memory_creativity_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\hybrid_memory_creativity_test.py",
+          "timestamp": "2025-09-04T19:59:29.672835"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\interactive_conversation_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\interactive_conversation_test.py",
+          "timestamp": "2025-09-04T19:59:29.673555"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\main_loop_safe.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\main_loop_safe.py",
+          "timestamp": "2025-09-04T19:59:29.674396"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\meta_cognitive_memory_test.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\meta_cognitive_memory_test.py",
+          "timestamp": "2025-09-04T19:59:29.675095"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\perfect_visual_ai_demo.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\perfect_visual_ai_demo.py",
+          "timestamp": "2025-09-04T19:59:29.675836"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\safe_main.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\safe_main.py",
+          "timestamp": "2025-09-04T19:59:29.676478"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\safe_visual_engine.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\safe_visual_engine.py",
+          "timestamp": "2025-09-04T19:59:29.677504"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_brain_system.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_brain_system.py",
+          "timestamp": "2025-09-04T19:59:29.678454"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_complete_system.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_complete_system.py",
+          "timestamp": "2025-09-04T19:59:29.679266"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_dream_integration.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_dream_integration.py",
+          "timestamp": "2025-09-04T19:59:29.680315"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_monitoring_fixes.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_monitoring_fixes.py",
+          "timestamp": "2025-09-04T19:59:29.680985"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_simulation_integration.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_simulation_integration.py",
+          "timestamp": "2025-09-04T19:59:29.681689"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\test_visual_ai_system.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\test_visual_ai_system.py",
+          "timestamp": "2025-09-04T19:59:29.682373"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\ultimate_stable_visual_ai.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\ultimate_stable_visual_ai.py",
+          "timestamp": "2025-09-04T19:59:29.683075"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\visual_simulation_engine.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current\\visual_simulation_engine.py",
+          "timestamp": "2025-09-04T19:59:29.683813"
+        }
+      ],
+      "errors": []
+    },
+    "documentation": {
+      "files_processed": 2,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\LOOP_FIX_INSTRUCTIONS.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\08_Documentation\\Current\\LOOP_FIX_INSTRUCTIONS.md",
+          "timestamp": "2025-09-04T19:59:29.684633"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\README.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\08_Documentation\\Current\\README.md",
+          "timestamp": "2025-09-04T19:59:29.685380"
+        }
+      ],
+      "errors": []
+    },
+    "uncategorized": {
+      "files_processed": 29,
+      "files_moved": [
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\.gitignore",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\.gitignore"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\advanced_dream_engine.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\advanced_dream_engine.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\advanced_monitoring_tools.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\advanced_monitoring_tools.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\advanced_neuromorphic_features.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\advanced_neuromorphic_features.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\definitive_loop_fix.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\definitive_loop_fix.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\direct_brain_conversation_1757017240.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\direct_brain_conversation_1757017240.json"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\direct_brain_conversation_1757017336.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\direct_brain_conversation_1757017336.json"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\emergency_loop_killer.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\emergency_loop_killer.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\emergency_safe_run.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\emergency_safe_run.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\enhanced_brain_conversation_1757017977.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\enhanced_brain_conversation_1757017977.json"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\enhanced_brain_conversation_1757018006.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\enhanced_brain_conversation_1757018006.json"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_auto_fixer.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_auto_fixer.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_complete_integration.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_complete_integration.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_file_manager.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_file_manager.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_INTEGRATION_FIX_COMPLETE.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\FSOT_INTEGRATION_FIX_COMPLETE.md"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_self_analyzer.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_self_analyzer.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_simulations.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_simulations.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_System_Evaluation_Summary_20250904_153557.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\FSOT_System_Evaluation_Summary_20250904_153557.md"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_System_Evaluation_Summary_20250904_161118.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\FSOT_System_Evaluation_Summary_20250904_161118.md"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\fsot_vscode_integration.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\fsot_vscode_integration.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\github_setup_commands.txt",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\github_setup_commands.txt"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\kill_processes.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\kill_processes.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\LICENSE",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\LICENSE"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\modular_ai_project_backup_list.txt",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\modular_ai_project_backup_list.txt"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\MULTI_FILE_PYLANCE_FIXES_COMPLETE.md",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\MULTI_FILE_PYLANCE_FIXES_COMPLETE.md"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\pyrightconfig.json",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\pyrightconfig.json"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\requirements.txt",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\requirements.txt"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\safe_execution_manager.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\safe_execution_manager.py"
+        },
+        {
+          "original": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\setup.py",
+          "new_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\00_Uncategorized\\setup.py"
+        }
+      ],
+      "errors": []
+    }
+  },
+  "errors": []
+}

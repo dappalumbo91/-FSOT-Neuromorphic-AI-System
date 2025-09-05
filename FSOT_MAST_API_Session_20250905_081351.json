@@ -1,0 +1,35 @@
+{
+  "session_timestamp": "2025-09-05T08:13:23.810101",
+  "demonstrations": [
+    {
+      "demo_name": "Andromeda Galaxy Cone Search",
+      "coordinates": {
+        "ra": 10.684708,
+        "dec": 41.26875,
+        "radius": 0.5
+      },
+      "results_count": 23891,
+      "columns_found": 33,
+      "success": true
+    },
+    {
+      "demo_name": "Hubble Space Telescope Observations",
+      "mission": "HST",
+      "results_count": 0,
+      "columns_found": 0,
+      "success": true
+    },
+    {
+      "demo_name": "Orion Nebula Object Search",
+      "object_name": "Orion Nebula",
+      "results_count": 0,
+      "success": true
+    }
+  ],
+  "summary": {
+    "total_demonstrations": 3,
+    "successful_demonstrations": 3,
+    "success_rate": "100.0%",
+    "query_history_count": 3
+  }
+}

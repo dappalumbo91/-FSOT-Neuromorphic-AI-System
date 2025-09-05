@@ -1,0 +1,250 @@
+{
+  "timestamp": "2025-09-05T09:10:25.253609",
+  "fsot_version": "2.0_CORRECTED",
+  "precision_digits": 50,
+  "universal_scaling_k": 0.4202216641606967,
+  "consciousness_factor": 0.28760015181918397,
+  "poof_factor": 0.1534822148944508,
+  "coherence_efficiency": 0.9577022026205613,
+  "chaos_factor": -0.33102418261048183,
+  "methodology": "EXACT_FSOT_2.0_with_sensitivity_analysis",
+  "domains": {
+    "particle_physics": {
+      "domain": "particle_physics",
+      "fsot_scalar": 0.9504134401245243,
+      "domain_constant": 0.35673889974801704,
+      "parameters": {
+        "D_eff": 5,
+        "recent_hits": 0,
+        "delta_psi": 1,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "higgs_mass_gev": 0.8876429707085811,
+      "expected_higgs": 125.1,
+      "fsot_sensitivity": 0.2593802073359031,
+      "higgs_accuracy": 0.7406197926640969,
+      "consciousness_coupling": 0.2733390496708061,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.1458715598557665,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.31460983215923677
+    },
+    "physical_chemistry": {
+      "domain": "physical_chemistry",
+      "fsot_scalar": 0.33401327040170914,
+      "domain_constant": 0.8652559794322651,
+      "parameters": {
+        "D_eff": 8,
+        "recent_hits": 0,
+        "delta_psi": 0.5,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "consciousness_coupling": 0.0960622672771537,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.05126509654539342,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.11056646981577961
+    },
+    "quantum_computing": {
+      "domain": "quantum_computing",
+      "fsot_scalar": 0.9414848613953228,
+      "domain_constant": 0.520260095022889,
+      "parameters": {
+        "D_eff": 11,
+        "recent_hits": 0,
+        "delta_psi": 1,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "coherence_time_ns": 3.6192853167179853,
+      "expected_coherence": 13.3,
+      "fsot_sensitivity": 0.0034287190241649944,
+      "coherence_accuracy": 0.996571280975835,
+      "consciousness_coupling": 0.2707711890727582,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.14450118181654917,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.31165425668352953
+    },
+    "biology": {
+      "domain": "biology",
+      "fsot_scalar": 0.47768238921582773,
+      "domain_constant": 0.3402681446868002,
+      "parameters": {
+        "D_eff": 12,
+        "recent_hits": 0,
+        "delta_psi": 0.05,
+        "delta_theta": 1,
+        "observed": false
+      },
+      "cell_growth_rate": 1.1764954953580664,
+      "expected_growth": 1.18,
+      "fsot_sensitivity": 0.000975240601968166,
+      "growth_accuracy": 0.9990247593980318,
+      "consciousness_coupling": 0.1373815276598226,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.07331575111291835,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.15812442243759142
+    },
+    "meteorology": {
+      "domain": "meteorology",
+      "fsot_scalar": -0.48499702084687996,
+      "domain_constant": -0.33102418261048183,
+      "parameters": {
+        "D_eff": 16,
+        "recent_hits": 2,
+        "delta_psi": 0.8,
+        "delta_theta": 1,
+        "observed": false
+      },
+      "consciousness_coupling": -0.1394852168274146,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": -0.07443841697678927,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": 0.16054574239435726
+    },
+    "astronomy": {
+      "domain": "astronomy",
+      "fsot_scalar": 0.8984595681660628,
+      "domain_constant": 6.0997509753887735,
+      "parameters": {
+        "D_eff": 20,
+        "recent_hits": 1,
+        "delta_psi": 1,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "star_distance_ly": 274.0189813634159,
+      "expected_distance": 275,
+      "fsot_sensitivity": 0.054803796272683176,
+      "distance_accuracy": 0.9451962037273168,
+      "consciousness_coupling": 0.25839710820795814,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.1378975645152391,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.2974118441607374
+    },
+    "cosmology": {
+      "domain": "cosmology",
+      "fsot_scalar": -0.5024559462100433,
+      "domain_constant": 0.061803398874989486,
+      "parameters": {
+        "D_eff": 25,
+        "recent_hits": 0,
+        "delta_psi": 1,
+        "delta_theta": 1,
+        "observed": false
+      },
+      "baryon_density_omega_b": 0.03105348526072957,
+      "expected_omega_b": 0.031,
+      "fsot_sensitivity": 0.00015526742630364785,
+      "omega_b_accuracy": 0.9998447325736963,
+      "consciousness_coupling": -0.14450640641246018,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": -0.07711805151120447,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": 0.1663250688919558
+    },
+    "neuroscience": {
+      "domain": "neuroscience",
+      "fsot_scalar": 0.42121911878182766,
+      "domain_constant": 0.28760015181918397,
+      "parameters": {
+        "D_eff": 14,
+        "recent_hits": 1,
+        "delta_psi": 0.1,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "consciousness_coupling": 0.12114268251079652,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.06464964330652367,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.13943371449466196
+    },
+    "electromagnetism": {
+      "domain": "electromagnetism",
+      "fsot_scalar": 0.5188655207983145,
+      "domain_constant": 0.8652559794322651,
+      "parameters": {
+        "D_eff": 9,
+        "recent_hits": 0,
+        "delta_psi": 0.7,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "consciousness_coupling": 0.1492258025553352,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.07963662936448804,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.17175703490702401
+    },
+    "optics": {
+      "domain": "optics",
+      "fsot_scalar": 0.40806247121534545,
+      "domain_constant": 1.1557273497909217,
+      "parameters": {
+        "D_eff": 10,
+        "recent_hits": 0,
+        "delta_psi": 0.6,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "consciousness_coupling": 0.11735882867324474,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.06263033189743429,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.135078545988073
+    },
+    "astrophysics": {
+      "domain": "astrophysics",
+      "fsot_scalar": 0.8824107984181293,
+      "domain_constant": 6.0997509753887735,
+      "parameters": {
+        "D_eff": 24,
+        "recent_hits": 1,
+        "delta_psi": 1,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "luminosity_watts": 5.382486128344571e+26,
+      "expected_luminosity": 1e+26,
+      "fsot_sensitivity": 0.04844237515510113,
+      "luminosity_accuracy": 0.9515576248448989,
+      "consciousness_coupling": 0.2537814795919413,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.13543436378799523,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.2920993132730239
+    },
+    "high_energy_physics": {
+      "domain": "high_energy_physics",
+      "fsot_scalar": 1.047109184613469,
+      "domain_constant": 0.0005715499857445138,
+      "parameters": {
+        "D_eff": 19,
+        "recent_hits": 1,
+        "delta_psi": 1.2,
+        "delta_theta": 1,
+        "observed": true
+      },
+      "cross_section_m2": 1.832051807768801e-33,
+      "expected_cross_section": 1e-36,
+      "fsot_sensitivity": 12.82436265438161,
+      "cross_section_accuracy": -11.82436265438161,
+      "consciousness_coupling": 0.3011487604660956,
+      "dimensional_compression": 1.0,
+      "poof_factor_influence": 0.1607126368907976,
+      "acoustic_resonance_freq": 1046.97,
+      "chaos_modulation": -0.3466184619406017
+    }
+  },
+  "overall_accuracy": -0.8845068943139618,
+  "accuracy_count": 7,
+  "domains_analyzed": 12,
+  "total_domains": 12,
+  "success_rate": 1.0
+}

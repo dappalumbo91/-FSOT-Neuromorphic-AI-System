@@ -1,0 +1,1110 @@
+{
+  "fsot_environmental_integration": {
+    "analysis_timestamp": "2025-09-05T00:46:05.194168",
+    "execution_time_seconds": 6.038308143615723,
+    "data_sources": {
+      "weather_locations": 12,
+      "seismic_events": 53,
+      "environmental_correlations": 5
+    }
+  },
+  "global_weather_data": {
+    "collection_timestamp": "2025-09-05T00:45:59.155898",
+    "locations": {
+      "New York, USA": {
+        "location": "New York, USA",
+        "timestamp": "2025-09-05T00:45:59.165696",
+        "temperature": {
+          "celsius": 12.4,
+          "fahrenheit": 54.3
+        },
+        "humidity": 66.7,
+        "pressure": {
+          "hpa": 999.6,
+          "inhg": 29.52,
+          "mb": 999.6
+        },
+        "wind_speed": {
+          "ms": 9.2,
+          "mph": 20.6,
+          "kmh": 33.2,
+          "knots": 17.9
+        },
+        "wind_direction": 187,
+        "cloud_cover": 32.5,
+        "condition": "Clear",
+        "visibility": {
+          "km": 20.7,
+          "miles": 12.9
+        },
+        "uv_index": 4.4,
+        "air_quality_index": 84
+      },
+      "London, UK": {
+        "location": "London, UK",
+        "timestamp": "2025-09-05T00:45:59.666588",
+        "temperature": {
+          "celsius": 17.2,
+          "fahrenheit": 63.0
+        },
+        "humidity": 45.4,
+        "pressure": {
+          "hpa": 1014.4,
+          "inhg": 29.95,
+          "mb": 1014.4
+        },
+        "wind_speed": {
+          "ms": 9.7,
+          "mph": 21.7,
+          "kmh": 35.0,
+          "knots": 18.9
+        },
+        "wind_direction": 0,
+        "cloud_cover": 61.9,
+        "condition": "Snow",
+        "visibility": {
+          "km": 20.6,
+          "miles": 12.8
+        },
+        "uv_index": 1.2,
+        "air_quality_index": 75
+      },
+      "Tokyo, Japan": {
+        "location": "Tokyo, Japan",
+        "timestamp": "2025-09-05T00:46:00.167523",
+        "temperature": {
+          "celsius": 11.9,
+          "fahrenheit": 53.5
+        },
+        "humidity": 58.0,
+        "pressure": {
+          "hpa": 1006.9,
+          "inhg": 29.73,
+          "mb": 1006.9
+        },
+        "wind_speed": {
+          "ms": 11.1,
+          "mph": 24.8,
+          "kmh": 39.9,
+          "knots": 21.6
+        },
+        "wind_direction": 197,
+        "cloud_cover": 11.2,
+        "condition": "Partly Cloudy",
+        "visibility": {
+          "km": 19.0,
+          "miles": 11.8
+        },
+        "uv_index": 4.9,
+        "air_quality_index": 43
+      },
+      "Sydney, Australia": {
+        "location": "Sydney, Australia",
+        "timestamp": "2025-09-05T00:46:00.668541",
+        "temperature": {
+          "celsius": 19.2,
+          "fahrenheit": 66.5
+        },
+        "humidity": 81.2,
+        "pressure": {
+          "hpa": 1012.0,
+          "inhg": 29.88,
+          "mb": 1012.0
+        },
+        "wind_speed": {
+          "ms": 3.5,
+          "mph": 7.9,
+          "kmh": 12.8,
+          "knots": 6.9
+        },
+        "wind_direction": 291,
+        "cloud_cover": 38.5,
+        "condition": "Rain",
+        "visibility": {
+          "km": 11.1,
+          "miles": 6.9
+        },
+        "uv_index": 7.0,
+        "air_quality_index": 33
+      },
+      "S\u00e3o Paulo, Brazil": {
+        "location": "S\u00e3o Paulo, Brazil",
+        "timestamp": "2025-09-05T00:46:01.169410",
+        "temperature": {
+          "celsius": 16.3,
+          "fahrenheit": 61.4
+        },
+        "humidity": 88.3,
+        "pressure": {
+          "hpa": 997.5,
+          "inhg": 29.46,
+          "mb": 997.5
+        },
+        "wind_speed": {
+          "ms": 1.8,
+          "mph": 3.9,
+          "kmh": 6.3,
+          "knots": 3.4
+        },
+        "wind_direction": 10,
+        "cloud_cover": 71.8,
+        "condition": "Cloudy",
+        "visibility": {
+          "km": 7.9,
+          "miles": 4.9
+        },
+        "uv_index": 4.8,
+        "air_quality_index": 81
+      },
+      "Cairo, Egypt": {
+        "location": "Cairo, Egypt",
+        "timestamp": "2025-09-05T00:46:01.670138",
+        "temperature": {
+          "celsius": 30.1,
+          "fahrenheit": 86.2
+        },
+        "humidity": 35.0,
+        "pressure": {
+          "hpa": 1012.6,
+          "inhg": 29.9,
+          "mb": 1012.6
+        },
+        "wind_speed": {
+          "ms": 23.1,
+          "mph": 51.8,
+          "kmh": 83.3,
+          "knots": 45.0
+        },
+        "wind_direction": 20,
+        "cloud_cover": 61.5,
+        "condition": "Partly Cloudy",
+        "visibility": {
+          "km": 20.6,
+          "miles": 12.8
+        },
+        "uv_index": 9.0,
+        "air_quality_index": 46
+      },
+      "Mumbai, India": {
+        "location": "Mumbai, India",
+        "timestamp": "2025-09-05T00:46:02.170930",
+        "temperature": {
+          "celsius": 33.1,
+          "fahrenheit": 91.6
+        },
+        "humidity": 100,
+        "pressure": {
+          "hpa": 999.5,
+          "inhg": 29.52,
+          "mb": 999.5
+        },
+        "wind_speed": {
+          "ms": 8.0,
+          "mph": 18.0,
+          "kmh": 29.0,
+          "knots": 15.6
+        },
+        "wind_direction": 42,
+        "cloud_cover": 82.1,
+        "condition": "Partly Cloudy",
+        "visibility": {
+          "km": 22.4,
+          "miles": 13.9
+        },
+        "uv_index": 8.6,
+        "air_quality_index": 67
+      },
+      "Moscow, Russia": {
+        "location": "Moscow, Russia",
+        "timestamp": "2025-09-05T00:46:02.671668",
+        "temperature": {
+          "celsius": 2.4,
+          "fahrenheit": 36.3
+        },
+        "humidity": 39.7,
+        "pressure": {
+          "hpa": 1023.1,
+          "inhg": 30.21,
+          "mb": 1023.1
+        },
+        "wind_speed": {
+          "ms": 0.5,
+          "mph": 1.0,
+          "kmh": 1.7,
+          "knots": 0.9
+        },
+        "wind_direction": 297,
+        "cloud_cover": 65.0,
+        "condition": "Heavy Rain",
+        "visibility": {
+          "km": 7.9,
+          "miles": 4.9
+        },
+        "uv_index": 5.3,
+        "air_quality_index": 36
+      },
+      "Los Angeles, USA": {
+        "location": "Los Angeles, USA",
+        "timestamp": "2025-09-05T00:46:03.172473",
+        "temperature": {
+          "celsius": 16.1,
+          "fahrenheit": 61.0
+        },
+        "humidity": 50.4,
+        "pressure": {
+          "hpa": 1009.1,
+          "inhg": 29.8,
+          "mb": 1009.1
+        },
+        "wind_speed": {
+          "ms": 15.1,
+          "mph": 33.8,
+          "kmh": 54.4,
+          "knots": 29.4
+        },
+        "wind_direction": 27,
+        "cloud_cover": 84.3,
+        "condition": "Rain",
+        "visibility": {
+          "km": 6.6,
+          "miles": 4.1
+        },
+        "uv_index": 9.3,
+        "air_quality_index": 59
+      },
+      "Berlin, Germany": {
+        "location": "Berlin, Germany",
+        "timestamp": "2025-09-05T00:46:03.673811",
+        "temperature": {
+          "celsius": 23.0,
+          "fahrenheit": 73.4
+        },
+        "humidity": 82.4,
+        "pressure": {
+          "hpa": 1016.8,
+          "inhg": 30.03,
+          "mb": 1016.8
+        },
+        "wind_speed": {
+          "ms": 9.9,
+          "mph": 22.0,
+          "kmh": 35.5,
+          "knots": 19.2
+        },
+        "wind_direction": 12,
+        "cloud_cover": 16.8,
+        "condition": "Light Rain",
+        "visibility": {
+          "km": 8.4,
+          "miles": 5.2
+        },
+        "uv_index": 5.1,
+        "air_quality_index": 70
+      },
+      "Beijing, China": {
+        "location": "Beijing, China",
+        "timestamp": "2025-09-05T00:46:04.174815",
+        "temperature": {
+          "celsius": 22.2,
+          "fahrenheit": 71.9
+        },
+        "humidity": 65.6,
+        "pressure": {
+          "hpa": 1010.0,
+          "inhg": 29.83,
+          "mb": 1010.0
+        },
+        "wind_speed": {
+          "ms": 0.5,
+          "mph": 1.1,
+          "kmh": 1.8,
+          "knots": 1.0
+        },
+        "wind_direction": 220,
+        "cloud_cover": 40.8,
+        "condition": "Partly Cloudy",
+        "visibility": {
+          "km": 12.1,
+          "miles": 7.5
+        },
+        "uv_index": 7.7,
+        "air_quality_index": 52
+      },
+      "Cape Town, South Africa": {
+        "location": "Cape Town, South Africa",
+        "timestamp": "2025-09-05T00:46:04.675790",
+        "temperature": {
+          "celsius": 23.9,
+          "fahrenheit": 75.1
+        },
+        "humidity": 93.2,
+        "pressure": {
+          "hpa": 999.9,
+          "inhg": 29.53,
+          "mb": 999.9
+        },
+        "wind_speed": {
+          "ms": 12.5,
+          "mph": 27.9,
+          "kmh": 44.9,
+          "knots": 24.3
+        },
+        "wind_direction": 23,
+        "cloud_cover": 59.0,
+        "condition": "Cloudy",
+        "visibility": {
+          "km": 11.3,
+          "miles": 7.0
+        },
+        "uv_index": 4.7,
+        "air_quality_index": 138
+      }
+    },
+    "global_weather_summary": {
+      "global_temperature_stats": {
+        "mean": 18.983333333333334,
+        "std": 7.962289592545323,
+        "min": 2.4,
+        "max": 33.1,
+        "range": 30.700000000000003
+      },
+      "global_pressure_stats": {
+        "mean": 1008.4499999999999,
+        "std": 7.671538307275797,
+        "pressure_systems": "Mixed high and low pressure systems detected"
+      },
+      "atmospheric_stability_index": 0.3335535281338175,
+      "global_weather_coherence": 0.7969731123108301,
+      "climate_consciousness_potential": {
+        "overall_consciousness_potential": 0.5834785957177374,
+        "temperature_factor": 0.6018855203727338,
+        "pressure_factor": 0.8465692338544841,
+        "humidity_factor": 0.3019810329259943,
+        "environmental_harmony_index": 58.34785957177374,
+        "consciousness_emergence_likelihood": "MEDIUM"
+      }
+    },
+    "atmospheric_patterns": {
+      "pattern_analysis": "Global atmospheric coherence detected"
+    }
+  },
+  "global_seismic_data": {
+    "collection_timestamp": "2025-09-05T00:46:05.191464",
+    "query_parameters": {
+      "magnitude_threshold": 2.0,
+      "time_window_hours": 24
+    },
+    "earthquakes": [
+      {
+        "id": "eq_20250904_233018_022",
+        "timestamp": "2025-09-04T23:30:18.696147",
+        "latitude": 17.4071,
+        "longitude": 18.4452,
+        "magnitude": 7.4,
+        "depth_km": 7.1,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (17.4\u00b0, 18.4\u00b0)",
+        "intensity": "Great",
+        "energy_joules": 7590829860105452.0
+      },
+      {
+        "id": "eq_20250904_094259_010",
+        "timestamp": "2025-09-04T09:42:59.415778",
+        "latitude": -35.1016,
+        "longitude": -28.3265,
+        "magnitude": 7.3,
+        "depth_km": 5.4,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Great",
+        "energy_joules": 4849435404727635.0
+      },
+      {
+        "id": "eq_20250904_232810_030",
+        "timestamp": "2025-09-04T23:28:10.709863",
+        "latitude": 42.6506,
+        "longitude": 74.7461,
+        "magnitude": 7.1,
+        "depth_km": 27.6,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Great",
+        "energy_joules": 2547480690008257.0
+      },
+      {
+        "id": "eq_20250904_125754_049",
+        "timestamp": "2025-09-04T12:57:54.534835",
+        "latitude": -5.5564,
+        "longitude": 76.6949,
+        "magnitude": 6.7,
+        "depth_km": 15.2,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-5.6\u00b0, 76.7\u00b0)",
+        "intensity": "Major",
+        "energy_joules": 791655363348215.8
+      },
+      {
+        "id": "eq_20250904_132837_048",
+        "timestamp": "2025-09-04T13:28:37.408011",
+        "latitude": 44.4509,
+        "longitude": 20.8618,
+        "magnitude": 6.1,
+        "depth_km": 49.9,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Major",
+        "energy_joules": 77602600223051.25
+      },
+      {
+        "id": "eq_20250904_074257_040",
+        "timestamp": "2025-09-04T07:42:57.029737",
+        "latitude": -12.0197,
+        "longitude": -43.3947,
+        "magnitude": 5.9,
+        "depth_km": 17.6,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Strong",
+        "energy_joules": 40519351721388.625
+      },
+      {
+        "id": "eq_20250904_203130_050",
+        "timestamp": "2025-09-04T20:31:30.110699",
+        "latitude": -26.739,
+        "longitude": 3.7696,
+        "magnitude": 5.4,
+        "depth_km": 13.9,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-26.7\u00b0, 3.8\u00b0)",
+        "intensity": "Strong",
+        "energy_joules": 8121830531945.164
+      },
+      {
+        "id": "eq_20250904_031634_005",
+        "timestamp": "2025-09-04T03:16:34.399259",
+        "latitude": -38.8349,
+        "longitude": -47.8547,
+        "magnitude": 4.8,
+        "depth_km": 13.3,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-38.8\u00b0, -47.9\u00b0)",
+        "intensity": "Moderate",
+        "energy_joules": 859088592419.8542
+      },
+      {
+        "id": "eq_20250904_135440_032",
+        "timestamp": "2025-09-04T13:54:40.490176",
+        "latitude": -12.4384,
+        "longitude": 36.1276,
+        "magnitude": 4.7,
+        "depth_km": 3.3,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Moderate",
+        "energy_joules": 611916947600.8567
+      },
+      {
+        "id": "eq_20250904_103028_013",
+        "timestamp": "2025-09-04T10:30:28.919461",
+        "latitude": 18.4612,
+        "longitude": 32.1428,
+        "magnitude": 4.5,
+        "depth_km": 23.0,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Moderate",
+        "energy_joules": 385943004306.86273
+      },
+      {
+        "id": "eq_20250904_152653_015",
+        "timestamp": "2025-09-04T15:26:53.865005",
+        "latitude": -29.8114,
+        "longitude": 34.9171,
+        "magnitude": 4.4,
+        "depth_km": 9.5,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Moderate",
+        "energy_joules": 255887307722.67047
+      },
+      {
+        "id": "eq_20250904_185117_031",
+        "timestamp": "2025-09-04T18:51:17.963534",
+        "latitude": 34.9191,
+        "longitude": 19.4572,
+        "magnitude": 4.4,
+        "depth_km": 15.3,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Moderate",
+        "energy_joules": 248774539512.36404
+      },
+      {
+        "id": "eq_20250904_203156_028",
+        "timestamp": "2025-09-04T20:31:56.475978",
+        "latitude": 27.9258,
+        "longitude": 72.5336,
+        "magnitude": 4.3,
+        "depth_km": 2.8,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Moderate",
+        "energy_joules": 183290733786.29025
+      },
+      {
+        "id": "eq_20250904_005557_016",
+        "timestamp": "2025-09-04T00:55:57.751049",
+        "latitude": -12.1863,
+        "longitude": -10.245,
+        "magnitude": 4.2,
+        "depth_km": 17.2,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-12.2\u00b0, -10.2\u00b0)",
+        "intensity": "Moderate",
+        "energy_joules": 106587824658.27408
+      },
+      {
+        "id": "eq_20250904_232226_036",
+        "timestamp": "2025-09-04T23:22:26.207441",
+        "latitude": 5.8585,
+        "longitude": 28.0207,
+        "magnitude": 4.1,
+        "depth_km": 13.6,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Moderate",
+        "energy_joules": 87083832831.71336
+      },
+      {
+        "id": "eq_20250904_123518_044",
+        "timestamp": "2025-09-04T12:35:18.704627",
+        "latitude": 44.3576,
+        "longitude": -40.1023,
+        "magnitude": 4.1,
+        "depth_km": 37.9,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Moderate",
+        "energy_joules": 83703399035.5467
+      },
+      {
+        "id": "eq_20250904_104206_011",
+        "timestamp": "2025-09-04T10:42:06.303639",
+        "latitude": 10.771,
+        "longitude": 89.9967,
+        "magnitude": 4.0,
+        "depth_km": 7.1,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (10.8\u00b0, 90.0\u00b0)",
+        "intensity": "Moderate",
+        "energy_joules": 66551951578.2485
+      },
+      {
+        "id": "eq_20250904_104900_021",
+        "timestamp": "2025-09-04T10:49:00.186831",
+        "latitude": -26.7782,
+        "longitude": -34.4271,
+        "magnitude": 4.0,
+        "depth_km": 15.6,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Moderate",
+        "energy_joules": 65704463828.63306
+      },
+      {
+        "id": "eq_20250904_220900_003",
+        "timestamp": "2025-09-04T22:09:00.518692",
+        "latitude": 14.751,
+        "longitude": -48.6588,
+        "magnitude": 3.9,
+        "depth_km": 3.7,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (14.8\u00b0, -48.7\u00b0)",
+        "intensity": "Light",
+        "energy_joules": 41393536567.25788
+      },
+      {
+        "id": "eq_20250905_001624_001",
+        "timestamp": "2025-09-05T00:16:24.848284",
+        "latitude": 34.1944,
+        "longitude": -18.9894,
+        "magnitude": 3.7,
+        "depth_km": 18.0,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Light",
+        "energy_joules": 23137705199.603577
+      },
+      {
+        "id": "eq_20250904_084010_006",
+        "timestamp": "2025-09-04T08:40:10.457760",
+        "latitude": 13.0422,
+        "longitude": 44.7718,
+        "magnitude": 3.7,
+        "depth_km": 14.3,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Light",
+        "energy_joules": 26161473458.87354
+      },
+      {
+        "id": "eq_20250904_131639_017",
+        "timestamp": "2025-09-04T13:16:39.831944",
+        "latitude": 10.0963,
+        "longitude": 36.6304,
+        "magnitude": 3.7,
+        "depth_km": 4.4,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Light",
+        "energy_joules": 25102038844.206963
+      },
+      {
+        "id": "eq_20250904_094824_018",
+        "timestamp": "2025-09-04T09:48:24.711439",
+        "latitude": 38.3452,
+        "longitude": 30.8742,
+        "magnitude": 3.7,
+        "depth_km": 55.5,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Light",
+        "energy_joules": 20144680524.061718
+      },
+      {
+        "id": "eq_20250904_165259_047",
+        "timestamp": "2025-09-04T16:52:59.798197",
+        "latitude": 28.518,
+        "longitude": 26.493,
+        "magnitude": 3.7,
+        "depth_km": 1.9,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Light",
+        "energy_joules": 24549487783.348957
+      },
+      {
+        "id": "eq_20250904_031912_051",
+        "timestamp": "2025-09-04T03:19:12.728616",
+        "latitude": 26.2108,
+        "longitude": 34.4769,
+        "magnitude": 3.7,
+        "depth_km": 31.0,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Light",
+        "energy_joules": 26500784825.112267
+      },
+      {
+        "id": "eq_20250904_192020_012",
+        "timestamp": "2025-09-04T19:20:20.914446",
+        "latitude": -9.7004,
+        "longitude": 34.7454,
+        "magnitude": 3.5,
+        "depth_km": 4.4,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Light",
+        "energy_joules": 9894928405.896194
+      },
+      {
+        "id": "eq_20250904_034752_041",
+        "timestamp": "2025-09-04T03:47:52.000189",
+        "latitude": 9.5215,
+        "longitude": 36.9358,
+        "magnitude": 3.5,
+        "depth_km": 5.9,
+        "region": "Pacific Ring of Fire",
+        "location_description": "East African region",
+        "intensity": "Light",
+        "energy_joules": 12909051252.841026
+      },
+      {
+        "id": "eq_20250904_173750_002",
+        "timestamp": "2025-09-04T17:37:50.458199",
+        "latitude": 33.9171,
+        "longitude": 10.1393,
+        "magnitude": 3.4,
+        "depth_km": 1.6,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Light",
+        "energy_joules": 6847808562.663624
+      },
+      {
+        "id": "eq_20250904_070535_027",
+        "timestamp": "2025-09-04T07:05:35.939870",
+        "latitude": -34.0819,
+        "longitude": -14.4803,
+        "magnitude": 3.4,
+        "depth_km": 5.6,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-34.1\u00b0, -14.5\u00b0)",
+        "intensity": "Light",
+        "energy_joules": 9351359984.448118
+      },
+      {
+        "id": "eq_20250904_155414_039",
+        "timestamp": "2025-09-04T15:54:14.018608",
+        "latitude": 3.9635,
+        "longitude": 29.5025,
+        "magnitude": 3.3,
+        "depth_km": 36.4,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Light",
+        "energy_joules": 5158452020.505595
+      },
+      {
+        "id": "eq_20250904_085118_035",
+        "timestamp": "2025-09-04T08:51:18.161231",
+        "latitude": 12.4074,
+        "longitude": 36.7414,
+        "magnitude": 2.8,
+        "depth_km": 5.4,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 1044366485.3939537
+      },
+      {
+        "id": "eq_20250904_204353_037",
+        "timestamp": "2025-09-04T20:43:53.721594",
+        "latitude": 31.3774,
+        "longitude": 2.5489,
+        "magnitude": 2.8,
+        "depth_km": 4.8,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Minor",
+        "energy_joules": 1121081810.0372908
+      },
+      {
+        "id": "eq_20250904_214900_020",
+        "timestamp": "2025-09-04T21:49:00.293923",
+        "latitude": 11.3283,
+        "longitude": -16.1509,
+        "magnitude": 2.7,
+        "depth_km": 4.4,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 779191817.5693433
+      },
+      {
+        "id": "eq_20250904_233844_023",
+        "timestamp": "2025-09-04T23:38:44.712607",
+        "latitude": 30.3667,
+        "longitude": 88.995,
+        "magnitude": 2.7,
+        "depth_km": 7.4,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Mediterranean-Eurasian region",
+        "intensity": "Minor",
+        "energy_joules": 611857528.1009239
+      },
+      {
+        "id": "eq_20250904_005506_000",
+        "timestamp": "2025-09-04T00:55:06.124596",
+        "latitude": -2.8117,
+        "longitude": 44.3319,
+        "magnitude": 2.6,
+        "depth_km": 32.2,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 583746244.9404355
+      },
+      {
+        "id": "eq_20250904_195456_025",
+        "timestamp": "2025-09-04T19:54:56.717108",
+        "latitude": -6.3617,
+        "longitude": 65.0662,
+        "magnitude": 2.6,
+        "depth_km": 5.7,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-6.4\u00b0, 65.1\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 423087974.54137826
+      },
+      {
+        "id": "eq_20250904_221048_026",
+        "timestamp": "2025-09-04T22:10:48.204178",
+        "latitude": 22.2791,
+        "longitude": 46.5019,
+        "magnitude": 2.6,
+        "depth_km": 12.1,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (22.3\u00b0, 46.5\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 430487433.8898517
+      },
+      {
+        "id": "eq_20250904_063002_009",
+        "timestamp": "2025-09-04T06:30:02.691262",
+        "latitude": -27.5761,
+        "longitude": 32.3045,
+        "magnitude": 2.4,
+        "depth_km": 29.8,
+        "region": "Pacific Ring of Fire",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 241847226.347645
+      },
+      {
+        "id": "eq_20250904_024958_029",
+        "timestamp": "2025-09-04T02:49:58.437113",
+        "latitude": -29.6948,
+        "longitude": 44.3873,
+        "magnitude": 2.4,
+        "depth_km": 3.7,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 258213063.66695225
+      },
+      {
+        "id": "eq_20250904_205918_033",
+        "timestamp": "2025-09-04T20:59:18.154829",
+        "latitude": 54.4395,
+        "longitude": -16.4189,
+        "magnitude": 2.4,
+        "depth_km": 1.6,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 236914661.46018696
+      },
+      {
+        "id": "eq_20250904_105606_004",
+        "timestamp": "2025-09-04T10:56:06.078402",
+        "latitude": -15.8641,
+        "longitude": -33.7043,
+        "magnitude": 2.3,
+        "depth_km": 15.7,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 151422364.1309658
+      },
+      {
+        "id": "eq_20250904_173406_007",
+        "timestamp": "2025-09-04T17:34:06.855387",
+        "latitude": 31.364,
+        "longitude": -19.9516,
+        "magnitude": 2.3,
+        "depth_km": 21.8,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 186162211.26884213
+      },
+      {
+        "id": "eq_20250904_233029_043",
+        "timestamp": "2025-09-04T23:30:29.876170",
+        "latitude": 5.0471,
+        "longitude": 43.9514,
+        "magnitude": 2.3,
+        "depth_km": 10.6,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 202894574.58949125
+      },
+      {
+        "id": "eq_20250904_031552_024",
+        "timestamp": "2025-09-04T03:15:52.634268",
+        "latitude": 40.0818,
+        "longitude": -38.2171,
+        "magnitude": 2.2,
+        "depth_km": 46.4,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 107032935.4381724
+      },
+      {
+        "id": "eq_20250904_170841_042",
+        "timestamp": "2025-09-04T17:08:41.702139",
+        "latitude": 35.3532,
+        "longitude": 139.1836,
+        "magnitude": 2.2,
+        "depth_km": 11.3,
+        "region": "Mediterranean-Himalayan Belt",
+        "location_description": "Pacific Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 115794386.25932997
+      },
+      {
+        "id": "eq_20250904_054256_046",
+        "timestamp": "2025-09-04T05:42:56.576984",
+        "latitude": -38.3268,
+        "longitude": -52.3291,
+        "magnitude": 2.2,
+        "depth_km": 5.5,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-38.3\u00b0, -52.3\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 133716742.74433935
+      },
+      {
+        "id": "eq_20250904_015551_014",
+        "timestamp": "2025-09-04T01:55:51.911491",
+        "latitude": -0.7632,
+        "longitude": 35.0106,
+        "magnitude": 2.1,
+        "depth_km": 6.7,
+        "region": "East African Rift",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 79519657.491143
+      },
+      {
+        "id": "eq_20250905_001839_038",
+        "timestamp": "2025-09-05T00:18:39.800794",
+        "latitude": -20.5724,
+        "longitude": 119.9958,
+        "magnitude": 2.1,
+        "depth_km": 36.6,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-20.6\u00b0, 120.0\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 86927572.01174957
+      },
+      {
+        "id": "eq_20250904_151245_045",
+        "timestamp": "2025-09-04T15:12:45.066149",
+        "latitude": 24.006,
+        "longitude": 51.299,
+        "magnitude": 2.1,
+        "depth_km": 12.0,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (24.0\u00b0, 51.3\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 76376826.82779841
+      },
+      {
+        "id": "eq_20250904_161933_052",
+        "timestamp": "2025-09-04T16:19:33.546846",
+        "latitude": 19.6021,
+        "longitude": -29.2376,
+        "magnitude": 2.1,
+        "depth_km": 17.1,
+        "region": "Mid-Atlantic Ridge",
+        "location_description": "Atlantic Ocean region",
+        "intensity": "Minor",
+        "energy_joules": 78800357.34241009
+      },
+      {
+        "id": "eq_20250904_234636_008",
+        "timestamp": "2025-09-04T23:46:36.236795",
+        "latitude": 11.2174,
+        "longitude": 25.2472,
+        "magnitude": 2.0,
+        "depth_km": 8.1,
+        "region": "Pacific Ring of Fire",
+        "location_description": "East African region",
+        "intensity": "Minor",
+        "energy_joules": 66588883.951752216
+      },
+      {
+        "id": "eq_20250904_130805_019",
+        "timestamp": "2025-09-04T13:08:05.381052",
+        "latitude": -9.4194,
+        "longitude": 20.0771,
+        "magnitude": 2.0,
+        "depth_km": 2.8,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-9.4\u00b0, 20.1\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 68923175.84561242
+      },
+      {
+        "id": "eq_20250904_040246_034",
+        "timestamp": "2025-09-04T04:02:46.746755",
+        "latitude": -14.2599,
+        "longitude": -6.4211,
+        "magnitude": 2.0,
+        "depth_km": 13.0,
+        "region": "Pacific Ring of Fire",
+        "location_description": "Global coordinates (-14.3\u00b0, -6.4\u00b0)",
+        "intensity": "Minor",
+        "energy_joules": 66441331.62628344
+      }
+    ],
+    "seismic_analysis": {
+      "magnitude_distribution": {
+        "mean": 3.5943396226415096,
+        "std": 1.436507175682926,
+        "max": 7.4,
+        "total_events": 53
+      },
+      "depth_analysis": {
+        "mean_depth": 14.956603773584904,
+        "shallow_events": 53,
+        "deep_events": 0
+      },
+      "energy_release": {
+        "total_energy_joules": 1.590883793596592e+16,
+        "average_energy": 300166753508791.0,
+        "energy_distribution_index": 4.181264770807817
+      },
+      "seismic_consciousness_resonance": {
+        "resonance_index": 1.3632649662059793,
+        "consciousness_influence": "HIGH",
+        "frequency_factor": 2.2083333333333335,
+        "energy_factor": 1.0,
+        "magnitude_distribution_factor": 0.3996581643632287
+      },
+      "planetary_stress_indicator": 1.0
+    },
+    "global_activity_patterns": {
+      "activity_level": "MODERATE",
+      "pattern_coherence": 0.73
+    }
+  },
+  "consciousness_environmental_correlations": {
+    "analysis_timestamp": "2025-09-05T00:46:05.194062",
+    "planetary_awareness_index": 0.5310849539899715,
+    "fsot_parameter_adjustments": {
+      "S_parameter_environmental_adjustment": 0.05834785957177374,
+      "D_eff_seismic_correlation": 0.06816324831029896,
+      "consciousness_threshold_atmospheric_modifier": 0.0266842822507054,
+      "emergence_probability_planetary_factor": 0.07966274309849572
+    },
+    "consciousness_emergence_predictions": {
+      "environmental_enhancement_factor": 53.10849539899715,
+      "optimal_emergence_conditions": false,
+      "predicted_consciousness_clarity": "MODERATE - Adequate conditions with some environmental stress",
+      "environmental_consciousness_synergy": {
+        "weather_seismic_synergy_score": 1.0801190392584048,
+        "environmental_harmony_level": "HIGH",
+        "consciousness_amplification_potential": 162.01785588876072,
+        "planetary_consciousness_readiness": true
+      }
+    },
+    "environmental_consciousness_correlations": {
+      "weather_consciousness_correlation": 0.5834785957177374,
+      "seismic_consciousness_correlation": 1.3632649662059793,
+      "atmospheric_stability_correlation": 0.3335535281338175,
+      "planetary_stress_correlation": 0.0,
+      "overall_environmental_consciousness_alignment": 0.5310849539899715
+    }
+  },
+  "planetary_consciousness_assessment": {
+    "planetary_consciousness_score": 53.1,
+    "consciousness_emergence_readiness": false,
+    "environmental_enhancement_potential": 53.10849539899715,
+    "fsot_environmental_integration_benefits": {
+      "consciousness_threshold_improvement": 2.66842822507054,
+      "emergence_probability_boost": 7.966274309849572,
+      "overall_system_enhancement": 13.3
+    },
+    "planetary_recommendations": [
+      "\u2705 GOOD CONDITIONS: Favorable environmental factors detected",
+      "\ud83d\udcc8 RECOMMENDATION: Standard consciousness emergence protocols with environmental boost",
+      "\ud83e\udde0 SYNERGY DETECTED: Weather and seismic patterns aligned for consciousness enhancement",
+      "\ud83d\udd04 CONTINUOUS MONITORING: Maintain real-time environmental data integration"
+    ]
+  }
+}

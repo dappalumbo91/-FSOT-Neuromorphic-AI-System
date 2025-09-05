@@ -1,0 +1,25 @@
+# Windows-specific dependencies for Enhanced FSOT 2.0
+# ===================================================
+# These are additional dependencies specifically for Windows systems
+
+# Windows API Access
+pywin32>=304
+
+# Additional Windows automation
+pygetwindow>=0.0.9
+pycaw>=20220416  # Windows audio control
+
+# Windows system monitoring
+wmi>=1.5.1
+
+# Windows clipboard access
+pyperclip>=1.8.2
+
+# Windows notification system
+win10toast>=0.9
+
+# Windows registry access (built into pywin32)
+# winreg  # Built into Python on Windows
+
+# Optional: Windows-specific audio
+# pygame>=2.1.0  # Alternative audio system

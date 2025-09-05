@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-09-04T15:58:36.581091",
+  "current_time": 1.0,
+  "system_overview": {
+    "total_pathways": 2,
+    "total_neurons": 4,
+    "total_synapses": 2,
+    "inter_pathway_connections": 1
+  },
+  "system_metrics": {
+    "system_coherence": 1.0,
+    "global_synchronization": 0.0,
+    "consciousness_emergence": 0.0,
+    "fsot_system_signature": 0.9318355674304304,
+    "dimensional_efficiency": 13
+  },
+  "fsot_compliance": {
+    "status": "COMPLIANT",
+    "framework_available": true,
+    "consciousness_factor": 0.288,
+    "golden_ratio": 1.618033988749895
+  },
+  "pathway_details": {
+    "test_pathway": {
+      "pathway_id": "test_pathway",
+      "neuron_count": 3,
+      "synapse_count": 2,
+      "active_synapses": 0,
+      "current_activity": 0.0,
+      "synchronization": 0.0,
+      "avg_firing_rate": 0.0,
+      "fsot_coherence": 0.5154098749081678,
+      "input_neurons": 0,
+      "output_neurons": 0,
+      "interneurons": 0
+    },
+    "test_pathway_2": {
+      "pathway_id": "test_pathway_2",
+      "neuron_count": 1,
+      "synapse_count": 0,
+      "active_synapses": 0,
+      "current_activity": 0.0,
+      "synchronization": 0.0,
+      "avg_firing_rate": 0.0,
+      "fsot_coherence": 0.5154098749081678,
+      "input_neurons": 0,
+      "output_neurons": 0,
+      "interneurons": 0
+    }
+  }
+}

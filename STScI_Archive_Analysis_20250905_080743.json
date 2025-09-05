@@ -1,0 +1,35 @@
+{
+  "exploration_timestamp": "20250905_080723",
+  "target_url": "https://archive.stsci.edu/",
+  "platform_type": "Scientific Data Archive",
+  "mission_status": "EXPLORATION_COMPLETE",
+  "scientific_capabilities": [],
+  "telescope_missions": [],
+  "data_archives": [],
+  "research_tools": [],
+  "navigation_structure": {
+    "main_navigation": 0,
+    "search_forms": 0,
+    "external_links": 0
+  },
+  "content_analysis": {
+    "scientific_density": 0,
+    "platform_complexity": "MEDIUM",
+    "research_focus": "SPACE_TELESCOPE_DATA"
+  },
+  "intelligence_summary": {
+    "platform_assessment": "Advanced Scientific Data Archive",
+    "primary_function": "Space Telescope Data Repository",
+    "user_base": "Astronomical Research Community",
+    "data_scope": "Multi-Mission Space Observatory Archives",
+    "research_value": "EXCEPTIONAL",
+    "technical_sophistication": "ENTERPRISE_SCIENTIFIC",
+    "automation_compatibility": "EXCELLENT"
+  },
+  "total_links": 0,
+  "total_forms": 0,
+  "total_images": 0,
+  "content_size": 0,
+  "scientific_keywords_detected": [],
+  "mission_links": []
+}

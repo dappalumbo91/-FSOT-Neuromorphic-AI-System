@@ -1,0 +1,464 @@
+2025-09-04 14:28:20,009 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-09-04 14:28:20,010 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE FSOT SYSTEM DEBUG
+2025-09-04 14:28:20,010 - __main__ - INFO - ============================================================
+2025-09-04 14:28:20,010 - __main__ - INFO - 
+📁 PHASE 1: FILE INTEGRITY CHECK
+2025-09-04 14:28:20,010 - __main__ - INFO - 🔍 CHECKING FILE INTEGRITY...
+2025-09-04 14:28:20,010 - __main__ - INFO - ✅ fsot_2_0_foundation.py exists
+2025-09-04 14:28:20,011 - __main__ - INFO - ✅ fsot_hardwiring.py exists
+2025-09-04 14:28:20,012 - __main__ - INFO - ✅ fsot_theoretical_integration.py exists
+2025-09-04 14:28:20,012 - __main__ - INFO - ✅ main.py exists
+2025-09-04 14:28:20,013 - __main__ - ERROR - ❌ config/system_config.json is missing!
+2025-09-04 14:28:20,013 - __main__ - INFO - ✅ brain/brain_orchestrator.py exists
+2025-09-04 14:28:20,013 - __main__ - INFO - ✅ integration/__init__.py exists
+2025-09-04 14:28:20,013 - __main__ - INFO - 
+📦 PHASE 2: IMPORT TESTING
+2025-09-04 14:28:20,013 - __main__ - INFO - 🔍 DEBUGGING SYSTEM IMPORTS...
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO - 🔬 FSOT 2.0 Core initialized - Universal laws active
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO - 🔒 FSOT 2.0 Global Enforcement ACTIVATED
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO -     All system components now hardwired to FSOT principles
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO - 🌟 FSOT 2.0 Theoretical Foundation HARDWIRED
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO -     Golden Ratio (φ): 1.6180339887
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO -     Consciousness Factor: 0.288000
+2025-09-04 14:28:20,124 - fsot_2_0_foundation - INFO -     Universal Scaling (k): 0.4202216642
+2025-09-04 14:28:20,125 - fsot_2_0_foundation - INFO -     Dimensional Range: [4, 25]
+2025-09-04 14:28:20,125 - fsot_2_0_foundation - INFO -     🔒 ALL FUTURE OPERATIONS MUST COMPLY WITH THESE PRINCIPLES
+2025-09-04 14:28:20,125 - __main__ - INFO - ✅ FSOT 2.0 Foundation imported successfully
+2025-09-04 14:28:20,130 - fsot.enforcement - INFO - 🔒 FSOT 2.0 Enforcement System ACTIVE
+2025-09-04 14:28:20,130 - fsot.activation - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVATED
+2025-09-04 14:28:20,130 - fsot.activation - INFO -    Hardwired modules: {}
+2025-09-04 14:28:20,131 - fsot.activation - INFO -    🌟 ALL SYSTEM OPERATIONS NOW ENFORCE FSOT 2.0 PRINCIPLES
+2025-09-04 14:28:20,131 - fsot.activation - INFO -    ⚠️  VIOLATIONS WILL BE AUTOMATICALLY DETECTED AND BLOCKED
+2025-09-04 14:28:20,131 - __main__ - INFO - ✅ FSOT Hardwiring imported successfully
+2025-09-04 14:28:20,133 - __main__ - INFO - ✅ FSOT Theoretical Integration imported successfully
+2025-09-04 14:28:20,160 - __main__ - INFO - ✅ Brain Orchestrator imported successfully
+2025-09-04 14:28:20,726 - htmldate.validators - DEBUG - minimum date setting: 1995-01-01 00:00:00
+2025-09-04 14:28:20,815 - __main__ - INFO - ✅ Integration System imported successfully
+2025-09-04 14:28:20,815 - __main__ - INFO - ✅ Core components imported successfully
+2025-09-04 14:28:20,817 - utils.memory_manager - INFO - 🧠 FSOT Memory Manager initialized
+2025-09-04 14:28:20,817 - __main__ - INFO - ✅ Utilities imported successfully
+2025-09-04 14:28:20,834 - __main__ - INFO - ✅ Config imported successfully
+2025-09-04 14:28:20,834 - __main__ - INFO - 
+🔬 PHASE 3: FSOT CORE TESTING
+2025-09-04 14:28:20,834 - __main__ - INFO - 🔍 DEBUGGING FSOT 2.0 CORE...
+2025-09-04 14:28:20,834 - __main__ - INFO - ✅ FSOT Core initialized successfully
+2025-09-04 14:28:20,835 - __main__ - INFO - 📊 FSOT Constants:
+2025-09-04 14:28:20,835 - __main__ - INFO -    φ (Golden Ratio): 1.6180339887
+2025-09-04 14:28:20,835 - __main__ - INFO -    Consciousness Factor: 0.288000
+2025-09-04 14:28:20,835 - __main__ - INFO -    Max Dimensions: 25
+2025-09-04 14:28:20,835 - __main__ - INFO - ✅ Universal scalar calculated: 0.936799
+2025-09-04 14:28:20,836 - __main__ - INFO - 📈 FSOT System Health: {'total_calculations': 1, 'violation_count': 0, 'violation_rate': 0.0, 'theoretical_integrity': True, 'fsot_version': '2.0', 'constants_verified': True, 'dimensional_limits': [4, 25], 'consciousness_factor': 0.288, 'universal_scaling': 0.4202216641606967}
+2025-09-04 14:28:20,836 - __main__ - INFO - 
+🧠 PHASE 4: BRAIN MODULES TESTING
+2025-09-04 14:28:20,836 - __main__ - INFO - 🔍 DEBUGGING BRAIN MODULES...
+2025-09-04 14:28:20,836 - __main__ - INFO - ✅ Brain Orchestrator initialized successfully
+2025-09-04 14:28:20,836 - __main__ - INFO - 🧠 Available Brain Modules: 0
+2025-09-04 14:28:20,836 - __main__ - INFO - 
+🔌 PHASE 5: INTEGRATION SYSTEM TESTING
+2025-09-04 14:28:20,836 - __main__ - INFO - 🔍 DEBUGGING INTEGRATION SYSTEM...
+2025-09-04 14:28:20,836 - integration.integration_manager - INFO - Initializing Enhanced FSOT 2.0 Integration...
+2025-09-04 14:28:20,838 - integration.free_api_manager - INFO - Free API Manager initialized
+2025-09-04 14:28:20,838 - integration.api_manager - INFO - Free API manager configured as fallback
+2025-09-04 14:28:20,840 - integration.free_web_search_engine - INFO - Free Web Search Engine initialized
+2025-09-04 14:28:20,840 - integration.web_search_engine - INFO - Free web search engine configured as fallback
+2025-09-04 14:28:20,840 - integration.autonomous_learning - INFO - Loaded knowledge state: 0 concepts
+2025-09-04 14:28:20,841 - integration.skills_database - INFO - Loaded 13 skills from database
+2025-09-04 14:28:20,842 - integration.integration_manager - INFO - Enhanced FSOT 2.0 Integration initialized successfully
+2025-09-04 14:28:20,842 - __main__ - INFO - ✅ Integration System initialized successfully
+2025-09-04 14:28:20,842 - __main__ - INFO - 🔌 API Status: {'system_info': {'initialized': True, 'uptime': '0:00:00.005651', 'learning_active': False, 'training_active': False}, 'api_status': {'openai': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'github': {'enabled': '', 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'wolfram': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'huggingface': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'google_custom_search': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'serpapi': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'free_mode': {'enabled': '', 'configured': False, 'rate_limit_status': None}}, 'learning_status': {'total_concepts': 0, 'average_mastery': np.float64(0.0), 'domains': {'technology': {'name': 'Technology', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.7, 'last_updated': '2025-09-04T14:28:20.840575'}, 'science': {'name': 'Science', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.8, 'last_updated': '2025-09-04T14:28:20.840579'}, 'health': {'name': 'Health & Medicine', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.75, 'last_updated': '2025-09-04T14:28:20.840580'}, 'business': {'name': 'Business & Economics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.6, 'last_updated': '2025-09-04T14:28:20.840581'}, 'society': {'name': 'Society & Culture', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.65, 'last_updated': '2025-09-04T14:28:20.840581'}, 'mathematics': {'name': 'Mathematics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.85, 'last_updated': '2025-09-04T14:28:20.840582'}, 'neuroscience': {'name': 'Neuroscience', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.9, 'last_updated': '2025-09-04T14:28:20.840583'}}, 'learning_sessions': 0, 'last_learning': None}, 'skills_status': {'total_skills': 13, 'average_proficiency': 0.011945063669754324, 'skills_mastered': 0, 'total_practice_time': 275, 'category_breakdown': {'analytical': {'count': 2, 'average_proficiency': 0.013835855870654449, 'mastered': 0}, 'creative': {'count': 2, 'average_proficiency': 0.011516656529179325, 'mastered': 0}, 'memory': {'count': 2, 'average_proficiency': 0.010311751453567539, 'mastered': 0}, 'emotional': {'count': 1, 'average_proficiency': 0.010975878327546297, 'mastered': 0}, 'linguistic': {'count': 2, 'average_proficiency': 0.010708750887586806, 'mastered': 0}, 'spatial': {'count': 2, 'average_proficiency': 0.011460203045703124, 'mastered': 0}, 'logical': {'count': 1, 'average_proficiency': 0.011671083201316549, 'mastered': 0}, 'social': {'count': 1, 'average_proficiency': 0.01697243060456089, 'mastered': 0}}, 'most_practiced_skill': 'Social Interaction', 'highest_proficiency_skill': 'Social Interaction'}, 'training_status': {'total_sessions': 0}, 'search_status': {'total_searches': 0}}
+2025-09-04 14:28:20,842 - __main__ - INFO - 🎯 Skills Status: Skills system operational
+2025-09-04 14:28:20,843 - __main__ - INFO - 
+💾 PHASE 6: MEMORY SYSTEM TESTING
+2025-09-04 14:28:20,843 - __main__ - INFO - 🔍 DEBUGGING MEMORY SYSTEM...
+2025-09-04 14:28:20,843 - __main__ - INFO - 💾 Memory Status: {'memory_stats': {'total_gb': 31.64620590209961, 'available_gb': 17.140823364257812, 'used_gb': 14.505382537841797, 'percentage': 45.8, 'status': 'safe'}, 'monitoring_active': False, 'optimization_count': 0, 'last_optimization': None, 'optimizers_count': 1}
+2025-09-04 14:28:20,843 - __main__ - INFO - 
+🌟 PHASE 7: CONSCIOUSNESS SYSTEM TESTING
+2025-09-04 14:28:20,843 - __main__ - INFO - 🔍 DEBUGGING CONSCIOUSNESS SYSTEM...
+2025-09-04 14:28:20,843 - __main__ - INFO - 🌟 Consciousness State: {'consciousness_level': 0.0, 'state': 'inactive', 'coherence': 0.0, 'attention_focus': 0.0, 'awareness_breadth': 0.0, 'processing_depth': 0.0, 'brain_waves': {'alpha': 0.0, 'beta': 0.0, 'theta': 0.0, 'delta': 0.0, 'gamma': 0.0}, 'region_contributions': {}, 'signal_activity': {}, 'processing_load': 0.0}
+2025-09-04 14:28:20,843 - __main__ - INFO - 
+🎯 PHASE 8: MAIN SYSTEM TESTING
+2025-09-04 14:28:20,844 - __main__ - INFO - 🔍 DEBUGGING MAIN SYSTEM INITIALIZATION...
+2025-09-04 14:28:20,850 - main - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVE - All operations enforced
+2025-09-04 14:28:21,171 - main - INFO - ✅ FSOT 2.0 Theoretical Framework hardwired successfully
+2025-09-04 14:28:21,172 - fsot.FSOTNeuromorphicSystem - INFO - FSOT Component 'FSOTNeuromorphicSystem' initialized: D_eff=12, Scalar=0.936799, Mode=EMERGING
+2025-09-04 14:28:21,172 - main - INFO - 🔬 FSOT 2.0 System initialized: D_eff=12, Scalar=0.936799, Consciousness=0.651413
+2025-09-04 14:28:21,173 - __main__ - INFO - ✅ Main system initialized successfully
+2025-09-04 14:28:21,173 - __main__ - INFO - 🔒 FSOT Status: {'name': 'FSOTNeuromorphicSystem', 'domain': 'AI_TECH', 'd_eff': 12, 'fsot_scalar': 0.9367986854777383, 'emergence_mode': True, 'damping_mode': False, 'theoretical_alignment': True, 'consciousness_factor': 0.288}
+2025-09-04 14:28:21,173 - __main__ - INFO - 
+📊 DEBUG SUMMARY
+2025-09-04 14:28:21,173 - __main__ - INFO - ============================================================
+2025-09-04 14:28:21,173 - __main__ - INFO - file_integrity.fsot_2_0_foundation.py: ✅ EXISTS (22356 bytes)
+2025-09-04 14:28:21,173 - __main__ - INFO - file_integrity.fsot_hardwiring.py: ✅ EXISTS (29260 bytes)
+2025-09-04 14:28:21,173 - __main__ - INFO - file_integrity.fsot_theoretical_integration.py: ✅ EXISTS (17022 bytes)
+2025-09-04 14:28:21,173 - __main__ - INFO - file_integrity.main.py: ✅ EXISTS (25788 bytes)
+2025-09-04 14:28:21,174 - __main__ - INFO - file_integrity.config/system_config.json: ❌ MISSING
+2025-09-04 14:28:21,174 - __main__ - INFO - file_integrity.brain/brain_orchestrator.py: ✅ EXISTS (13866 bytes)
+2025-09-04 14:28:21,174 - __main__ - INFO - file_integrity.integration/__init__.py: ✅ EXISTS (1716 bytes)
+2025-09-04 14:28:21,174 - __main__ - INFO - imports.fsot_foundation: ✅ SUCCESS
+2025-09-04 14:28:21,174 - __main__ - INFO - imports.fsot_hardwiring: ✅ SUCCESS
+2025-09-04 14:28:21,174 - __main__ - INFO - imports.fsot_theory: ✅ SUCCESS
+2025-09-04 14:28:21,174 - __main__ - INFO - imports.brain_orchestrator: ✅ SUCCESS
+2025-09-04 14:28:21,175 - __main__ - INFO - imports.integration: ✅ SUCCESS
+2025-09-04 14:28:21,175 - __main__ - INFO - imports.core: ✅ SUCCESS
+2025-09-04 14:28:21,175 - __main__ - INFO - imports.utils: ✅ SUCCESS
+2025-09-04 14:28:21,175 - __main__ - INFO - imports.config: ✅ SUCCESS
+2025-09-04 14:28:21,175 - __main__ - INFO - fsot_core: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - brain_modules: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - integration: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - memory: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - consciousness: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - main_system: ✅ PASSED
+2025-09-04 14:28:21,175 - __main__ - INFO - 
+🎯 FINAL RESULTS
+2025-09-04 14:28:21,176 - __main__ - INFO - ============================================================
+2025-09-04 14:28:21,176 - __main__ - INFO - Tests Passed: 20/21
+2025-09-04 14:28:21,176 - __main__ - INFO - Success Rate: 95.2%
+2025-09-04 14:28:21,176 - __main__ - INFO - 🎉 SYSTEM STATUS: EXCELLENT
+2025-09-04 14:36:06,627 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-09-04 14:36:06,629 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE FSOT SYSTEM DEBUG
+2025-09-04 14:36:06,629 - __main__ - INFO - ============================================================
+2025-09-04 14:36:06,629 - __main__ - INFO - 
+📁 PHASE 1: FILE INTEGRITY CHECK
+2025-09-04 14:36:06,629 - __main__ - INFO - 🔍 CHECKING FILE INTEGRITY...
+2025-09-04 14:36:06,629 - __main__ - INFO - ✅ fsot_2_0_foundation.py exists
+2025-09-04 14:36:06,630 - __main__ - INFO - ✅ fsot_hardwiring.py exists
+2025-09-04 14:36:06,630 - __main__ - INFO - ✅ fsot_theoretical_integration.py exists
+2025-09-04 14:36:06,630 - __main__ - INFO - ✅ main.py exists
+2025-09-04 14:36:06,630 - __main__ - ERROR - ❌ config/system_config.json is missing!
+2025-09-04 14:36:06,631 - __main__ - INFO - ✅ brain/brain_orchestrator.py exists
+2025-09-04 14:36:06,631 - __main__ - INFO - ✅ integration/__init__.py exists
+2025-09-04 14:36:06,631 - __main__ - INFO - 
+📦 PHASE 2: IMPORT TESTING
+2025-09-04 14:36:06,631 - __main__ - INFO - 🔍 DEBUGGING SYSTEM IMPORTS...
+2025-09-04 14:36:06,732 - fsot_2_0_foundation - INFO - 🔬 FSOT 2.0 Core initialized - Universal laws active
+2025-09-04 14:36:06,732 - fsot_2_0_foundation - INFO - 🔒 FSOT 2.0 Global Enforcement ACTIVATED
+2025-09-04 14:36:06,732 - fsot_2_0_foundation - INFO -     All system components now hardwired to FSOT principles
+2025-09-04 14:36:06,732 - fsot_2_0_foundation - INFO - 🌟 FSOT 2.0 Theoretical Foundation HARDWIRED
+2025-09-04 14:36:06,732 - fsot_2_0_foundation - INFO -     Golden Ratio (φ): 1.6180339887
+2025-09-04 14:36:06,733 - fsot_2_0_foundation - INFO -     Consciousness Factor: 0.288000
+2025-09-04 14:36:06,733 - fsot_2_0_foundation - INFO -     Universal Scaling (k): 0.4202216642
+2025-09-04 14:36:06,733 - fsot_2_0_foundation - INFO -     Dimensional Range: [4, 25]
+2025-09-04 14:36:06,733 - fsot_2_0_foundation - INFO -     🔒 ALL FUTURE OPERATIONS MUST COMPLY WITH THESE PRINCIPLES
+2025-09-04 14:36:06,733 - __main__ - INFO - ✅ FSOT 2.0 Foundation imported successfully
+2025-09-04 14:36:06,738 - fsot.enforcement - INFO - 🔒 FSOT 2.0 Enforcement System ACTIVE
+2025-09-04 14:36:06,738 - fsot.activation - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVATED
+2025-09-04 14:36:06,738 - fsot.activation - INFO -    Hardwired modules: {}
+2025-09-04 14:36:06,738 - fsot.activation - INFO -    🌟 ALL SYSTEM OPERATIONS NOW ENFORCE FSOT 2.0 PRINCIPLES
+2025-09-04 14:36:06,738 - fsot.activation - INFO -    ⚠️  VIOLATIONS WILL BE AUTOMATICALLY DETECTED AND BLOCKED
+2025-09-04 14:36:06,739 - __main__ - INFO - ✅ FSOT Hardwiring imported successfully
+2025-09-04 14:36:06,741 - __main__ - INFO - ✅ FSOT Theoretical Integration imported successfully
+2025-09-04 14:36:06,767 - __main__ - INFO - ✅ Brain Orchestrator imported successfully
+2025-09-04 14:36:07,315 - htmldate.validators - DEBUG - minimum date setting: 1995-01-01 00:00:00
+2025-09-04 14:36:07,400 - __main__ - INFO - ✅ Integration System imported successfully
+2025-09-04 14:36:07,401 - __main__ - INFO - ✅ Core components imported successfully
+2025-09-04 14:36:07,403 - utils.memory_manager - INFO - 🧠 FSOT Memory Manager initialized
+2025-09-04 14:36:07,403 - __main__ - INFO - ✅ Utilities imported successfully
+2025-09-04 14:36:07,421 - __main__ - INFO - ✅ Config imported successfully
+2025-09-04 14:36:07,421 - __main__ - INFO - 
+🔬 PHASE 3: FSOT CORE TESTING
+2025-09-04 14:36:07,421 - __main__ - INFO - 🔍 DEBUGGING FSOT 2.0 CORE...
+2025-09-04 14:36:07,421 - __main__ - INFO - ✅ FSOT Core initialized successfully
+2025-09-04 14:36:07,421 - __main__ - INFO - 📊 FSOT Constants:
+2025-09-04 14:36:07,421 - __main__ - INFO -    φ (Golden Ratio): 1.6180339887
+2025-09-04 14:36:07,421 - __main__ - INFO -    Consciousness Factor: 0.288000
+2025-09-04 14:36:07,421 - __main__ - INFO -    Max Dimensions: 25
+2025-09-04 14:36:07,423 - __main__ - INFO - ✅ Universal scalar calculated: 0.936799
+2025-09-04 14:36:07,423 - __main__ - INFO - 📈 FSOT System Health: {'total_calculations': 1, 'violation_count': 0, 'violation_rate': 0.0, 'theoretical_integrity': True, 'fsot_version': '2.0', 'constants_verified': True, 'dimensional_limits': [4, 25], 'consciousness_factor': 0.288, 'universal_scaling': 0.4202216641606967}
+2025-09-04 14:36:07,423 - __main__ - INFO - 
+🧠 PHASE 4: BRAIN MODULES TESTING
+2025-09-04 14:36:07,423 - __main__ - INFO - 🔍 DEBUGGING BRAIN MODULES...
+2025-09-04 14:36:07,423 - __main__ - INFO - ✅ Brain Orchestrator initialized successfully
+2025-09-04 14:36:07,423 - __main__ - INFO - 🧠 Available Brain Modules: 0
+2025-09-04 14:36:07,423 - __main__ - INFO - 
+🔌 PHASE 5: INTEGRATION SYSTEM TESTING
+2025-09-04 14:36:07,424 - __main__ - INFO - 🔍 DEBUGGING INTEGRATION SYSTEM...
+2025-09-04 14:36:07,424 - integration.integration_manager - INFO - Initializing Enhanced FSOT 2.0 Integration...
+2025-09-04 14:36:07,425 - integration.free_api_manager - INFO - Free API Manager initialized
+2025-09-04 14:36:07,425 - integration.api_manager - INFO - Free API manager configured as fallback
+2025-09-04 14:36:07,427 - integration.free_web_search_engine - INFO - Free Web Search Engine initialized
+2025-09-04 14:36:07,427 - integration.web_search_engine - INFO - Free web search engine configured as fallback
+2025-09-04 14:36:07,428 - integration.autonomous_learning - INFO - Loaded knowledge state: 0 concepts
+2025-09-04 14:36:07,428 - integration.skills_database - INFO - Loaded 13 skills from database
+2025-09-04 14:36:07,428 - integration.integration_manager - INFO - Enhanced FSOT 2.0 Integration initialized successfully
+2025-09-04 14:36:07,429 - __main__ - INFO - ✅ Integration System initialized successfully
+2025-09-04 14:36:07,429 - __main__ - INFO - 🔌 API Status: {'system_info': {'initialized': True, 'uptime': '0:00:00.005285', 'learning_active': False, 'training_active': False}, 'api_status': {'openai': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'github': {'enabled': '', 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'wolfram': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'huggingface': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'google_custom_search': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'serpapi': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'free_mode': {'enabled': '', 'configured': False, 'rate_limit_status': None}}, 'learning_status': {'total_concepts': 0, 'average_mastery': np.float64(0.0), 'domains': {'technology': {'name': 'Technology', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.7, 'last_updated': '2025-09-04T14:36:07.427790'}, 'science': {'name': 'Science', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.8, 'last_updated': '2025-09-04T14:36:07.427794'}, 'health': {'name': 'Health & Medicine', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.75, 'last_updated': '2025-09-04T14:36:07.427796'}, 'business': {'name': 'Business & Economics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.6, 'last_updated': '2025-09-04T14:36:07.427798'}, 'society': {'name': 'Society & Culture', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.65, 'last_updated': '2025-09-04T14:36:07.427799'}, 'mathematics': {'name': 'Mathematics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.85, 'last_updated': '2025-09-04T14:36:07.427801'}, 'neuroscience': {'name': 'Neuroscience', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.9, 'last_updated': '2025-09-04T14:36:07.427802'}}, 'learning_sessions': 0, 'last_learning': None}, 'skills_status': {'total_skills': 13, 'average_proficiency': 0.011945063669754324, 'skills_mastered': 0, 'total_practice_time': 275, 'category_breakdown': {'analytical': {'count': 2, 'average_proficiency': 0.013835855870654449, 'mastered': 0}, 'creative': {'count': 2, 'average_proficiency': 0.011516656529179325, 'mastered': 0}, 'memory': {'count': 2, 'average_proficiency': 0.010311751453567539, 'mastered': 0}, 'emotional': {'count': 1, 'average_proficiency': 0.010975878327546297, 'mastered': 0}, 'linguistic': {'count': 2, 'average_proficiency': 0.010708750887586806, 'mastered': 0}, 'spatial': {'count': 2, 'average_proficiency': 0.011460203045703124, 'mastered': 0}, 'logical': {'count': 1, 'average_proficiency': 0.011671083201316549, 'mastered': 0}, 'social': {'count': 1, 'average_proficiency': 0.01697243060456089, 'mastered': 0}}, 'most_practiced_skill': 'Social Interaction', 'highest_proficiency_skill': 'Social Interaction'}, 'training_status': {'total_sessions': 0}, 'search_status': {'total_searches': 0}}
+2025-09-04 14:36:07,429 - __main__ - INFO - 🎯 Skills Status: Skills system operational
+2025-09-04 14:36:07,430 - __main__ - INFO - 
+💾 PHASE 6: MEMORY SYSTEM TESTING
+2025-09-04 14:36:07,430 - __main__ - INFO - 🔍 DEBUGGING MEMORY SYSTEM...
+2025-09-04 14:36:07,430 - __main__ - INFO - 💾 Memory Status: {'memory_stats': {'total_gb': 31.64620590209961, 'available_gb': 16.185836791992188, 'used_gb': 15.460369110107422, 'percentage': 48.9, 'status': 'safe'}, 'monitoring_active': False, 'optimization_count': 0, 'last_optimization': None, 'optimizers_count': 1}
+2025-09-04 14:36:07,430 - __main__ - INFO - 
+🌟 PHASE 7: CONSCIOUSNESS SYSTEM TESTING
+2025-09-04 14:36:07,431 - __main__ - INFO - 🔍 DEBUGGING CONSCIOUSNESS SYSTEM...
+2025-09-04 14:36:07,431 - __main__ - INFO - 🌟 Consciousness State: {'consciousness_level': 0.0, 'state': 'inactive', 'coherence': 0.0, 'attention_focus': 0.0, 'awareness_breadth': 0.0, 'processing_depth': 0.0, 'brain_waves': {'alpha': 0.0, 'beta': 0.0, 'theta': 0.0, 'delta': 0.0, 'gamma': 0.0}, 'region_contributions': {}, 'signal_activity': {}, 'processing_load': 0.0}
+2025-09-04 14:36:07,431 - __main__ - INFO - 
+🎯 PHASE 8: MAIN SYSTEM TESTING
+2025-09-04 14:36:07,431 - __main__ - INFO - 🔍 DEBUGGING MAIN SYSTEM INITIALIZATION...
+2025-09-04 14:36:07,439 - main - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVE - All operations enforced
+2025-09-04 14:36:07,758 - main - INFO - ✅ FSOT 2.0 Theoretical Framework hardwired successfully
+2025-09-04 14:36:07,758 - fsot.FSOTNeuromorphicSystem - INFO - FSOT Component 'FSOTNeuromorphicSystem' initialized: D_eff=12, Scalar=0.936799, Mode=EMERGING
+2025-09-04 14:36:07,759 - main - INFO - 🔬 FSOT 2.0 System initialized: D_eff=12, Scalar=0.936799, Consciousness=0.651413
+2025-09-04 14:36:07,759 - __main__ - INFO - ✅ Main system initialized successfully
+2025-09-04 14:36:07,759 - __main__ - INFO - 🔒 FSOT Status: {'name': 'FSOTNeuromorphicSystem', 'domain': 'AI_TECH', 'd_eff': 12, 'fsot_scalar': 0.9367986854777383, 'emergence_mode': True, 'damping_mode': False, 'theoretical_alignment': True, 'consciousness_factor': 0.288}
+2025-09-04 14:36:07,759 - __main__ - INFO - 
+📊 DEBUG SUMMARY
+2025-09-04 14:36:07,760 - __main__ - INFO - ============================================================
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.fsot_2_0_foundation.py: ✅ EXISTS (22356 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.fsot_hardwiring.py: ✅ EXISTS (29260 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.fsot_theoretical_integration.py: ✅ EXISTS (17022 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.main.py: ✅ EXISTS (27625 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.config/system_config.json: ❌ MISSING
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.brain/brain_orchestrator.py: ✅ EXISTS (13866 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - file_integrity.integration/__init__.py: ✅ EXISTS (1716 bytes)
+2025-09-04 14:36:07,760 - __main__ - INFO - imports.fsot_foundation: ✅ SUCCESS
+2025-09-04 14:36:07,760 - __main__ - INFO - imports.fsot_hardwiring: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.fsot_theory: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.brain_orchestrator: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.integration: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.core: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.utils: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - imports.config: ✅ SUCCESS
+2025-09-04 14:36:07,761 - __main__ - INFO - fsot_core: ✅ PASSED
+2025-09-04 14:36:07,761 - __main__ - INFO - brain_modules: ✅ PASSED
+2025-09-04 14:36:07,761 - __main__ - INFO - integration: ✅ PASSED
+2025-09-04 14:36:07,761 - __main__ - INFO - memory: ✅ PASSED
+2025-09-04 14:36:07,761 - __main__ - INFO - consciousness: ✅ PASSED
+2025-09-04 14:36:07,762 - __main__ - INFO - main_system: ✅ PASSED
+2025-09-04 14:36:07,762 - __main__ - INFO - 
+🎯 FINAL RESULTS
+2025-09-04 14:36:07,762 - __main__ - INFO - ============================================================
+2025-09-04 14:36:07,762 - __main__ - INFO - Tests Passed: 20/21
+2025-09-04 14:36:07,762 - __main__ - INFO - Success Rate: 95.2%
+2025-09-04 14:36:07,762 - __main__ - INFO - 🎉 SYSTEM STATUS: EXCELLENT
+2025-09-04 14:38:14,876 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-09-04 14:38:14,877 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE FSOT SYSTEM DEBUG
+2025-09-04 14:38:14,877 - __main__ - INFO - ============================================================
+2025-09-04 14:38:14,877 - __main__ - INFO - 
+📁 PHASE 1: FILE INTEGRITY CHECK
+2025-09-04 14:38:14,878 - __main__ - INFO - 🔍 CHECKING FILE INTEGRITY...
+2025-09-04 14:38:14,878 - __main__ - INFO - ✅ fsot_2_0_foundation.py exists
+2025-09-04 14:38:14,878 - __main__ - INFO - ✅ fsot_hardwiring.py exists
+2025-09-04 14:38:14,879 - __main__ - INFO - ✅ fsot_theoretical_integration.py exists
+2025-09-04 14:38:14,879 - __main__ - INFO - ✅ main.py exists
+2025-09-04 14:38:14,879 - __main__ - INFO - ✅ config/system_config.json exists
+2025-09-04 14:38:14,879 - __main__ - INFO - ✅ brain/brain_orchestrator.py exists
+2025-09-04 14:38:14,880 - __main__ - INFO - ✅ integration/__init__.py exists
+2025-09-04 14:38:14,880 - __main__ - INFO - 
+📦 PHASE 2: IMPORT TESTING
+2025-09-04 14:38:14,880 - __main__ - INFO - 🔍 DEBUGGING SYSTEM IMPORTS...
+2025-09-04 14:38:14,991 - fsot_2_0_foundation - INFO - 🔬 FSOT 2.0 Core initialized - Universal laws active
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO - 🔒 FSOT 2.0 Global Enforcement ACTIVATED
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO -     All system components now hardwired to FSOT principles
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO - 🌟 FSOT 2.0 Theoretical Foundation HARDWIRED
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO -     Golden Ratio (φ): 1.6180339887
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO -     Consciousness Factor: 0.288000
+2025-09-04 14:38:14,992 - fsot_2_0_foundation - INFO -     Universal Scaling (k): 0.4202216642
+2025-09-04 14:38:14,993 - fsot_2_0_foundation - INFO -     Dimensional Range: [4, 25]
+2025-09-04 14:38:14,993 - fsot_2_0_foundation - INFO -     🔒 ALL FUTURE OPERATIONS MUST COMPLY WITH THESE PRINCIPLES
+2025-09-04 14:38:14,993 - __main__ - INFO - ✅ FSOT 2.0 Foundation imported successfully
+2025-09-04 14:38:14,998 - fsot.enforcement - INFO - 🔒 FSOT 2.0 Enforcement System ACTIVE
+2025-09-04 14:38:14,998 - fsot.activation - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVATED
+2025-09-04 14:38:14,999 - fsot.activation - INFO -    Hardwired modules: {}
+2025-09-04 14:38:14,999 - fsot.activation - INFO -    🌟 ALL SYSTEM OPERATIONS NOW ENFORCE FSOT 2.0 PRINCIPLES
+2025-09-04 14:38:14,999 - fsot.activation - INFO -    ⚠️  VIOLATIONS WILL BE AUTOMATICALLY DETECTED AND BLOCKED
+2025-09-04 14:38:14,999 - __main__ - INFO - ✅ FSOT Hardwiring imported successfully
+2025-09-04 14:38:15,001 - __main__ - INFO - ✅ FSOT Theoretical Integration imported successfully
+2025-09-04 14:38:15,030 - __main__ - INFO - ✅ Brain Orchestrator imported successfully
+2025-09-04 14:38:15,619 - htmldate.validators - DEBUG - minimum date setting: 1995-01-01 00:00:00
+2025-09-04 14:38:15,706 - __main__ - INFO - ✅ Integration System imported successfully
+2025-09-04 14:38:15,706 - __main__ - INFO - ✅ Core components imported successfully
+2025-09-04 14:38:15,707 - utils.memory_manager - INFO - 🧠 FSOT Memory Manager initialized
+2025-09-04 14:38:15,708 - __main__ - INFO - ✅ Utilities imported successfully
+2025-09-04 14:38:15,725 - __main__ - INFO - ✅ Config imported successfully
+2025-09-04 14:38:15,726 - __main__ - INFO - 
+🔬 PHASE 3: FSOT CORE TESTING
+2025-09-04 14:38:15,726 - __main__ - INFO - 🔍 DEBUGGING FSOT 2.0 CORE...
+2025-09-04 14:38:15,726 - __main__ - INFO - ✅ FSOT Core initialized successfully
+2025-09-04 14:38:15,726 - __main__ - INFO - 📊 FSOT Constants:
+2025-09-04 14:38:15,726 - __main__ - INFO -    φ (Golden Ratio): 1.6180339887
+2025-09-04 14:38:15,727 - __main__ - INFO -    Consciousness Factor: 0.288000
+2025-09-04 14:38:15,727 - __main__ - INFO -    Max Dimensions: 25
+2025-09-04 14:38:15,727 - __main__ - INFO - ✅ Universal scalar calculated: 0.936799
+2025-09-04 14:38:15,727 - __main__ - INFO - 📈 FSOT System Health: {'total_calculations': 1, 'violation_count': 0, 'violation_rate': 0.0, 'theoretical_integrity': True, 'fsot_version': '2.0', 'constants_verified': True, 'dimensional_limits': [4, 25], 'consciousness_factor': 0.288, 'universal_scaling': 0.4202216641606967}
+2025-09-04 14:38:15,728 - __main__ - INFO - 
+🧠 PHASE 4: BRAIN MODULES TESTING
+2025-09-04 14:38:15,728 - __main__ - INFO - 🔍 DEBUGGING BRAIN MODULES...
+2025-09-04 14:38:15,728 - __main__ - INFO - ✅ Brain Orchestrator initialized successfully
+2025-09-04 14:38:15,728 - __main__ - INFO - 🧠 Available Brain Modules: 0
+2025-09-04 14:38:15,728 - __main__ - INFO - 
+🔌 PHASE 5: INTEGRATION SYSTEM TESTING
+2025-09-04 14:38:15,728 - __main__ - INFO - 🔍 DEBUGGING INTEGRATION SYSTEM...
+2025-09-04 14:38:15,728 - integration.integration_manager - INFO - Initializing Enhanced FSOT 2.0 Integration...
+2025-09-04 14:38:15,730 - integration.free_api_manager - INFO - Free API Manager initialized
+2025-09-04 14:38:15,730 - integration.api_manager - INFO - Free API manager configured as fallback
+2025-09-04 14:38:15,732 - integration.free_web_search_engine - INFO - Free Web Search Engine initialized
+2025-09-04 14:38:15,732 - integration.web_search_engine - INFO - Free web search engine configured as fallback
+2025-09-04 14:38:15,732 - integration.autonomous_learning - INFO - Loaded knowledge state: 0 concepts
+2025-09-04 14:38:15,733 - integration.skills_database - INFO - Loaded 13 skills from database
+2025-09-04 14:38:15,733 - integration.integration_manager - INFO - Enhanced FSOT 2.0 Integration initialized successfully
+2025-09-04 14:38:15,733 - __main__ - INFO - ✅ Integration System initialized successfully
+2025-09-04 14:38:15,734 - __main__ - INFO - 🔌 API Status: {'system_info': {'initialized': True, 'uptime': '0:00:00.005654', 'learning_active': False, 'training_active': False}, 'api_status': {'openai': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'github': {'enabled': '', 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'wolfram': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'huggingface': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'google_custom_search': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'serpapi': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'free_mode': {'enabled': '', 'configured': False, 'rate_limit_status': None}}, 'learning_status': {'total_concepts': 0, 'average_mastery': np.float64(0.0), 'domains': {'technology': {'name': 'Technology', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.7, 'last_updated': '2025-09-04T14:38:15.732331'}, 'science': {'name': 'Science', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.8, 'last_updated': '2025-09-04T14:38:15.732336'}, 'health': {'name': 'Health & Medicine', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.75, 'last_updated': '2025-09-04T14:38:15.732337'}, 'business': {'name': 'Business & Economics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.6, 'last_updated': '2025-09-04T14:38:15.732339'}, 'society': {'name': 'Society & Culture', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.65, 'last_updated': '2025-09-04T14:38:15.732340'}, 'mathematics': {'name': 'Mathematics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.85, 'last_updated': '2025-09-04T14:38:15.732341'}, 'neuroscience': {'name': 'Neuroscience', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.9, 'last_updated': '2025-09-04T14:38:15.732342'}}, 'learning_sessions': 0, 'last_learning': None}, 'skills_status': {'total_skills': 13, 'average_proficiency': 0.011945063669754324, 'skills_mastered': 0, 'total_practice_time': 275, 'category_breakdown': {'analytical': {'count': 2, 'average_proficiency': 0.013835855870654449, 'mastered': 0}, 'creative': {'count': 2, 'average_proficiency': 0.011516656529179325, 'mastered': 0}, 'memory': {'count': 2, 'average_proficiency': 0.010311751453567539, 'mastered': 0}, 'emotional': {'count': 1, 'average_proficiency': 0.010975878327546297, 'mastered': 0}, 'linguistic': {'count': 2, 'average_proficiency': 0.010708750887586806, 'mastered': 0}, 'spatial': {'count': 2, 'average_proficiency': 0.011460203045703124, 'mastered': 0}, 'logical': {'count': 1, 'average_proficiency': 0.011671083201316549, 'mastered': 0}, 'social': {'count': 1, 'average_proficiency': 0.01697243060456089, 'mastered': 0}}, 'most_practiced_skill': 'Social Interaction', 'highest_proficiency_skill': 'Social Interaction'}, 'training_status': {'total_sessions': 0}, 'search_status': {'total_searches': 0}}
+2025-09-04 14:38:15,734 - __main__ - INFO - 🎯 Skills Status: Skills system operational
+2025-09-04 14:38:15,735 - __main__ - INFO - 
+💾 PHASE 6: MEMORY SYSTEM TESTING
+2025-09-04 14:38:15,735 - __main__ - INFO - 🔍 DEBUGGING MEMORY SYSTEM...
+2025-09-04 14:38:15,735 - __main__ - INFO - 💾 Memory Status: {'memory_stats': {'total_gb': 31.64620590209961, 'available_gb': 16.392887115478516, 'used_gb': 15.253318786621094, 'percentage': 48.2, 'status': 'safe'}, 'monitoring_active': False, 'optimization_count': 0, 'last_optimization': None, 'optimizers_count': 1}
+2025-09-04 14:38:15,736 - __main__ - INFO - 
+🌟 PHASE 7: CONSCIOUSNESS SYSTEM TESTING
+2025-09-04 14:38:15,736 - __main__ - INFO - 🔍 DEBUGGING CONSCIOUSNESS SYSTEM...
+2025-09-04 14:38:15,736 - __main__ - INFO - 🌟 Consciousness State: {'consciousness_level': 0.0, 'state': 'inactive', 'coherence': 0.0, 'attention_focus': 0.0, 'awareness_breadth': 0.0, 'processing_depth': 0.0, 'brain_waves': {'alpha': 0.0, 'beta': 0.0, 'theta': 0.0, 'delta': 0.0, 'gamma': 0.0}, 'region_contributions': {}, 'signal_activity': {}, 'processing_load': 0.0}
+2025-09-04 14:38:15,736 - __main__ - INFO - 
+🎯 PHASE 8: MAIN SYSTEM TESTING
+2025-09-04 14:38:15,736 - __main__ - INFO - 🔍 DEBUGGING MAIN SYSTEM INITIALIZATION...
+2025-09-04 14:38:15,737 - main - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVE - All operations enforced
+2025-09-04 14:38:16,051 - main - INFO - ✅ FSOT 2.0 Theoretical Framework hardwired successfully
+2025-09-04 14:38:16,052 - fsot.FSOTNeuromorphicSystem - INFO - FSOT Component 'FSOTNeuromorphicSystem' initialized: D_eff=12, Scalar=0.936799, Mode=EMERGING
+2025-09-04 14:38:16,052 - main - INFO - 🔬 FSOT 2.0 System initialized: D_eff=12, Scalar=0.936799, Consciousness=0.651413
+2025-09-04 14:38:16,053 - __main__ - INFO - ✅ Main system initialized successfully
+2025-09-04 14:38:16,053 - __main__ - INFO - 🔒 FSOT Status: {'name': 'FSOTNeuromorphicSystem', 'domain': 'AI_TECH', 'd_eff': 12, 'fsot_scalar': 0.9367986854777383, 'emergence_mode': True, 'damping_mode': False, 'theoretical_alignment': True, 'consciousness_factor': 0.288}
+2025-09-04 14:38:16,053 - __main__ - INFO - 
+📊 DEBUG SUMMARY
+2025-09-04 14:38:16,053 - __main__ - INFO - ============================================================
+2025-09-04 14:38:16,053 - __main__ - INFO - file_integrity.fsot_2_0_foundation.py: ✅ EXISTS (22356 bytes)
+2025-09-04 14:38:16,053 - __main__ - INFO - file_integrity.fsot_hardwiring.py: ✅ EXISTS (29260 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - file_integrity.fsot_theoretical_integration.py: ✅ EXISTS (17022 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - file_integrity.main.py: ✅ EXISTS (27625 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - file_integrity.config/system_config.json: ✅ EXISTS (2292 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - file_integrity.brain/brain_orchestrator.py: ✅ EXISTS (13866 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - file_integrity.integration/__init__.py: ✅ EXISTS (1716 bytes)
+2025-09-04 14:38:16,054 - __main__ - INFO - imports.fsot_foundation: ✅ SUCCESS
+2025-09-04 14:38:16,054 - __main__ - INFO - imports.fsot_hardwiring: ✅ SUCCESS
+2025-09-04 14:38:16,054 - __main__ - INFO - imports.fsot_theory: ✅ SUCCESS
+2025-09-04 14:38:16,054 - __main__ - INFO - imports.brain_orchestrator: ✅ SUCCESS
+2025-09-04 14:38:16,054 - __main__ - INFO - imports.integration: ✅ SUCCESS
+2025-09-04 14:38:16,055 - __main__ - INFO - imports.core: ✅ SUCCESS
+2025-09-04 14:38:16,055 - __main__ - INFO - imports.utils: ✅ SUCCESS
+2025-09-04 14:38:16,055 - __main__ - INFO - imports.config: ✅ SUCCESS
+2025-09-04 14:38:16,055 - __main__ - INFO - fsot_core: ✅ PASSED
+2025-09-04 14:38:16,055 - __main__ - INFO - brain_modules: ✅ PASSED
+2025-09-04 14:38:16,055 - __main__ - INFO - integration: ✅ PASSED
+2025-09-04 14:38:16,055 - __main__ - INFO - memory: ✅ PASSED
+2025-09-04 14:38:16,055 - __main__ - INFO - consciousness: ✅ PASSED
+2025-09-04 14:38:16,056 - __main__ - INFO - main_system: ✅ PASSED
+2025-09-04 14:38:16,056 - __main__ - INFO - 
+🎯 FINAL RESULTS
+2025-09-04 14:38:16,056 - __main__ - INFO - ============================================================
+2025-09-04 14:38:16,056 - __main__ - INFO - Tests Passed: 21/21
+2025-09-04 14:38:16,056 - __main__ - INFO - Success Rate: 100.0%
+2025-09-04 14:38:16,056 - __main__ - INFO - 🎉 SYSTEM STATUS: EXCELLENT
+2025-09-04 14:44:18,399 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-09-04 14:44:18,400 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE FSOT SYSTEM DEBUG
+2025-09-04 14:44:18,400 - __main__ - INFO - ============================================================
+2025-09-04 14:44:18,400 - __main__ - INFO - 
+📁 PHASE 1: FILE INTEGRITY CHECK
+2025-09-04 14:44:18,400 - __main__ - INFO - 🔍 CHECKING FILE INTEGRITY...
+2025-09-04 14:44:18,401 - __main__ - INFO - ✅ fsot_2_0_foundation.py exists
+2025-09-04 14:44:18,401 - __main__ - INFO - ✅ fsot_hardwiring.py exists
+2025-09-04 14:44:18,401 - __main__ - INFO - ✅ fsot_theoretical_integration.py exists
+2025-09-04 14:44:18,401 - __main__ - INFO - ✅ main.py exists
+2025-09-04 14:44:18,402 - __main__ - INFO - ✅ config/system_config.json exists
+2025-09-04 14:44:18,402 - __main__ - INFO - ✅ brain/brain_orchestrator.py exists
+2025-09-04 14:44:18,402 - __main__ - INFO - ✅ integration/__init__.py exists
+2025-09-04 14:44:18,403 - __main__ - INFO - 
+📦 PHASE 2: IMPORT TESTING
+2025-09-04 14:44:18,403 - __main__ - INFO - 🔍 DEBUGGING SYSTEM IMPORTS...
+2025-09-04 14:44:18,513 - fsot_2_0_foundation - INFO - 🔬 FSOT 2.0 Core initialized - Universal laws active
+2025-09-04 14:44:18,513 - fsot_2_0_foundation - INFO - 🔒 FSOT 2.0 Global Enforcement ACTIVATED
+2025-09-04 14:44:18,513 - fsot_2_0_foundation - INFO -     All system components now hardwired to FSOT principles
+2025-09-04 14:44:18,513 - fsot_2_0_foundation - INFO - 🌟 FSOT 2.0 Theoretical Foundation HARDWIRED
+2025-09-04 14:44:18,513 - fsot_2_0_foundation - INFO -     Golden Ratio (φ): 1.6180339887
+2025-09-04 14:44:18,514 - fsot_2_0_foundation - INFO -     Consciousness Factor: 0.288000
+2025-09-04 14:44:18,514 - fsot_2_0_foundation - INFO -     Universal Scaling (k): 0.4202216642
+2025-09-04 14:44:18,514 - fsot_2_0_foundation - INFO -     Dimensional Range: [4, 25]
+2025-09-04 14:44:18,514 - fsot_2_0_foundation - INFO -     🔒 ALL FUTURE OPERATIONS MUST COMPLY WITH THESE PRINCIPLES
+2025-09-04 14:44:18,514 - __main__ - INFO - ✅ FSOT 2.0 Foundation imported successfully
+2025-09-04 14:44:18,519 - fsot.enforcement - INFO - 🔒 FSOT 2.0 Enforcement System ACTIVE
+2025-09-04 14:44:18,520 - fsot.activation - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVATED
+2025-09-04 14:44:18,520 - fsot.activation - INFO -    Hardwired modules: {}
+2025-09-04 14:44:18,520 - fsot.activation - INFO -    🌟 ALL SYSTEM OPERATIONS NOW ENFORCE FSOT 2.0 PRINCIPLES
+2025-09-04 14:44:18,520 - fsot.activation - INFO -    ⚠️  VIOLATIONS WILL BE AUTOMATICALLY DETECTED AND BLOCKED
+2025-09-04 14:44:18,520 - __main__ - INFO - ✅ FSOT Hardwiring imported successfully
+2025-09-04 14:44:18,522 - __main__ - INFO - ✅ FSOT Theoretical Integration imported successfully
+2025-09-04 14:44:18,555 - __main__ - INFO - ✅ Brain Orchestrator imported successfully
+2025-09-04 14:44:19,146 - htmldate.validators - DEBUG - minimum date setting: 1995-01-01 00:00:00
+2025-09-04 14:44:19,232 - __main__ - INFO - ✅ Integration System imported successfully
+2025-09-04 14:44:19,232 - __main__ - INFO - ✅ Core components imported successfully
+2025-09-04 14:44:19,234 - utils.memory_manager - INFO - 🧠 FSOT Memory Manager initialized
+2025-09-04 14:44:19,234 - __main__ - INFO - ✅ Utilities imported successfully
+2025-09-04 14:44:19,252 - __main__ - INFO - ✅ Config imported successfully
+2025-09-04 14:44:19,252 - __main__ - INFO - 
+🔬 PHASE 3: FSOT CORE TESTING
+2025-09-04 14:44:19,252 - __main__ - INFO - 🔍 DEBUGGING FSOT 2.0 CORE...
+2025-09-04 14:44:19,252 - __main__ - INFO - ✅ FSOT Core initialized successfully
+2025-09-04 14:44:19,252 - __main__ - INFO - 📊 FSOT Constants:
+2025-09-04 14:44:19,253 - __main__ - INFO -    φ (Golden Ratio): 1.6180339887
+2025-09-04 14:44:19,253 - __main__ - INFO -    Consciousness Factor: 0.288000
+2025-09-04 14:44:19,253 - __main__ - INFO -    Max Dimensions: 25
+2025-09-04 14:44:19,253 - __main__ - INFO - ✅ Universal scalar calculated: 0.936799
+2025-09-04 14:44:19,254 - __main__ - INFO - 📈 FSOT System Health: {'total_calculations': 1, 'violation_count': 0, 'violation_rate': 0.0, 'theoretical_integrity': True, 'fsot_version': '2.0', 'constants_verified': True, 'dimensional_limits': [4, 25], 'consciousness_factor': 0.288, 'universal_scaling': 0.4202216641606967}
+2025-09-04 14:44:19,254 - __main__ - INFO - 
+🧠 PHASE 4: BRAIN MODULES TESTING
+2025-09-04 14:44:19,254 - __main__ - INFO - 🔍 DEBUGGING BRAIN MODULES...
+2025-09-04 14:44:19,254 - __main__ - INFO - ✅ Brain Orchestrator initialized successfully
+2025-09-04 14:44:19,254 - __main__ - INFO - 🧠 Available Brain Modules: 0
+2025-09-04 14:44:19,255 - __main__ - INFO - 
+🔌 PHASE 5: INTEGRATION SYSTEM TESTING
+2025-09-04 14:44:19,255 - __main__ - INFO - 🔍 DEBUGGING INTEGRATION SYSTEM...
+2025-09-04 14:44:19,255 - integration.integration_manager - INFO - Initializing Enhanced FSOT 2.0 Integration...
+2025-09-04 14:44:19,257 - integration.free_api_manager - INFO - Free API Manager initialized
+2025-09-04 14:44:19,257 - integration.api_manager - INFO - Free API manager configured as fallback
+2025-09-04 14:44:19,259 - integration.free_web_search_engine - INFO - Free Web Search Engine initialized
+2025-09-04 14:44:19,259 - integration.web_search_engine - INFO - Free web search engine configured as fallback
+2025-09-04 14:44:19,259 - integration.autonomous_learning - INFO - Loaded knowledge state: 0 concepts
+2025-09-04 14:44:19,260 - integration.skills_database - INFO - Loaded 13 skills from database
+2025-09-04 14:44:19,260 - integration.integration_manager - INFO - Enhanced FSOT 2.0 Integration initialized successfully
+2025-09-04 14:44:19,260 - __main__ - INFO - ✅ Integration System initialized successfully
+2025-09-04 14:44:19,260 - __main__ - INFO - 🔌 API Status: {'system_info': {'initialized': True, 'uptime': '0:00:00.005542', 'learning_active': False, 'training_active': False}, 'api_status': {'openai': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'github': {'enabled': '', 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'wolfram': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'huggingface': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'google_custom_search': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'serpapi': {'enabled': False, 'configured': False, 'rate_limit_status': {'minute_calls': 0, 'hour_calls': 0, 'can_make_call': True}}, 'free_mode': {'enabled': '', 'configured': False, 'rate_limit_status': None}}, 'learning_status': {'total_concepts': 0, 'average_mastery': np.float64(0.0), 'domains': {'technology': {'name': 'Technology', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.7, 'last_updated': '2025-09-04T14:44:19.259256'}, 'science': {'name': 'Science', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.8, 'last_updated': '2025-09-04T14:44:19.259260'}, 'health': {'name': 'Health & Medicine', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.75, 'last_updated': '2025-09-04T14:44:19.259263'}, 'business': {'name': 'Business & Economics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.6, 'last_updated': '2025-09-04T14:44:19.259264'}, 'society': {'name': 'Society & Culture', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.65, 'last_updated': '2025-09-04T14:44:19.259266'}, 'mathematics': {'name': 'Mathematics', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.85, 'last_updated': '2025-09-04T14:44:19.259267'}, 'neuroscience': {'name': 'Neuroscience', 'mastery_level': 0.0, 'concepts_learned': 0, 'complexity': 0.9, 'last_updated': '2025-09-04T14:44:19.259269'}}, 'learning_sessions': 0, 'last_learning': None}, 'skills_status': {'total_skills': 13, 'average_proficiency': 0.011945063669754324, 'skills_mastered': 0, 'total_practice_time': 275, 'category_breakdown': {'analytical': {'count': 2, 'average_proficiency': 0.013835855870654449, 'mastered': 0}, 'creative': {'count': 2, 'average_proficiency': 0.011516656529179325, 'mastered': 0}, 'memory': {'count': 2, 'average_proficiency': 0.010311751453567539, 'mastered': 0}, 'emotional': {'count': 1, 'average_proficiency': 0.010975878327546297, 'mastered': 0}, 'linguistic': {'count': 2, 'average_proficiency': 0.010708750887586806, 'mastered': 0}, 'spatial': {'count': 2, 'average_proficiency': 0.011460203045703124, 'mastered': 0}, 'logical': {'count': 1, 'average_proficiency': 0.011671083201316549, 'mastered': 0}, 'social': {'count': 1, 'average_proficiency': 0.01697243060456089, 'mastered': 0}}, 'most_practiced_skill': 'Social Interaction', 'highest_proficiency_skill': 'Social Interaction'}, 'training_status': {'total_sessions': 0}, 'search_status': {'total_searches': 0}}
+2025-09-04 14:44:19,261 - __main__ - INFO - 🎯 Skills Status: Skills system operational
+2025-09-04 14:44:19,261 - __main__ - INFO - 
+💾 PHASE 6: MEMORY SYSTEM TESTING
+2025-09-04 14:44:19,261 - __main__ - INFO - 🔍 DEBUGGING MEMORY SYSTEM...
+2025-09-04 14:44:19,262 - __main__ - INFO - 💾 Memory Status: {'memory_stats': {'total_gb': 31.64620590209961, 'available_gb': 16.434123992919922, 'used_gb': 15.212081909179688, 'percentage': 48.1, 'status': 'safe'}, 'monitoring_active': False, 'optimization_count': 0, 'last_optimization': None, 'optimizers_count': 1}
+2025-09-04 14:44:19,262 - __main__ - INFO - 
+🌟 PHASE 7: CONSCIOUSNESS SYSTEM TESTING
+2025-09-04 14:44:19,262 - __main__ - INFO - 🔍 DEBUGGING CONSCIOUSNESS SYSTEM...
+2025-09-04 14:44:19,262 - __main__ - INFO - 🌟 Consciousness State: {'consciousness_level': 0.0, 'state': 'inactive', 'coherence': 0.0, 'attention_focus': 0.0, 'awareness_breadth': 0.0, 'processing_depth': 0.0, 'brain_waves': {'alpha': 0.0, 'beta': 0.0, 'theta': 0.0, 'delta': 0.0, 'gamma': 0.0}, 'region_contributions': {}, 'signal_activity': {}, 'processing_load': 0.0}
+2025-09-04 14:44:19,263 - __main__ - INFO - 
+🎯 PHASE 8: MAIN SYSTEM TESTING
+2025-09-04 14:44:19,263 - __main__ - INFO - 🔍 DEBUGGING MAIN SYSTEM INITIALIZATION...
+2025-09-04 14:44:19,264 - main - INFO - 🔒 FSOT 2.0 HARDWIRING ACTIVE - All operations enforced
+2025-09-04 14:44:19,563 - main - INFO - ✅ FSOT 2.0 Theoretical Framework hardwired successfully
+2025-09-04 14:44:19,563 - fsot.FSOTNeuromorphicSystem - INFO - FSOT Component 'FSOTNeuromorphicSystem' initialized: D_eff=12, Scalar=0.936799, Mode=EMERGING
+2025-09-04 14:44:19,564 - main - INFO - 🔬 FSOT 2.0 System initialized: D_eff=12, Scalar=0.936799, Consciousness=0.651413
+2025-09-04 14:44:19,564 - __main__ - INFO - ✅ Main system initialized successfully
+2025-09-04 14:44:19,564 - __main__ - INFO - 🔒 FSOT Status: {'name': 'FSOTNeuromorphicSystem', 'domain': 'AI_TECH', 'd_eff': 12, 'fsot_scalar': 0.9367986854777383, 'emergence_mode': True, 'damping_mode': False, 'theoretical_alignment': True, 'consciousness_factor': 0.288}
+2025-09-04 14:44:19,565 - __main__ - INFO - 
+📊 DEBUG SUMMARY
+2025-09-04 14:44:19,565 - __main__ - INFO - ============================================================
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.fsot_2_0_foundation.py: ✅ EXISTS (22356 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.fsot_hardwiring.py: ✅ EXISTS (29260 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.fsot_theoretical_integration.py: ✅ EXISTS (17022 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.main.py: ✅ EXISTS (28089 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.config/system_config.json: ✅ EXISTS (2292 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.brain/brain_orchestrator.py: ✅ EXISTS (14616 bytes)
+2025-09-04 14:44:19,565 - __main__ - INFO - file_integrity.integration/__init__.py: ✅ EXISTS (1716 bytes)
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.fsot_foundation: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.fsot_hardwiring: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.fsot_theory: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.brain_orchestrator: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.integration: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.core: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.utils: ✅ SUCCESS
+2025-09-04 14:44:19,566 - __main__ - INFO - imports.config: ✅ SUCCESS
+2025-09-04 14:44:19,567 - __main__ - INFO - fsot_core: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - brain_modules: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - integration: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - memory: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - consciousness: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - main_system: ✅ PASSED
+2025-09-04 14:44:19,567 - __main__ - INFO - 
+🎯 FINAL RESULTS
+2025-09-04 14:44:19,567 - __main__ - INFO - ============================================================
+2025-09-04 14:44:19,567 - __main__ - INFO - Tests Passed: 21/21
+2025-09-04 14:44:19,567 - __main__ - INFO - Success Rate: 100.0%
+2025-09-04 14:44:19,567 - __main__ - INFO - 🎉 SYSTEM STATUS: EXCELLENT

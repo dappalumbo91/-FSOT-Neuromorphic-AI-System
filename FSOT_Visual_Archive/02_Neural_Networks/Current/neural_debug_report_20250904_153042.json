@@ -1,0 +1,221 @@
+{
+  "timestamp": "2025-09-04T15:30:42.934480",
+  "system_overview": {
+    "pathways": 3,
+    "total_nodes": 11,
+    "total_connections": 9,
+    "current_time": 5.0
+  },
+  "integration_status": {
+    "fsot_available": true,
+    "brain_system_available": true,
+    "fsot_core_active": true,
+    "brain_system_active": true
+  },
+  "pathway_details": {
+    "prefrontal_cortex": {
+      "pathway_id": "pathway_prefrontal_cortex",
+      "pathway_type": "brain_derived",
+      "activity_level": 1.0,
+      "synchronization": 0.0,
+      "fsot_coherence": 0.9367986854777383,
+      "node_count": 5,
+      "connection_count": 5,
+      "input_nodes": 2,
+      "output_nodes": 2,
+      "processing_nodes": 1,
+      "node_details": {
+        "prefrontal_cortex_node_0": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 0,
+          "outgoing_connections": 1
+        },
+        "prefrontal_cortex_node_1": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.28580093810344065,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 2,
+          "outgoing_connections": 1
+        },
+        "prefrontal_cortex_node_2": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 1
+        },
+        "prefrontal_cortex_node_3": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 1
+        },
+        "prefrontal_cortex_node_4": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 1
+        }
+      },
+      "connection_details": {
+        "prefrontal_cortex_node_0_prefrontal_cortex_node_1": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "prefrontal_cortex_node_1_prefrontal_cortex_node_2": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "prefrontal_cortex_node_2_prefrontal_cortex_node_3": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "prefrontal_cortex_node_3_prefrontal_cortex_node_4": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "prefrontal_cortex_node_4_prefrontal_cortex_node_1": {
+          "weight": 0.303,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        }
+      }
+    },
+    "temporal_lobe": {
+      "pathway_id": "pathway_temporal_lobe",
+      "pathway_type": "brain_derived",
+      "activity_level": 1.0,
+      "synchronization": 0.0,
+      "fsot_coherence": 0.9367986854777383,
+      "node_count": 3,
+      "connection_count": 2,
+      "input_nodes": 2,
+      "output_nodes": 1,
+      "processing_nodes": 0,
+      "node_details": {
+        "temporal_lobe_node_0": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 0,
+          "outgoing_connections": 1
+        },
+        "temporal_lobe_node_1": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 1
+        },
+        "temporal_lobe_node_2": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 0
+        }
+      },
+      "connection_details": {
+        "temporal_lobe_node_0_temporal_lobe_node_1": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "temporal_lobe_node_1_temporal_lobe_node_2": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        }
+      }
+    },
+    "occipital_lobe": {
+      "pathway_id": "pathway_occipital_lobe",
+      "pathway_type": "brain_derived",
+      "activity_level": 1.0,
+      "synchronization": 0.0,
+      "fsot_coherence": 0.9367986854777383,
+      "node_count": 3,
+      "connection_count": 2,
+      "input_nodes": 2,
+      "output_nodes": 1,
+      "processing_nodes": 0,
+      "node_details": {
+        "occipital_lobe_node_0": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 0,
+          "outgoing_connections": 1
+        },
+        "occipital_lobe_node_1": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 1
+        },
+        "occipital_lobe_node_2": {
+          "type": "processing",
+          "total_activations": 3,
+          "firing_rate": 3.0,
+          "membrane_potential": 0.0,
+          "fsot_signature": 0.9416845692011003,
+          "incoming_connections": 1,
+          "outgoing_connections": 0
+        }
+      },
+      "connection_details": {
+        "occipital_lobe_node_0_occipital_lobe_node_1": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        },
+        "occipital_lobe_node_1_occipital_lobe_node_2": {
+          "weight": 0.703,
+          "activation_count": 3,
+          "fsot_modulation": 0.9463607221968234,
+          "plasticity": 0.1
+        }
+      }
+    }
+  },
+  "system_recommendations": [
+    "System is well-configured for neural pathway debugging"
+  ]
+}

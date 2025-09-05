@@ -1,0 +1,145 @@
+{
+  "free_apis": {
+    "enabled": true,
+    "discovered_apis": {
+      "jsonplaceholder": {
+        "url": "https://jsonplaceholder.typicode.com/",
+        "type": "mock_data",
+        "enabled": true,
+        "endpoints": {
+          "posts": "/posts",
+          "users": "/users",
+          "comments": "/comments"
+        }
+      },
+      "httpbin": {
+        "url": "https://httpbin.org/",
+        "type": "testing",
+        "enabled": true,
+        "endpoints": {
+          "get": "/get",
+          "post": "/post",
+          "status": "/status/{code}"
+        }
+      },
+      "reqres": {
+        "url": "https://reqres.in/api/",
+        "type": "mock_user_data",
+        "enabled": true,
+        "endpoints": {
+          "users": "/users",
+          "register": "/register",
+          "login": "/login"
+        }
+      },
+      "randomuser": {
+        "url": "https://randomuser.me/api/",
+        "type": "random_data",
+        "enabled": true,
+        "rate_limit": 1000
+      },
+      "joke_api": {
+        "url": "https://official-joke-api.appspot.com/jokes/random",
+        "type": "entertainment",
+        "enabled": true
+      },
+      "advice_slip": {
+        "url": "https://api.adviceslip.com/advice",
+        "type": "wisdom",
+        "enabled": true
+      },
+      "github_api": {
+        "url": "https://api.github.com/",
+        "type": "development",
+        "enabled": true,
+        "rate_limit": 60,
+        "endpoints": {
+          "repos": "/repos/{owner}/{repo}",
+          "search_repos": "/search/repositories?q={query}",
+          "user": "/users/{username}"
+        }
+      },
+      "exchange_rate": {
+        "url": "https://api.exchangerate-api.com/v4/latest/USD",
+        "type": "financial",
+        "enabled": true
+      },
+      "nasa_api": {
+        "url": "https://api.nasa.gov/",
+        "type": "science",
+        "enabled": true,
+        "note": "Some endpoints require API key, but many are free"
+      },
+      "weather_api": {
+        "url": "https://api.openweathermap.org/",
+        "type": "weather",
+        "enabled": false,
+        "note": "Requires API key, but has free tier"
+      }
+    }
+  },
+  "web_search": {
+    "enabled": true,
+    "free_search_engines": {
+      "duckduckgo": {
+        "enabled": true,
+        "url": "https://html.duckduckgo.com/html/",
+        "method": "scraping",
+        "rate_limit": 100
+      },
+      "bing": {
+        "enabled": true,
+        "url": "https://www.bing.com/search",
+        "method": "scraping",
+        "rate_limit": 50
+      },
+      "startpage": {
+        "enabled": true,
+        "url": "https://www.startpage.com/do/dsearch",
+        "method": "scraping",
+        "rate_limit": 30
+      }
+    },
+    "content_extraction": {
+      "enabled": true,
+      "libraries": ["beautifulsoup4", "trafilatura", "newspaper3k"],
+      "fallback_method": "basic_html_parsing"
+    },
+    "caching": {
+      "enabled": true,
+      "cache_duration_hours": 24,
+      "max_cache_size_mb": 100
+    }
+  },
+  "knowledge_sources": {
+    "wikipedia": {
+      "enabled": true,
+      "api_url": "https://en.wikipedia.org/api/rest_v1/",
+      "free": true,
+      "rate_limit": 200
+    },
+    "arxiv": {
+      "enabled": true,
+      "api_url": "http://export.arxiv.org/api/query",
+      "free": true,
+      "type": "scientific_papers"
+    },
+    "reddit": {
+      "enabled": true,
+      "url": "https://www.reddit.com/r/{subreddit}.json",
+      "free": true,
+      "rate_limit": 60
+    },
+    "hackernews": {
+      "enabled": true,
+      "api_url": "https://hacker-news.firebaseio.com/v0/",
+      "free": true
+    }
+  },
+  "learning_enhancement": {
+    "auto_discovery": true,
+    "knowledge_graph_building": true,
+    "cross_reference_validation": true,
+    "content_summarization": true
+  }
+}

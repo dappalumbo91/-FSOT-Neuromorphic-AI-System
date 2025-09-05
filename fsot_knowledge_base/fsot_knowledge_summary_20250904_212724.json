@@ -1,0 +1,120 @@
+{
+  "fsot_knowledge_base": {
+    "total_discoveries": 3,
+    "generation_timestamp": "2025-09-04T21:27:24.866680",
+    "database_path": "fsot_knowledge_base\\fsot_discoveries.db"
+  },
+  "category_analysis": {
+    "biological_systems": {
+      "count": 1,
+      "validation_distribution": {
+        "confirmed": 1
+      },
+      "average_fsot_quality": 0.97,
+      "latest_discovery": "Biophoton Neural Signaling Framework"
+    },
+    "cosmic_phenomena": {
+      "count": 1,
+      "validation_distribution": {
+        "paradigm_shifting": 1
+      },
+      "average_fsot_quality": 0.99,
+      "latest_discovery": "Universe as Scale-Invariant Neural Network"
+    },
+    "neuromorphic_ai": {
+      "count": 1,
+      "validation_distribution": {
+        "confirmed": 1
+      },
+      "average_fsot_quality": 0.8,
+      "latest_discovery": "FSOT 2.0 Neuromorphic Neural Network Architecture"
+    }
+  },
+  "network_analysis": {
+    "total_discoveries": 3,
+    "total_connections": 0,
+    "density": 0,
+    "connected_components": 3,
+    "average_clustering": 0.0,
+    "most_connected_discoveries": [
+      {
+        "id": "9cb04220aaf7",
+        "title": "Biophoton Neural Signaling Framework",
+        "connections": 0.0
+      },
+      {
+        "id": "94c03debb012",
+        "title": "Universe as Scale-Invariant Neural Network",
+        "connections": 0.0
+      },
+      {
+        "id": "5831a1c630e6",
+        "title": "FSOT 2.0 Neuromorphic Neural Network Architecture",
+        "connections": 0.0
+      }
+    ],
+    "category_connections": []
+  },
+  "discoveries": {
+    "9cb04220aaf7": {
+      "title": "Biophoton Neural Signaling Framework",
+      "category": "biological_systems",
+      "validation_level": "confirmed",
+      "key_findings_count": 5,
+      "predictions_count": 4,
+      "implications_count": 4,
+      "fsot_quality": 0.97,
+      "timestamp": "2025-09-04T21:17:04.847403",
+      "tags": [
+        "biophotons",
+        "neural_signaling",
+        "optical_biology",
+        "consciousness",
+        "fsot_validated"
+      ]
+    },
+    "94c03debb012": {
+      "title": "Universe as Scale-Invariant Neural Network",
+      "category": "cosmic_phenomena",
+      "validation_level": "paradigm_shifting",
+      "key_findings_count": 8,
+      "predictions_count": 6,
+      "implications_count": 7,
+      "fsot_quality": 0.99,
+      "timestamp": "2025-09-04T21:17:04.879695",
+      "tags": [
+        "cosmic_consciousness",
+        "scale_invariance",
+        "neural_universe",
+        "light_signaling",
+        "cmb_analysis",
+        "quantum_cosmology",
+        "information_processing",
+        "paradigm_shifting",
+        "fsot_validated"
+      ]
+    },
+    "5831a1c630e6": {
+      "title": "FSOT 2.0 Neuromorphic Neural Network Architecture",
+      "category": "neuromorphic_ai",
+      "validation_level": "confirmed",
+      "key_findings_count": 10,
+      "predictions_count": 6,
+      "implications_count": 6,
+      "fsot_quality": "N/A",
+      "timestamp": "2025-09-04T21:27:23.188575",
+      "tags": [
+        "neuromorphic_ai",
+        "spiking_networks",
+        "stdp_learning",
+        "temporal_dynamics",
+        "brain_inspired",
+        "fsot_compliant",
+        "real_time_processing",
+        "spatial_organization",
+        "plasticity",
+        "neural_architectures"
+      ]
+    }
+  }
+}

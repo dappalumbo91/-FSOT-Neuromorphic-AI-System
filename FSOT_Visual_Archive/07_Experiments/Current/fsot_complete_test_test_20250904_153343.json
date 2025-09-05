@@ -1,0 +1,311 @@
+{
+  "test_id": "test_20250904_153343",
+  "start_time": "2025-09-04T15:33:43.049228",
+  "scenarios": 5,
+  "scenario_results": [
+    {
+      "scenario_index": 0,
+      "scenario_name": "Cognitive Processing Test",
+      "steps": [],
+      "success": false,
+      "error_count": 10
+    },
+    {
+      "scenario_index": 1,
+      "scenario_name": "Visual Processing Test",
+      "steps": [
+        {
+          "step": 0,
+          "integration_coherence": 0.6967826566961088,
+          "processing_time": 0.04932093620300293
+        },
+        {
+          "step": 1,
+          "integration_coherence": 0.6993862519256723,
+          "processing_time": 0.012909889221191406
+        },
+        {
+          "step": 2,
+          "integration_coherence": 0.7009279065526215,
+          "processing_time": 0.014116525650024414
+        }
+      ],
+      "success": false,
+      "error_count": 5
+    },
+    {
+      "scenario_index": 2,
+      "scenario_name": "Multi-Modal Integration Test",
+      "steps": [],
+      "success": false,
+      "error_count": 12
+    },
+    {
+      "scenario_index": 3,
+      "scenario_name": "High-Intensity Stress Test",
+      "steps": [],
+      "success": false,
+      "error_count": 15
+    },
+    {
+      "scenario_index": 4,
+      "scenario_name": "Low-Intensity Baseline Test",
+      "steps": [],
+      "success": false,
+      "error_count": 6
+    }
+  ],
+  "overall_metrics": {
+    "success_rate": 0.0,
+    "total_steps": 51,
+    "total_processing_time": 0.07634735107421875,
+    "average_step_time": 0.0014970068838082108,
+    "components_integrated": 3,
+    "emergency_stops": 0,
+    "total_errors": 48
+  },
+  "emergency_stops": 0,
+  "errors": [
+    {
+      "scenario": 0,
+      "step": 0,
+      "error": "D_eff=1 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 0,
+      "step": 1,
+      "error": "D_eff=2 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 0,
+      "step": 2,
+      "error": "D_eff=3 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 0,
+      "step": 3,
+      "error": "D_eff=4 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 4,
+      "error": "D_eff=5 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 5,
+      "error": "D_eff=6 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 6,
+      "error": "D_eff=7 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 7,
+      "error": "D_eff=8 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 8,
+      "error": "D_eff=9 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 0,
+      "step": 9,
+      "error": "D_eff=10 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 1,
+      "step": 3,
+      "error": "D_eff=14 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 1,
+      "step": 4,
+      "error": "D_eff=15 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 1,
+      "step": 5,
+      "error": "D_eff=16 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 1,
+      "step": 6,
+      "error": "D_eff=17 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 1,
+      "step": 7,
+      "error": "D_eff=18 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 0,
+      "error": "D_eff=19 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 1,
+      "error": "D_eff=20 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 2,
+      "error": "D_eff=21 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 3,
+      "error": "D_eff=22 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 4,
+      "error": "D_eff=23 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 5,
+      "error": "D_eff=24 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 6,
+      "error": "D_eff=25 violates AI_TECH domain limits [11, 13]"
+    },
+    {
+      "scenario": 2,
+      "step": 7,
+      "error": "D_eff=26 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 2,
+      "step": 8,
+      "error": "D_eff=27 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 2,
+      "step": 9,
+      "error": "D_eff=28 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 2,
+      "step": 10,
+      "error": "D_eff=29 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 2,
+      "step": 11,
+      "error": "D_eff=30 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 0,
+      "error": "D_eff=31 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 1,
+      "error": "D_eff=32 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 2,
+      "error": "D_eff=33 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 3,
+      "error": "D_eff=34 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 4,
+      "error": "D_eff=35 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 5,
+      "error": "D_eff=36 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 6,
+      "error": "D_eff=37 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 7,
+      "error": "D_eff=38 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 8,
+      "error": "D_eff=39 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 9,
+      "error": "D_eff=40 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 10,
+      "error": "D_eff=41 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 11,
+      "error": "D_eff=42 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 12,
+      "error": "D_eff=43 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 13,
+      "error": "D_eff=44 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 3,
+      "step": 14,
+      "error": "D_eff=45 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 0,
+      "error": "D_eff=46 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 1,
+      "error": "D_eff=47 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 2,
+      "error": "D_eff=48 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 3,
+      "error": "D_eff=49 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 4,
+      "error": "D_eff=50 violates universal dimensional limits [4, 25]"
+    },
+    {
+      "scenario": 4,
+      "step": 5,
+      "error": "D_eff=51 violates universal dimensional limits [4, 25]"
+    }
+  ],
+  "end_time": "2025-09-04T15:33:43.135063"
+}

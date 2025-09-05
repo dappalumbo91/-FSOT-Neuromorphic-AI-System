@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-09-04 19:45:53",
+  "summary": {
+    "total_tests": 5,
+    "successful_tests": 5,
+    "success_rate": 100.0,
+    "total_windows": 3,
+    "total_errors": 0
+  },
+  "detailed_results": {
+    "google_search_demo": {
+      "test_id": "google_search_demo",
+      "test_name": "Google Search Visual Demo",
+      "status": "completed",
+      "start_time": 1757029533.4686878,
+      "duration": 2.9101386070251465,
+      "windows_created": [],
+      "errors": [],
+      "success": true,
+      "end_time": 1757029536.3788264
+    },
+    "monte_carlo_viz": {
+      "test_id": "monte_carlo_viz",
+      "test_name": "Monte Carlo Visualization",
+      "status": "completed",
+      "start_time": 1757029538.3797245,
+      "duration": 0.7660062313079834,
+      "windows_created": [
+        "plot_1757029538_106"
+      ],
+      "errors": [],
+      "success": true,
+      "end_time": 1757029539.1457307
+    },
+    "fractal_analysis": {
+      "test_id": "fractal_analysis",
+      "test_name": "Fractal Pattern Analysis",
+      "status": "completed",
+      "start_time": 1757029541.1466181,
+      "duration": 1.281480073928833,
+      "windows_created": [
+        "plot_1757029541_317"
+      ],
+      "errors": [],
+      "success": true,
+      "end_time": 1757029542.4280982
+    },
+    "artistic_creation": {
+      "test_id": "artistic_creation",
+      "test_name": "AI Artistic Creation",
+      "status": "completed",
+      "start_time": 1757029544.4291077,
+      "duration": 2.3646528720855713,
+      "windows_created": [
+        "plot_1757029544_100"
+      ],
+      "errors": [],
+      "success": true,
+      "end_time": 1757029546.7937605
+    },
+    "camera_perception": {
+      "test_id": "camera_perception",
+      "test_name": "Camera Perception Interface",
+      "status": "completed",
+      "start_time": 1757029548.7947876,
+      "duration": 2.882831335067749,
+      "windows_created": [],
+      "errors": [],
+      "success": true,
+      "end_time": 1757029551.677619
+    }
+  }
+}

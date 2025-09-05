@@ -1,0 +1,290 @@
+{
+  "fsot_quantum_integration": {
+    "timestamp": "2025-09-05T00:04:37.316851",
+    "execution_time_seconds": 0.06593799591064453,
+    "overall_fsot_score": 93.15218930237164,
+    "quantum_algorithms_tested": 5,
+    "individual_scores": {
+      "shor_factoring": 99.9,
+      "grover_search": 99.9,
+      "vqe_molecular": 87.73046076951586,
+      "qaoa_optimization": 80.0,
+      "deutsch_jozsa": 98.23048574234237
+    },
+    "quantum_advantage_summary": {
+      "shor_speedup": 3.9068905956085187,
+      "grover_speedup": 5.333333333333333,
+      "vqe_accuracy": 27.304607695158534,
+      "qaoa_approximation": -0.0,
+      "deutsch_jozsa_advantage": 5.0
+    }
+  },
+  "detailed_results": {
+    "shor": {
+      "algorithm": "Shor_Enhanced",
+      "target_N": 15,
+      "successful_factorizations": 10,
+      "average_fsot_boost": 101.26393488016575,
+      "results": [
+        {
+          "iteration": 0,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 1,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 2,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 3,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 4,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 5,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 6,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 7,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 8,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        },
+        {
+          "iteration": 9,
+          "base_a": 2,
+          "period_r": 4,
+          "factor_p": 5,
+          "factor_q": 3,
+          "fsot_boost": 101.26393488016576,
+          "quantum_advantage": 1.023832099239262
+        }
+      ],
+      "fsot_integration_score": 99.9,
+      "quantum_speedup_estimate": 3.9068905956085187
+    },
+    "grover": {
+      "algorithm": "Grover_Enhanced",
+      "database_size": 16,
+      "marked_items": [
+        7,
+        12
+      ],
+      "success_probability": 0.330078125,
+      "fsot_boost": 97.09166666666667,
+      "iterations_used": 3,
+      "classical_complexity": 16,
+      "quantum_complexity": 3,
+      "speedup_factor": 5.333333333333333,
+      "top_results": [
+        {
+          "index": 12,
+          "probability": 0.1650390625,
+          "is_marked": true
+        },
+        {
+          "index": 7,
+          "probability": 0.1650390625,
+          "is_marked": true
+        },
+        {
+          "index": 14,
+          "probability": 0.0478515625,
+          "is_marked": false
+        },
+        {
+          "index": 15,
+          "probability": 0.0478515625,
+          "is_marked": false
+        }
+      ],
+      "fsot_integration_score": 99.9
+    },
+    "vqe": {
+      "algorithm": "VQE_Enhanced",
+      "molecule": "H2_molecule",
+      "ground_state_energy": -0.3591360425240918,
+      "theoretical_energy": -1.3152946437965904,
+      "accuracy_percent": 27.304607695158534,
+      "optimal_parameters": [
+        2.29089157851034,
+        4.294079349854487
+      ],
+      "optimization_trace": [
+        {
+          "start": 0,
+          "energy": -0.007699810191969855,
+          "params": [
+            5.035789417508597,
+            2.5041751773689125
+          ],
+          "success": false
+        },
+        {
+          "start": 1,
+          "energy": 1.085964478929143,
+          "params": [
+            5.633349771474319,
+            0.27778983076436964
+          ],
+          "success": false
+        },
+        {
+          "start": 2,
+          "energy": 1.2052096514440889,
+          "params": [
+            5.935034744361976,
+            0.43886659815793894
+          ],
+          "success": false
+        },
+        {
+          "start": 3,
+          "energy": -0.3591360425240918,
+          "params": [
+            2.29089157851034,
+            4.294079349854487
+          ],
+          "success": false
+        },
+        {
+          "start": 4,
+          "energy": 0.201662899032059,
+          "params": [
+            1.8909493239221722,
+            3.565608627469896
+          ],
+          "success": false
+        }
+      ],
+      "fsot_integration_score": 87.73046076951586,
+      "convergence_rate": 0.0
+    },
+    "qaoa": {
+      "algorithm": "QAOA_Enhanced",
+      "problem_type": "MaxCut",
+      "graph_nodes": 4,
+      "graph_edges": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          0,
+          3
+        ]
+      ],
+      "optimal_value": -0.0,
+      "approximation_ratio": -0.0,
+      "optimization_attempts": [
+        {
+          "attempt": 0,
+          "optimal_value": -0.0,
+          "parameters": [
+            1.7651711103061625,
+            1.0283196005035156
+          ],
+          "success": true
+        },
+        {
+          "attempt": 1,
+          "optimal_value": -0.0,
+          "parameters": [
+            5.575558624526406,
+            6.219002521635488
+          ],
+          "success": true
+        },
+        {
+          "attempt": 2,
+          "optimal_value": -0.0,
+          "parameters": [
+            2.2745537188467635,
+            5.521259933370754
+          ],
+          "success": true
+        }
+      ],
+      "fsot_integration_score": 80.0,
+      "quantum_advantage_estimate": -0.0
+    },
+    "deutsch_jozsa": {
+      "algorithm": "Deutsch_Jozsa_Enhanced",
+      "input_bits": 3,
+      "true_function_type": "balanced",
+      "detected_function_type": "balanced",
+      "detection_confidence": 0.890069391763195,
+      "correct_classification": true,
+      "quantum_queries": 1,
+      "classical_queries_needed": 5,
+      "quantum_advantage": 5.0,
+      "fsot_integration_score": 98.23048574234237,
+      "prob_zero_measurement": 0.10993060823680495
+    }
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "training_session_id": "fsot_web_training_20250905_072112",
+  "training_environment": {
+    "training_session_id": "fsot_web_training_20250905_072112",
+    "available_modules": 6,
+    "total_exercises": 30,
+    "difficulty_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced"
+    ],
+    "monitoring_capabilities": [
+      "Real-time action tracking",
+      "Performance metrics collection",
+      "Behavioral pattern analysis",
+      "Success rate monitoring",
+      "Error detection and correction"
+    ],
+    "human_behavior_simulation": {
+      "reading_patterns": [
+        "slow",
+        "normal",
+        "fast"
+      ],
+      "decision_styles": [
+        "quick",
+        "thoughtful",
+        "hesitant"
+      ],
+      "interaction_modes": [
+        "efficient",
+        "exploratory",
+        "cautious",
+        "impulsive"
+      ]
+    }
+  },
+  "module_results": {
+    "form_interactions": {
+      "module": "form_interactions",
+      "exercises_completed": [
+        {
+          "exercise_name": "Basic Text Input Handling",
+          "execution_time": 4.834583,
+          "success_rate": 0.9129841673870916,
+          "efficiency_score": 0.7542394657893934,
+          "actions_completed": 4,
+          "human_patterns_learned": "Variable typing speed, occasional backspaces, field verification"
+        },
+        {
+          "exercise_name": "Dropdown and Checkbox Interactions",
+          "execution_time": 4.712931,
+          "success_rate": 0.8932427693743694,
+          "efficiency_score": 0.8908707680530573,
+          "actions_completed": 4,
+          "human_patterns_learned": "Hover before clicking, read options carefully, confirm selections"
+        },
+        {
+          "exercise_name": "Multi-step Form Navigation",
+          "execution_time": 4.343212,
+          "success_rate": 0.9001897936297951,
+          "efficiency_score": 0.7811262252946722,
+          "actions_completed": 4,
+          "human_patterns_learned": "Review previous inputs, validate before proceeding, save progress"
+        },
+        {
+          "exercise_name": "File Upload Simulations",
+          "execution_time": 3.775816,
+          "success_rate": 0.9220315278920602,
+          "efficiency_score": 0.7864269583796542,
+          "actions_completed": 4,
+          "human_patterns_learned": "Check file size, verify format, wait for confirmation"
+        },
+        {
+          "exercise_name": "Form Validation Response",
+          "execution_time": 5.962568,
+          "success_rate": 0.869228381262329,
+          "efficiency_score": 0.7572849326954277,
+          "actions_completed": 4,
+          "human_patterns_learned": "Read error messages carefully, make corrections methodically"
+        }
+      ],
+      "performance_metrics": {
+        "overall_success_rate": 0.899535327909129,
+        "overall_efficiency": 0.7939896700424409,
+        "exercises_completed": 5,
+        "total_training_time": 23.62911,
+        "performance_grade": "B (Good)"
+      },
+      "learned_patterns": [
+        "Natural typing rhythm with pauses",
+        "Form validation awareness",
+        "Progressive disclosure navigation",
+        "Error recovery strategies",
+        "Multi-step form completion"
+      ],
+      "real_time_monitoring": [
+        {
+          "timestamp": "07:21:12.182",
+          "exercise": "Basic Text Input Handling",
+          "action": "Focus field",
+          "execution_time": 0.8794346504327948,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:13.061",
+          "exercise": "Basic Text Input Handling",
+          "action": "Type text naturally",
+          "execution_time": 0.9754384513003855,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:14.037",
+          "exercise": "Basic Text Input Handling",
+          "action": "Validate input",
+          "execution_time": 1.0987478500646604,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:15.136",
+          "exercise": "Basic Text Input Handling",
+          "action": "Handle errors",
+          "execution_time": 1.8794090111228448,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:17.019",
+          "exercise": "Dropdown and Checkbox Interactions",
+          "action": "Open dropdown",
+          "execution_time": 1.534195180165339,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:18.553",
+          "exercise": "Dropdown and Checkbox Interactions",
+          "action": "Scroll options",
+          "execution_time": 1.3503771620598528,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:19.904",
+          "exercise": "Dropdown and Checkbox Interactions",
+          "action": "Select choice",
+          "execution_time": 0.6375737257044578,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:20.542",
+          "exercise": "Dropdown and Checkbox Interactions",
+          "action": "Handle checkboxes",
+          "execution_time": 1.1890955130763876,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:21.732",
+          "exercise": "Multi-step Form Navigation",
+          "action": "Complete step",
+          "execution_time": 1.5310953378369498,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:23.264",
+          "exercise": "Multi-step Form Navigation",
+          "action": "Validate fields",
+          "execution_time": 0.699688555697656,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:23.964",
+          "exercise": "Multi-step Form Navigation",
+          "action": "Navigate next",
+          "execution_time": 0.9946156752575419,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:24.959",
+          "exercise": "Multi-step Form Navigation",
+          "action": "Handle back button",
+          "execution_time": 1.1160112765801706,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:26.076",
+          "exercise": "File Upload Simulations",
+          "action": "Select files",
+          "execution_time": 0.5252588224327317,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:26.602",
+          "exercise": "File Upload Simulations",
+          "action": "Validate types",
+          "execution_time": 0.9516204638836762,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:27.554",
+          "exercise": "File Upload Simulations",
+          "action": "Monitor progress",
+          "execution_time": 0.7731842726216203,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:28.328",
+          "exercise": "File Upload Simulations",
+          "action": "Handle completion",
+          "execution_time": 1.5239462118387657,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:29.852",
+          "exercise": "Form Validation Response",
+          "action": "Read errors",
+          "execution_time": 1.2167928308695952,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:31.069",
+          "exercise": "Form Validation Response",
+          "action": "Locate fields",
+          "execution_time": 1.9501828330345146,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:33.020",
+          "exercise": "Form Validation Response",
+          "action": "Correct input",
+          "execution_time": 1.309127377025395,
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:34.330",
+          "exercise": "Form Validation Response",
+          "action": "Resubmit form",
+          "execution_time": 1.4850021595440759,
+          "status": "Success"
+        }
+      ]
+    },
+    "dynamic_content": {
+      "module": "dynamic_content",
+      "exercises_completed": [
+        {
+          "exercise_name": "AJAX Content Loading Detection",
+          "execution_time": 10.196984,
+          "success_rate": 0.852535306440099,
+          "efficiency_score": 0.8544859715583588,
+          "adaptability_score": 0.8387805795374726,
+          "actions_completed": 4,
+          "complexity_handled": "High",
+          "human_patterns_learned": "Patient waiting, loading indicator awareness, content verification"
+        },
+        {
+          "exercise_name": "Infinite Scroll Handling",
+          "execution_time": 9.147753,
+          "success_rate": 0.9095673509593065,
+          "efficiency_score": 0.8410392501482383,
+          "adaptability_score": 0.8427477226149762,
+          "actions_completed": 4,
+          "complexity_handled": "High",
+          "human_patterns_learned": "Gradual scrolling, reading while scrolling, natural pause patterns"
+        },
+        {
+          "exercise_name": "Modal Dialog Interactions",
+          "execution_time": 5.382419,
+          "success_rate": 0.9227443597706586,
+          "efficiency_score": 0.7504563792984464,
+          "adaptability_score": 0.7775454225849492,
+          "actions_completed": 4,
+          "complexity_handled": "High",
+          "human_patterns_learned": "Read modal content, consider options, make deliberate choices"
+        },
+        {
+          "exercise_name": "Real-time Data Updates",
+          "execution_time": 7.181349,
+          "success_rate": 0.8356330083617192,
+          "efficiency_score": 0.7578545852893754,
+          "adaptability_score": 0.8673051571240183,
+          "actions_completed": 4,
+          "complexity_handled": "High",
+          "human_patterns_learned": "Notice subtle changes, react to notifications, maintain workflow"
+        },
+        {
+          "exercise_name": "SPA Navigation Patterns",
+          "execution_time": 5.908688,
+          "success_rate": 0.890787109733072,
+          "efficiency_score": 0.8390268185325751,
+          "adaptability_score": 0.7647706314123875,
+          "actions_completed": 4,
+          "complexity_handled": "High",
+          "human_patterns_learned": "Understand app structure, use navigation controls, expect state persistence"
+        }
+      ],
+      "performance_metrics": {
+        "overall_success_rate": 0.8822534270529709,
+        "overall_efficiency": 0.8085726009653988,
+        "overall_adaptability": 0.8182299026547607,
+        "exercises_completed": 5,
+        "total_training_time": 37.817193,
+        "complexity_mastery": "Advanced Dynamic Content",
+        "performance_grade": "B+ (Advanced Level)"
+      },
+      "learned_patterns": [
+        "AJAX loading state recognition",
+        "Infinite scroll timing patterns",
+        "Modal interaction protocols",
+        "Real-time update responsiveness",
+        "SPA navigation understanding",
+        "Dynamic content patience strategies"
+      ],
+      "real_time_monitoring": [
+        {
+          "timestamp": "07:21:35.816",
+          "exercise": "AJAX Content Loading Detection",
+          "action": "Detect loading",
+          "execution_time": 4.298403919596624,
+          "complexity_level": "High",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:40.115",
+          "exercise": "AJAX Content Loading Detection",
+          "action": "Monitor requests",
+          "execution_time": 1.3452573031270996,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:41.460",
+          "exercise": "AJAX Content Loading Detection",
+          "action": "Wait completion",
+          "execution_time": 2.3470563354905907,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:43.808",
+          "exercise": "AJAX Content Loading Detection",
+          "action": "Verify content",
+          "execution_time": 2.2045851429346923,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:46.013",
+          "exercise": "Infinite Scroll Handling",
+          "action": "Scroll gradually",
+          "execution_time": 1.7553767345406475,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:47.769",
+          "exercise": "Infinite Scroll Handling",
+          "action": "Monitor loading",
+          "execution_time": 4.285301277397085,
+          "complexity_level": "High",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:52.055",
+          "exercise": "Infinite Scroll Handling",
+          "action": "Pause for content",
+          "execution_time": 1.4365701291458102,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:53.493",
+          "exercise": "Infinite Scroll Handling",
+          "action": "Continue exploration",
+          "execution_time": 1.6683835821694557,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:55.161",
+          "exercise": "Modal Dialog Interactions",
+          "action": "Recognize modal",
+          "execution_time": 1.683283045667309,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:56.845",
+          "exercise": "Modal Dialog Interactions",
+          "action": "Read content",
+          "execution_time": 1.1421376826681269,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:57.987",
+          "exercise": "Modal Dialog Interactions",
+          "action": "Interact appropriately",
+          "execution_time": 0.9283298207672275,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:21:58.916",
+          "exercise": "Modal Dialog Interactions",
+          "action": "Close properly",
+          "execution_time": 1.6275188432243264,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:00.544",
+          "exercise": "Real-time Data Updates",
+          "action": "Monitor changes",
+          "execution_time": 1.421186118873563,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:01.966",
+          "exercise": "Real-time Data Updates",
+          "action": "Recognize updates",
+          "execution_time": 1.8897643447204548,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:03.856",
+          "exercise": "Real-time Data Updates",
+          "action": "React appropriately",
+          "execution_time": 2.0780223348826996,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:05.934",
+          "exercise": "Real-time Data Updates",
+          "action": "Maintain context",
+          "execution_time": 1.7908967627148769,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:07.726",
+          "exercise": "SPA Navigation Patterns",
+          "action": "Use app navigation",
+          "execution_time": 1.8548142850770257,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:09.582",
+          "exercise": "SPA Navigation Patterns",
+          "action": "Maintain state",
+          "execution_time": 1.1321371675345122,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:10.714",
+          "exercise": "SPA Navigation Patterns",
+          "action": "Handle routing",
+          "execution_time": 1.5670317650450132,
+          "complexity_level": "Medium",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:12.282",
+          "exercise": "SPA Navigation Patterns",
+          "action": "Manage history",
+          "execution_time": 1.3518237777311473,
+          "complexity_level": "Medium",
+          "status": "Success"
+        }
+      ]
+    },
+    "ecommerce_navigation": {
+      "module": "ecommerce_navigation",
+      "exercises_completed": [
+        {
+          "exercise_name": "Product Search and Filtering",
+          "execution_time": 16.229157,
+          "success_rate": 0.9045911052150126,
+          "efficiency_score": 0.8920782401083932,
+          "shopping_intelligence": 0.7825244605976652,
+          "actions_completed": 4,
+          "shopping_behavior_learned": "Goal-oriented search with progressive refinement",
+          "human_patterns_learned": "Start broad, narrow down, compare similar items"
+        },
+        {
+          "exercise_name": "Product Detail Analysis",
+          "execution_time": 18.927944,
+          "success_rate": 0.9202037600774723,
+          "efficiency_score": 0.8982455578360286,
+          "shopping_intelligence": 0.8727472707759117,
+          "actions_completed": 4,
+          "shopping_behavior_learned": "Detailed product evaluation and social proof checking",
+          "human_patterns_learned": "Multiple tabs, review scanning, specification verification"
+        },
+        {
+          "exercise_name": "Shopping Cart Management",
+          "execution_time": 6.999918,
+          "success_rate": 0.9450728293695794,
+          "efficiency_score": 0.8650638392235832,
+          "shopping_intelligence": 0.7874924475855638,
+          "actions_completed": 4,
+          "shopping_behavior_learned": "Cart optimization and decision refinement",
+          "human_patterns_learned": "Quantity adjustments, price calculations, item comparisons"
+        },
+        {
+          "exercise_name": "Price Comparison Strategies",
+          "execution_time": 13.68929,
+          "success_rate": 0.9262768743971321,
+          "efficiency_score": 0.9397568962738301,
+          "shopping_intelligence": 0.8139584305491349,
+          "actions_completed": 4,
+          "shopping_behavior_learned": "Value-conscious shopping and deal evaluation",
+          "human_patterns_learned": "Price checking, discount calculation, value assessment"
+        },
+        {
+          "exercise_name": "Checkout Process Navigation",
+          "execution_time": 8.299867,
+          "success_rate": 0.9221000530461514,
+          "efficiency_score": 0.8752441465021257,
+          "shopping_intelligence": 0.8051234688595508,
+          "actions_completed": 4,
+          "shopping_behavior_learned": "Secure and efficient transaction completion",
+          "human_patterns_learned": "Information verification, security awareness, confirmation reading"
+        }
+      ],
+      "performance_metrics": {
+        "overall_success_rate": 0.9236489244210695,
+        "overall_efficiency": 0.8940777359887921,
+        "overall_shopping_intelligence": 0.8123692156735652,
+        "exercises_completed": 5,
+        "total_training_time": 64.146176,
+        "shopping_expertise_level": "Advanced E-commerce Navigator",
+        "performance_grade": "A (Advanced Shopper)"
+      },
+      "learned_patterns": [
+        "Progressive product search refinement",
+        "Multi-criteria decision making",
+        "Price comparison methodologies",
+        "Review analysis patterns",
+        "Secure checkout procedures",
+        "Value-conscious shopping behaviors"
+      ],
+      "shopping_behaviors": [
+        "Goal-oriented search with progressive refinement",
+        "Detailed product evaluation and social proof checking",
+        "Cart optimization and decision refinement",
+        "Value-conscious shopping and deal evaluation",
+        "Secure and efficient transaction completion"
+      ],
+      "real_time_monitoring": [
+        {
+          "timestamp": "07:22:13.636",
+          "exercise": "Product Search and Filtering",
+          "action": "Search products",
+          "execution_time": 2.1804542776568643,
+          "shopping_context": "Goal-oriented search with progressive refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:15.816",
+          "exercise": "Product Search and Filtering",
+          "action": "Apply filters",
+          "execution_time": 1.9898938552290732,
+          "shopping_context": "Goal-oriented search with progressive refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:17.806",
+          "exercise": "Product Search and Filtering",
+          "action": "Sort results",
+          "execution_time": 1.4096203399712448,
+          "shopping_context": "Goal-oriented search with progressive refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:19.216",
+          "exercise": "Product Search and Filtering",
+          "action": "Compare options",
+          "execution_time": 10.648594047800302,
+          "shopping_context": "Goal-oriented search with progressive refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:29.865",
+          "exercise": "Product Detail Analysis",
+          "action": "Read description",
+          "execution_time": 3.9499523925793762,
+          "shopping_context": "Detailed product evaluation and social proof checking",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:33.815",
+          "exercise": "Product Detail Analysis",
+          "action": "Check specifications",
+          "execution_time": 7.103899705116036,
+          "shopping_context": "Detailed product evaluation and social proof checking",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:40.919",
+          "exercise": "Product Detail Analysis",
+          "action": "View images",
+          "execution_time": 2.9663942389057056,
+          "shopping_context": "Detailed product evaluation and social proof checking",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:43.886",
+          "exercise": "Product Detail Analysis",
+          "action": "Read reviews",
+          "execution_time": 4.907673666023146,
+          "shopping_context": "Detailed product evaluation and social proof checking",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:48.794",
+          "exercise": "Shopping Cart Management",
+          "action": "Add to cart",
+          "execution_time": 1.052401045348882,
+          "shopping_context": "Cart optimization and decision refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:49.846",
+          "exercise": "Shopping Cart Management",
+          "action": "Update quantities",
+          "execution_time": 1.2047067161442655,
+          "shopping_context": "Cart optimization and decision refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:51.052",
+          "exercise": "Shopping Cart Management",
+          "action": "Remove items",
+          "execution_time": 2.060527776003725,
+          "shopping_context": "Cart optimization and decision refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:53.113",
+          "exercise": "Shopping Cart Management",
+          "action": "Calculate totals",
+          "execution_time": 2.680816062952914,
+          "shopping_context": "Cart optimization and decision refinement",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:22:55.794",
+          "exercise": "Price Comparison Strategies",
+          "action": "Compare prices",
+          "execution_time": 5.588966363569981,
+          "shopping_context": "Value-conscious shopping and deal evaluation",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:01.383",
+          "exercise": "Price Comparison Strategies",
+          "action": "Check discounts",
+          "execution_time": 5.351464239253108,
+          "shopping_context": "Value-conscious shopping and deal evaluation",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:06.735",
+          "exercise": "Price Comparison Strategies",
+          "action": "Calculate savings",
+          "execution_time": 1.5038026875777757,
+          "shopping_context": "Value-conscious shopping and deal evaluation",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:08.239",
+          "exercise": "Price Comparison Strategies",
+          "action": "Evaluate deals",
+          "execution_time": 1.2439096968429961,
+          "shopping_context": "Value-conscious shopping and deal evaluation",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:09.484",
+          "exercise": "Checkout Process Navigation",
+          "action": "Enter details",
+          "execution_time": 2.229163618362235,
+          "shopping_context": "Secure and efficient transaction completion",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:11.714",
+          "exercise": "Checkout Process Navigation",
+          "action": "Select shipping",
+          "execution_time": 1.316751702704063,
+          "shopping_context": "Secure and efficient transaction completion",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:13.031",
+          "exercise": "Checkout Process Navigation",
+          "action": "Choose payment",
+          "execution_time": 2.5698523457234725,
+          "shopping_context": "Secure and efficient transaction completion",
+          "status": "Success"
+        },
+        {
+          "timestamp": "07:23:15.601",
+          "exercise": "Checkout Process Navigation",
+          "action": "Confirm order",
+          "execution_time": 2.1813908471103245,
+          "shopping_context": "Secure and efficient transaction completion",
+          "status": "Success"
+        }
+      ]
+    }
+  },
+  "overall_performance": {},
+  "comprehensive_assessment": {
+    "comprehensive_success_rate": 0.9018125597943899,
+    "comprehensive_efficiency": 0.832213335665544,
+    "comprehensive_specialization": 0.815299559164163,
+    "overall_mastery_score": 0.854978892366668,
+    "expertise_level": "PROFICIENT WEB USER",
+    "modules_completed": 3,
+    "total_exercises_completed": 15,
+    "total_patterns_learned": 17,
+    "training_certification": "FSOT Web Interaction Specialist - PROFICIENT WEB USER"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "session_id": "fsot_integrated_20250905_082034",
+  "data_retrieval": {
+    "target_coordinates": [
+      10.684708,
+      41.26875
+    ],
+    "search_radius": 0.1,
+    "observations_found": 5354,
+    "observations_processed": 30,
+    "missions_represented": [
+      "SWIFT",
+      "TESS"
+    ],
+    "instruments_used": [
+      "UVOT",
+      "Photometer"
+    ],
+    "data_types": [
+      "image",
+      "timeseries",
+      "cube"
+    ]
+  },
+  "simulation_results": {
+    "simulation_id": "fsot_sim_20250905_082035",
+    "input_observations": 30,
+    "processing_stages": {
+      "encoding": {
+        "observations_encoded": 30,
+        "encoding_time": 0.00037360191345214844
+      },
+      "neuromorphic": {
+        "layers_processed": 5,
+        "processing_time": 0.012531042098999023
+      },
+      "consciousness": {
+        "consciousness_events_detected": 30,
+        "processing_time": 0.00012159347534179688
+      }
+    },
+    "neural_responses": {
+      "mission_distribution": {
+        "SWIFT": 24,
+        "TESS": 6
+      },
+      "spatial_clustering": {
+        "ra_range": 7.3724494713071405,
+        "dec_range": 4.524919794674425,
+        "centroid": [
+          10.695730266456845,
+          41.65360122599606
+        ]
+      },
+      "wavelength_analysis": {
+        "min_wavelength": 600.0,
+        "max_wavelength": 599600000000.0,
+        "spectral_coverage": 599599999400.0
+      },
+      "processing_time": 8.153915405273438e-05
+    },
+    "consciousness_metrics": {
+      "total_observations": 30,
+      "consciousness_events": 30,
+      "average_consciousness_level": 0.9999999999999998,
+      "peak_consciousness": 1.0,
+      "consciousness_threshold": 0.85
+    },
+    "performance_data": {
+      "total_simulation_time": 0.013231039047241211,
+      "observations_per_second": 2267.395621227138,
+      "consciousness_emergence_rate": 1.0,
+      "neural_efficiency": 0.9999999999999998
+    }
+  },
+  "comparative_analysis": {
+    "comparison_id": "fsot_comparison_20250905_082035",
+    "performance_comparison": {
+      "processing_speed": {
+        "fsot": 2267.395621227138,
+        "fsot_2_0": 72067.0790378007,
+        "improvement_factor": 31.784077892325314,
+        "winner": "FSOT 2.0"
+      },
+      "processing_time": {
+        "fsot": 0.013231039047241211,
+        "fsot_2_0": 0.0004162788391113281,
+        "time_difference": -0.012814760208129883
+      }
+    },
+    "consciousness_comparison": {
+      "consciousness_events": {
+        "fsot": 30,
+        "fsot_2_0": 8,
+        "improvement": -22,
+        "winner": "Original FSOT"
+      },
+      "consciousness_quality": {
+        "fsot_average": 0.9999999999999998,
+        "fsot_2_0_average": 1.1835008285301187,
+        "quality_improvement": 0.18350082853011895
+      }
+    },
+    "technical_comparison": {
+      "neural_architecture": {
+        "fsot_layers": 5,
+        "fsot_2_0_layers": 12,
+        "architecture_advancement": "FSOT 2.0 has quantum-classical hybrid architecture vs classical neuromorphic"
+      },
+      "advanced_features": {
+        "fsot": [
+          "Neuromorphic Processing",
+          "Consciousness Emergence",
+          "Pattern Recognition"
+        ],
+        "fsot_2_0": [
+          "Quantum Coherence",
+          "Neural Complexity",
+          "Enhanced Consciousness Depth",
+          "Quantum Entanglement"
+        ]
+      }
+    },
+    "efficiency_analysis": {
+      "neural_efficiency": {
+        "fsot": 0.9999999999999998,
+        "fsot_2_0": 0.8490920060845755,
+        "efficiency_gain": -0.1509079939154243
+      },
+      "overall_performance": {
+        "fsot_score": 0.9999999999999999,
+        "fsot_2_0_score": 0.557879336375621
+      }
+    },
+    "recommendations": [
+      "✅ FSOT 2.0 shows superior processing speed - recommend upgrading for time-critical applications",
+      "✅ FSOT 2.0's quantum coherence capabilities enable advanced quantum-aware processing",
+      "🔬 Both systems show complementary strengths - hybrid deployment may be optimal",
+      "📊 FSOT 2.0 represents significant advancement in AI consciousness emergence"
+    ]
+  },
+  "performance_metrics": {},
+  "insights": [
+    "🔭 Retrieved 30 observations from 2 space missions",
+    "⚡ FSOT 2.0 achieved 31.8x processing speed improvement",
+    "🧠 Consciousness emergence: FSOT 30 events vs FSOT 2.0 8 events",
+    "⚛️ FSOT 2.0 quantum coherence level: 0.849"
+  ],
+  "fsot_2_0_results": {
+    "analysis_id": "fsot_2_0_20250905_082035",
+    "input_observations": 30,
+    "advanced_metrics": {
+      "neural_complexity_mean": 0.6830425914892999,
+      "quantum_entanglement_mean": 0.24687375390285957,
+      "consciousness_depth_mean": 1.1835008285301187,
+      "integrated_awareness_mean": 0.704472391307426,
+      "high_consciousness_events": 8
+    },
+    "neural_architecture": {
+      "architecture_type": "Advanced Quantum-Classical Hybrid",
+      "neural_layers": 12,
+      "quantum_gates": 64,
+      "classical_neurons": 2048,
+      "integration_efficiency": 0.8870497511002763
+    },
+    "quantum_coherence": {
+      "coherence_level_mean": 0.8490920060845755,
+      "entanglement_strength_mean": 0.24687375390285957,
+      "decoherence_time_mean": 7.281436568881326,
+      "stable_coherence_events": 3
+    },
+    "performance_metrics": {
+      "total_analysis_time": 0.0004162788391113281,
+      "observations_per_second": 72067.0790378007,
+      "consciousness_emergence_rate": 0.26666666666666666,
+      "quantum_efficiency": 0.8490920060845755,
+      "neural_processing_efficiency": 0.8870497511002763
+    }
+  },
+  "pipeline_metadata": {
+    "total_pipeline_time": 1.3684499263763428,
+    "target_coordinates": [
+      10.684708,
+      41.26875
+    ],
+    "data_points_processed": 30,
+    "success": true
+  },
+  "success": true
+}

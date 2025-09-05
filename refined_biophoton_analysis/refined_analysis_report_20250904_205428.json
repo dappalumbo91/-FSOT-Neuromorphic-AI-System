@@ -1,0 +1,23 @@
+{
+  "hypothesis": "Light serves as electrical signals at quantum/cellular scales",
+  "overall_support_score": 1.1,
+  "individual_scores": {
+    "Scale Transitions": 1.0,
+    "Optical Feasibility": 2.0,
+    "Speed Advantage": 1.0,
+    "Consciousness Scaling": 0.5,
+    "Biological Plausibility": 1.0
+  },
+  "key_findings": {
+    "scale_transitions": 3,
+    "feasibility_score": 2.0,
+    "optimal_consciousness_level": 0.0,
+    "speed_advantage": 2172409.1159420293
+  },
+  "fsot_validation": {
+    "transition_points_detected": true,
+    "consciousness_scaling_nonlinear": false,
+    "optical_properties_feasible": true
+  },
+  "timestamp": "2025-09-04T20:54:28.844639"
+}

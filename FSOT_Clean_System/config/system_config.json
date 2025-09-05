@@ -1,0 +1,79 @@
+{
+  "system": {
+    "name": "FSOT 2.0 Neuromorphic AI System",
+    "version": "2.0.0",
+    "description": "FSOT-hardwired neuromorphic AI system with theoretical constraints",
+    "log_level": "INFO",
+    "web_port": 8000,
+    "enable_web_interface": true,
+    "auto_save_interval": 300,
+    "max_concurrent_tasks": 10,
+    "timeout_seconds": 300,
+    "debug_mode": false
+  },
+  "fsot": {
+    "enforce_constraints": true,
+    "max_dimensions": 25,
+    "min_dimensions": 4,
+    "default_dimensions": 12,
+    "scaling_constant": 0.4202216641606967,
+    "consciousness_factor": 0.288,
+    "golden_ratio": 1.6180339887,
+    "use_observer_effects": true,
+    "violation_tolerance": 0.001,
+    "theoretical_compliance_required": true
+  },
+  "brain": {
+    "consciousness_threshold": 0.5,
+    "learning_rate": 0.001,
+    "memory_capacity": 10000,
+    "neural_signal_timeout": 1.0,
+    "auto_cleanup": true,
+    "max_activation_level": 1.0,
+    "coordination_update_interval": 0.5,
+    "module_initialization_timeout": 30.0
+  },
+  "integration": {
+    "enable_api_integration": true,
+    "enable_web_search": true,
+    "enable_autonomous_learning": true,
+    "skill_practice_enabled": true,
+    "max_api_calls_per_minute": 60,
+    "max_api_calls_per_hour": 1000,
+    "search_timeout": 30.0,
+    "learning_session_timeout": 300.0
+  },
+  "memory": {
+    "optimization_enabled": true,
+    "cleanup_interval": 3600,
+    "memory_warning_threshold": 0.8,
+    "memory_critical_threshold": 0.9,
+    "auto_optimization": true,
+    "cache_size_mb": 1024
+  },
+  "security": {
+    "enable_fsot_enforcement": true,
+    "violation_detection": true,
+    "theoretical_validation": true,
+    "input_sanitization": true,
+    "output_validation": true,
+    "safe_mode": false
+  },
+  "performance": {
+    "enable_monitoring": true,
+    "profile_execution": false,
+    "cache_enabled": true,
+    "parallel_processing": true,
+    "max_worker_threads": 4,
+    "response_timeout": 30.0
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file_enabled": true,
+    "file_path": "fsot_system.log",
+    "max_file_size_mb": 100,
+    "backup_count": 5,
+    "console_enabled": true
+  }
+}

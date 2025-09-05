@@ -1,0 +1,119 @@
+{
+  "exploration_timestamp": "20250905_080932",
+  "target_url": "https://archive.stsci.edu/",
+  "platform_type": "Scientific Data Archive",
+  "mission_status": "ENHANCED_EXPLORATION_COMPLETE",
+  "browser_diagnostics": {
+    "page_ready_state": "complete",
+    "final_url": "https://mast.stsci.edu/api/v0/",
+    "page_title": "MAST API: MAST API Documentation"
+  },
+  "content_extraction_methods": [
+    "intelligent_exploration",
+    "page_source",
+    "element_detection"
+  ],
+  "page_source_analysis": {
+    "source_length": 6441,
+    "contains_content": true
+  },
+  "navigation_attempts": [],
+  "scientific_intelligence": {
+    "scientific_terms_found": [
+      "data",
+      "image",
+      "stsci",
+      "star"
+    ],
+    "scientific_density": 4,
+    "platform_detected": true,
+    "stsci_confirmed": true,
+    "stsci_indicators": [
+      "stsci"
+    ]
+  },
+  "debug_information": [],
+  "intelligent_exploration_data": {
+    "url": "https://mast.stsci.edu/api/v0/",
+    "title": "MAST API: MAST API Documentation",
+    "links_found": [
+      {
+        "url": "https://mast.stsci.edu/",
+        "text": "Discovery Portal",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/#",
+        "text": "archive@stsci.edu",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/class_mashup_1_1_mashup_request.html",
+        "text": "MashupRequest",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/_services.html",
+        "text": "Services",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/md_result_formats.html",
+        "text": "Result Dataset Formats",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/pyex.html",
+        "text": "Examples",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/MastApiTutorial.html",
+        "text": "Tutorial",
+        "is_external": false
+      },
+      {
+        "url": "https://mast.stsci.edu/api/v0/class_mashup_1_1_mashup_request.html",
+        "text": "MashupRequest",
+        "is_external": false
+      },
+      {
+        "url": "https://www.stsci.edu/privacy",
+        "text": "Privacy Policy",
+        "is_external": true
+      }
+    ],
+    "forms_found": [],
+    "images_found": [
+      {
+        "src": "https://mast.stsci.edu/api/v0/mastlogo_thumb.png",
+        "alt": "MAST Logo"
+      },
+      {
+        "src": "https://mast.stsci.edu/api/v0/LongPolling.png",
+        "alt": ""
+      },
+      {
+        "src": "https://mast.stsci.edu/api/v0/doxygen.png",
+        "alt": "doxygen"
+      }
+    ],
+    "text_content": "MAST API\nTools for programmatically querying the MAST Portal.\nMAST API Documentation\nThe MAST API allows for queries to be performed programmatically rather than through the Discovery Portal. This documentation describes how to create a valid MAST Query, as well as the MAST Services of interest to an API user.\nQuestions/Comments/Feedback: contact archive@stsci.edu\nDocumentation Organization\nThe MashupRequest class documentation provides information for properly formatting a MAST request to the mast servers.\nThe Services documentation provides information about specific services that may be used.\nThe Result Dataset Formats page documents possible return types.\nThe Examples page contains working code for various MAST Queries in Python.\nThere is also a Tutorial that goes through a basic workflow from initial query to data download.\nThe MAST Request Url\nThe MAST Request Url is https://mast.stsci.edu/api/v0/invoke?request=(MAST Request Object).\nThe MAST service takes a single request argument, ?request=(MAST Request Object), a json object.\nThe MAST service supports both HTTP GET and HTTP POST request types.\nThe MAST Request Object\nThis is an example of the MAST Request Object, which is a MashupRequest Class json object. Each property is described in detail in the MashupRequest section.\n {'service':'Mast.Caom.Cone',\n  'params':{'ra':254.28746,\n            'dec':-4.09933,\n            'radius':0.2},\n  'format':'json',\n  'pagesize':2000,\n  'removenullcolumns':True,\n  'timeout':30,\n  'cachebreaker': '2020-02-12T0749'}\nA note about large queries\nThe maximum result size for a MAST Query is roughly 500,000 records (rows) due to server memory limits. If a query results in a larger response, it will raise a memory error. From a user perspective, the query errors out with the message \"[Errno 54] Connection reset by peer.\" If this happens the query should be constrained (decrease the search radius, add more filtering) such that fewer records will be returned.\nLong Polling\nMAST is a ",
+    "interactive_elements": []
+  },
+  "element_detection": {
+    "links_count": 16,
+    "forms_count": 0,
+    "images_count": 3,
+    "headings_count": 5,
+    "sample_link_texts": [
+      "Discovery Portal",
+      "archive@stsci.edu",
+      "MashupRequest",
+      "Services",
+      "Result Dataset Formats",
+      "Examples",
+      "Tutorial"
+    ]
+  }
+}

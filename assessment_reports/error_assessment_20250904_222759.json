@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-09-04T22:27:59.797783",
+  "total_files_analyzed": 200,
+  "total_errors": 1,
+  "total_warnings": 0,
+  "errors_by_category": {
+    "syntax": 1
+  },
+  "errors_by_severity": {
+    "critical": 1
+  },
+  "top_priority_fixes": [],
+  "improvement_suggestions": [],
+  "progress_since_last": null
+}

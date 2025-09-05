@@ -1,0 +1,138 @@
+{
+  "ohara_ai_exploration": {
+    "timestamp": "2025-09-05T07:58:44.657265",
+    "url_explored": "https://ohara.ai/users/Dappalumbo91",
+    "page_title": "Ohara",
+    "content_analysis": {
+      "total_links": 4,
+      "total_forms": 1,
+      "total_images": 10,
+      "total_interactive_elements": 8,
+      "text_content_length": 2000
+    },
+    "profile_elements_found": 0,
+    "ai_content_keywords": [
+      "ai",
+      "ml"
+    ],
+    "exploration_summary": "Successfully analyzed Ohara.ai profile using FSOT autonomous web crawler"
+  },
+  "detailed_page_data": {
+    "url": "https://ohara.ai/",
+    "title": "Ohara",
+    "links_found": [
+      {
+        "url": "https://ohara.ai/",
+        "text": "CONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW",
+        "is_external": false
+      },
+      {
+        "url": "https://ohara.ai/auth/login",
+        "text": "Login",
+        "is_external": false
+      },
+      {
+        "url": "https://ohara.ai/auth/signup",
+        "text": "Sign Up",
+        "is_external": false
+      },
+      {
+        "url": "https://ohara.ai/mini-apps/ce85c2a2-1c7b-4a17-b015-9f5f0e9e21b8/build?contest=show",
+        "text": "Join Contest",
+        "is_external": false
+      }
+    ],
+    "forms_found": [
+      {
+        "action": "https://ohara.ai/",
+        "method": "get",
+        "inputs": []
+      }
+    ],
+    "images_found": [
+      {
+        "src": "https://ohara.ai/icons/ohara-logo.svg",
+        "alt": "Ohara Logo"
+      },
+      {
+        "src": "https://ohara.ai/icons/contest.svg",
+        "alt": "Contest"
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_cmf5ikvxs000104jy0zvkdvdy-lJV6rSnOvCjaHj8yT7QEBfl9qCrkVI&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/icons/verifiedUser.svg",
+        "alt": "Verified user"
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_415ad95c-aba0-43f0-918c-4234697ca11f-dGZojD4po7rz0bi2wndPs2vha5rzwB&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_cmf5wztpz000004lbafkj9e2p-tK3IDmkZrUKraXkP73kkyU19eimQhm&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_e190af5d-8896-48c7-8d18-80d7d37df123-64d8PdtxCoDbF4iLkJ9L5GY234fo3X&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_278cda06-3985-46b7-a06c-d8d965233712-JH7v53Tqz0JmPRDDHXSQNH0AO0gecQ&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_47429d36-26e2-404b-82cf-55f6ed471a7c-SNuKiMuEDHmRW5vESQGUVdTmKuSljj&w=128&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://ohara.ai/_next/image?url=https%3A%2F%2Fusdozf7pplhxfvrl.public.blob.vercel-storage.com%2Fthumbnail_66a4c507-3943-4043-952c-f71a8ee54094-9lsExqgybmBptW2vyCqOVIEPe73bOu&w=128&q=75",
+        "alt": ""
+      }
+    ],
+    "text_content": "CONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nCONTEST HAPPENING NOW\nLogin\nSign Up\nLIVE NOW\n5 DAYS LEFT\nCreate apps by chatting with AI\nTurn your ideas into apps & win $1,000 in funding\nBuild a Tetris-like game with falling blocks.\nCreate a simple to-do list app with reminders.\nMake a quiz app for a 6th-grade geography class.\nFeatured\nLast Week\u2019s Contest: Build the Ultimate Health Miniapp\n3 days left to create\n6 days until winner\nWinner\nSerenity - Relaxation Space\n@0xDecentralized\n$19.1K\n489.8%\n5 days 21 hours\nBest Music Miniapp\nDeep dive into the Music Contest - where miniapps meet musical passion to inspire creators worldwide \u2014 users invest to vote, and Ohara backs the highest market cap with $1,000.\nJoin Contest\nContest Submissions\nTrending Apps\nVote by investing in your favorite apps. Winner is the one with the highest market cap and will receive $1K in funding from Ohara.\n1\nPlaylist\nCreate and share playlists from YouTube, SoundCloud, Spotify links. Curate your playlists and share with friends\n$PLAYLIST \u00b7 Slava\nInvest\nMCAP $7.2K\n2\nPogo.ai\nYour one stop platform for financial freedom mentality!!\n$POGO \u00b7 Jacques Van Heerden\nInvest\nMCAP $3.7K\n3\nOnchainTV Music Video Streamer\nA music-video streaming app with a continuous \"channel surfing\" experience that creates an engaging, almost nostalgic TV-like experience but for the web3 era. Surf, select a channel (genre), and get inspired as a curated playlist of music videos from musicians around the world\n$ONCHAINTV \u00b7 SAMO_miyagi\nInvest\nMCAP $3.4K\n4\n4Kaigen Video AI Generator -Techaasvik\nTransform text and frames into high-quality 4K videos with Hindi voiceovers. An open-source tool for seamless video creation, brought to you by Techaasvik.\n$1000 \u00b7 Yoyo Honey\nInvest\nMCAP $3.4K\n5\nMath Fun 4th Grader\nEngage 4th graders with fun math games and puzzles. Boost skills with interactive challenges that ",
+    "interactive_elements": [
+      {
+        "type": "button",
+        "text": "Build a Tetris-like game with falling blocks.",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Create a simple to-do list app with reminders.",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Make a quiz app for a 6th-grade geography class.",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Contest Submissions",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Trending Apps",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Invest",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Invest",
+        "clickable": true
+      },
+      {
+        "type": "button",
+        "text": "Invest",
+        "clickable": true
+      }
+    ]
+  }
+}

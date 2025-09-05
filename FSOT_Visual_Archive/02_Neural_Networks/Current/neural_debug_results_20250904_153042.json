@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-04T15:30:42.918531",
+  "steps_run": 5,
+  "pathway_outputs": [
+    {
+      "prefrontal_cortex": {
+        "prefrontal_cortex_node_3": 1.0,
+        "prefrontal_cortex_node_4": 1.0
+      },
+      "temporal_lobe": {
+        "temporal_lobe_node_2": 1.0
+      },
+      "occipital_lobe": {
+        "occipital_lobe_node_2": 1.0
+      }
+    },
+    {
+      "prefrontal_cortex": {},
+      "temporal_lobe": {},
+      "occipital_lobe": {}
+    },
+    {
+      "prefrontal_cortex": {
+        "prefrontal_cortex_node_3": 1.0,
+        "prefrontal_cortex_node_4": 1.0
+      },
+      "temporal_lobe": {
+        "temporal_lobe_node_2": 1.0
+      },
+      "occipital_lobe": {
+        "occipital_lobe_node_2": 1.0
+      }
+    },
+    {
+      "prefrontal_cortex": {},
+      "temporal_lobe": {},
+      "occipital_lobe": {}
+    },
+    {
+      "prefrontal_cortex": {
+        "prefrontal_cortex_node_3": 1.0,
+        "prefrontal_cortex_node_4": 1.0
+      },
+      "temporal_lobe": {
+        "temporal_lobe_node_2": 1.0
+      },
+      "occipital_lobe": {
+        "occipital_lobe_node_2": 1.0
+      }
+    }
+  ],
+  "system_metrics": [
+    {
+      "step": 0,
+      "time": 1.0,
+      "avg_activity": 1.0,
+      "total_pathways": 3
+    },
+    {
+      "step": 1,
+      "time": 2.0,
+      "avg_activity": 0.0,
+      "total_pathways": 3
+    },
+    {
+      "step": 2,
+      "time": 3.0,
+      "avg_activity": 1.0,
+      "total_pathways": 3
+    },
+    {
+      "step": 3,
+      "time": 4.0,
+      "avg_activity": 0.0,
+      "total_pathways": 3
+    },
+    {
+      "step": 4,
+      "time": 5.0,
+      "avg_activity": 1.0,
+      "total_pathways": 3
+    }
+  ],
+  "fsot_metrics": [
+    {
+      "step": 0,
+      "fsot_scalar": 0.9318355674304304,
+      "pathway_coherence": [
+        0.9367986854777383,
+        0.9367986854777383,
+        0.9367986854777383
+      ]
+    },
+    {
+      "step": 1,
+      "fsot_scalar": 0.9318355674304304,
+      "pathway_coherence": [
+        0.9367986854777383,
+        0.9367986854777383,
+        0.9367986854777383
+      ]
+    },
+    {
+      "step": 2,
+      "fsot_scalar": 0.9318355674304304,
+      "pathway_coherence": [
+        0.9367986854777383,
+        0.9367986854777383,
+        0.9367986854777383
+      ]
+    },
+    {
+      "step": 3,
+      "fsot_scalar": 0.9318355674304304,
+      "pathway_coherence": [
+        0.9367986854777383,
+        0.9367986854777383,
+        0.9367986854777383
+      ]
+    },
+    {
+      "step": 4,
+      "fsot_scalar": 0.9318355674304304,
+      "pathway_coherence": [
+        0.9367986854777383,
+        0.9367986854777383,
+        0.9367986854777383
+      ]
+    }
+  ],
+  "integration_status": {
+    "brain_system": "active",
+    "consciousness": 0.06512235104799828
+  }
+}

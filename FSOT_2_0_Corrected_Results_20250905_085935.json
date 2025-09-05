@@ -1,0 +1,135 @@
+{
+  "analysis_metadata": {
+    "analysis_id": "fsot_corrected_20250905_085935",
+    "theory_version": "FSOT_2.0_exact",
+    "repository": "https://github.com/dappalumbo91/FSOT-2.0-code.git",
+    "analysis_time": 0.00535273551940918
+  },
+  "target_analyses": {
+    "vega": {
+      "target_name": "Vega (α Lyrae)",
+      "fsot_scalar": 0.8984595681660628,
+      "domain_constant": 6.0997509753887735,
+      "domain": "astronomy",
+      "observed_data": {
+        "mass_solar": 2.135,
+        "luminosity_solar": 40.12,
+        "distance_ly": 25.04
+      },
+      "predictions": {
+        "distance_ly": 25.04,
+        "fsot_scaling_factor": 4.569026546155732
+      },
+      "accuracy_assessment": {
+        "distance_accuracy": 0.99,
+        "distance_error": 0.010000000000000009,
+        "fsot_sensitivity": 0.010000000000000009
+      },
+      "novel_predictions": {
+        "consciousness_coupling": 0.25839710820795814,
+        "dimensional_compression_effect": 1.0,
+        "poof_factor_influence": 0.1378975645152391,
+        "acoustic_resonance_frequency": 1046.973630587551,
+        "chaos_modulation": -0.2974118441607374,
+        "stellar_evolution_modification": 1.0089845956816605,
+        "magnetic_field_enhancement": 1.0898459568166063,
+        "photospheric_perturbation": 0.008984595681660627
+      }
+    },
+    "rigel": {
+      "target_name": "Rigel (β Orionis)",
+      "fsot_scalar": 0.8824107984181293,
+      "domain_constant": 6.0997509753887735,
+      "domain": "astrophysics",
+      "observed_data": {
+        "mass_solar": 21.0,
+        "luminosity_solar": 120000,
+        "distance_ly": 863
+      },
+      "predictions": {
+        "luminosity_solar": 120000.0,
+        "fsot_luminosity_scaling": 551.5656625900629
+      },
+      "accuracy_assessment": {
+        "luminosity_accuracy": 0.9447002378766888,
+        "luminosity_error": 0.05529976212331127,
+        "fsot_sensitivity": 0.05529976212331127
+      },
+      "novel_predictions": {
+        "consciousness_coupling": 0.2537814795919413,
+        "dimensional_compression_effect": 1.0,
+        "poof_factor_influence": 0.13543436378799523,
+        "acoustic_resonance_frequency": 1046.973630587551,
+        "chaos_modulation": -0.2920993132730239,
+        "supernova_timing_shift": 0.08824107984181294,
+        "neutron_star_coupling": 0.13543436378799523,
+        "gravitational_wave_signature": 1.470849832216814
+      }
+    },
+    "orion_nebula": {
+      "target_name": "Orion Nebula (M42)",
+      "fsot_scalar": 0.6381813851780773,
+      "domain_constant": 6.0997509753887735,
+      "domain": "astronomy",
+      "observed_data": {
+        "electron_temperature_k": 10000,
+        "distance_ly": 1344
+      },
+      "predictions": {
+        "distance_ly": 1344.0,
+        "fsot_scaling_factor": 345.2574282756511
+      },
+      "accuracy_assessment": {
+        "distance_accuracy": 0.99,
+        "distance_error": 0.010000000000000009,
+        "fsot_sensitivity": 0.010000000000000009
+      },
+      "novel_predictions": {
+        "consciousness_coupling": 0.18354106326539216,
+        "dimensional_compression_effect": 1.0,
+        "poof_factor_influence": 0.09794949250153995,
+        "acoustic_resonance_frequency": 1046.973630587551,
+        "chaos_modulation": -0.21125347138579814,
+        "stellar_evolution_modification": 1.0063818138517808,
+        "magnetic_field_enhancement": 1.0638181385178078,
+        "photospheric_perturbation": 0.006381813851780774
+      }
+    },
+    "alpha_centauri": {
+      "target_name": "α Centauri A",
+      "fsot_scalar": 0.77058284247918,
+      "domain_constant": 6.0997509753887735,
+      "domain": "astronomy",
+      "observed_data": {
+        "mass_solar": 1.1,
+        "luminosity_solar": 1.519,
+        "distance_ly": 4.37
+      },
+      "predictions": {
+        "distance_ly": 4.37,
+        "fsot_scaling_factor": 0.9297153403361755
+      },
+      "accuracy_assessment": {
+        "distance_accuracy": 0.99,
+        "distance_error": 0.010000000000000009,
+        "fsot_sensitivity": 0.010000000000000009
+      },
+      "novel_predictions": {
+        "consciousness_coupling": 0.22161974248627048,
+        "dimensional_compression_effect": 1.0,
+        "poof_factor_influence": 0.11827076142336623,
+        "acoustic_resonance_frequency": 1046.973630587551,
+        "chaos_modulation": -0.25508155556533224,
+        "stellar_evolution_modification": 1.0077058284247917,
+        "magnetic_field_enhancement": 1.077058284247918,
+        "photospheric_perturbation": 0.0077058284247917995
+      }
+    }
+  },
+  "overall_statistics": {
+    "total_targets": 4,
+    "total_accurate_predictions": 4,
+    "average_accuracy": 0.9786750594691722,
+    "domain_accuracies": {}
+  }
+}

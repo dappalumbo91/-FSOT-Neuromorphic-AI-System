@@ -1,0 +1,39 @@
+{
+  "system_id": "FSOT_Complete_20250904_153343",
+  "timestamp": "2025-09-04T15:33:43.137496",
+  "runtime": 0.1133418083190918,
+  "system_status": {
+    "initialized": true,
+    "emergency_stop": false,
+    "current_step": 51,
+    "components_active": {
+      "fsot_core": true,
+      "brain_system": true,
+      "neural_debug_system": true
+    }
+  },
+  "performance_metrics": {
+    "total_processing_time": 0.07634735107421875,
+    "average_step_time": 0.0014970068838082108,
+    "steps_per_second": 667.9996002798041
+  },
+  "component_details": {
+    "brain_system": {
+      "regions": 8,
+      "total_neurons": 250000,
+      "consciousness_tracking": true
+    },
+    "neural_debug_system": {
+      "pathways": 8,
+      "total_nodes": 31,
+      "total_connections": 25
+    }
+  },
+  "debug_summary": {
+    "debug_entries": 3,
+    "recent_performance": []
+  },
+  "recommendations": [
+    "System is operating optimally"
+  ]
+}

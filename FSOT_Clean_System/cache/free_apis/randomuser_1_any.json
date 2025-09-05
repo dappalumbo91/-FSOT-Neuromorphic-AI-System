@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Isabelle",
+        "last": "Griffin"
+      },
+      "location": {
+        "street": {
+          "number": 8972,
+          "name": "The Avenue"
+        },
+        "city": "Tullow",
+        "state": "Donegal",
+        "country": "Ireland",
+        "postcode": 98444,
+        "coordinates": {
+          "latitude": "1.4464",
+          "longitude": "35.5692"
+        },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "isabelle.griffin@example.com",
+      "login": {
+        "uuid": "656bedf3-f8c5-4010-9095-4e3eb5612c61",
+        "username": "goldenfrog936",
+        "password": "mdogg",
+        "salt": "FXuafdJc",
+        "md5": "966d9ced714dcddba7bf6fd7f803a134",
+        "sha1": "072123fcc4e6a83a69830526219ff13823bd2c36",
+        "sha256": "65e3ddce84cbda3d9ad547153f6241b57d0608dad1072a1ce09807c45797177b"
+      },
+      "dob": {
+        "date": "1956-02-16T06:13:11.270Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2020-03-27T21:46:29.644Z",
+        "age": 5
+      },
+      "phone": "031-311-7403",
+      "cell": "081-082-7442",
+      "id": {
+        "name": "PPS",
+        "value": "7097926T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+      },
+      "nat": "IE"
+    }
+  ],
+  "info": {
+    "seed": "fa42b48714043bd5",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

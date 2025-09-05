@@ -1,0 +1,42 @@
+{
+  "monitor_id": "fsot_monitor_20250905_072542",
+  "report_timestamp": "2025-09-05T07:26:12.870997",
+  "monitoring_duration": "-1 day, 23:59:59.999881",
+  "total_sessions": 1,
+  "total_activities": 12,
+  "session_metrics": [
+    {
+      "session_id": "session_072542",
+      "start_time": "2025-09-05 07:25:42.831497",
+      "duration": "0:00:30.039500",
+      "pages_visited": 1,
+      "actions_performed": 12,
+      "success_rate": 0.8333333333333334,
+      "efficiency_score": 1.0,
+      "behavioral_pattern": "Autonomous Exploration",
+      "data_collected": 2
+    }
+  ],
+  "performance_summary": {
+    "overall_success_rate": 0.8333333333333334,
+    "average_activity_duration": 1.2003514119509016,
+    "activity_types_count": {
+      "SCREENSHOT": 3,
+      "DECISION": 4,
+      "EXTRACT": 2,
+      "SCROLL": 2,
+      "TYPE": 1
+    },
+    "urls_visited": 1,
+    "alerts_generated": 1
+  },
+  "behavioral_analysis": {
+    "interaction_patterns": [
+      "Human-like interaction timing",
+      "Systematic page exploration"
+    ],
+    "navigation_efficiency": 0.7291666666666667,
+    "exploration_strategy": "Systematic and thorough",
+    "human_likeness_score": 0.9493599031979494
+  }
+}

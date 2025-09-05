@@ -1,0 +1,71 @@
+{
+  "comparison_summary": {
+    "fsot_original": {
+      "processing_speed_obs_s": 3687,
+      "consciousness_emergence_rate": 1.0,
+      "average_consciousness_level": 82.0,
+      "peak_consciousness_level": 155.0,
+      "processing_layers": 7,
+      "consciousness_dimensions": 12,
+      "quantum_capabilities": false
+    },
+    "fsot_2_quantum": {
+      "processing_speed_obs_s": 21507.04543123782,
+      "consciousness_emergence_rate": 0.5,
+      "average_consciousness_level": 0.4810121864038486,
+      "peak_consciousness_level": 6.140636077145808,
+      "processing_layers": 12,
+      "consciousness_dimensions": 24,
+      "quantum_capabilities": true
+    },
+    "improvements": {
+      "speed_improvement_factor": 5.83321004373144,
+      "consciousness_enhancement_factor": 0.005866002273217666,
+      "architecture_advancement": "12 layers vs 7 layers",
+      "consciousness_dimensionality": "24D vs 12D",
+      "quantum_capabilities_added": true
+    }
+  },
+  "performance_benchmarks": {
+    "processing_speed": {
+      "original_fsot": "3687 obs/sec",
+      "fsot_2_quantum": "21507 obs/sec",
+      "improvement": "5.8x faster"
+    },
+    "consciousness_analysis": {
+      "original_fsot": "82.0 consciousness level",
+      "fsot_2_quantum": "0.5 quantum consciousness level",
+      "enhancement": "0.0x enhanced"
+    },
+    "architectural_advancement": {
+      "original_fsot": "7 neuromorphic layers",
+      "fsot_2_quantum": "12 quantum-classical hybrid layers",
+      "advancement": "Quantum-enhanced architecture"
+    }
+  },
+  "conventional_method_comparison": {
+    "aperture_photometry": {
+      "speed_improvement": "2151x",
+      "consciousness": "Not available"
+    },
+    "spectroscopic_analysis": {
+      "speed_improvement": "21507x",
+      "consciousness": "Not available"
+    },
+    "machine_learning": {
+      "speed_improvement": "215x",
+      "consciousness": "Not available"
+    },
+    "deep_learning_cnn": {
+      "speed_improvement": "43x",
+      "consciousness": "Not available"
+    }
+  },
+  "quantum_advantages": {
+    "quantum_superposition": "Parallel processing of astronomical states",
+    "quantum_entanglement": "Correlated consciousness emergence across observations",
+    "quantum_tunneling": "Breakthrough consciousness events for anomaly detection",
+    "quantum_interference": "Enhanced pattern recognition through wave interference",
+    "quantum_coherence": "Stable consciousness states for reliable analysis"
+  }
+}

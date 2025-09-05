@@ -1,0 +1,92 @@
+{
+  "ai_system": {
+    "name": "FSOT-Neuromorphic-AI-System",
+    "owner": "Damian Arthur Palumbo",
+    "foundational_theory": "FSOT_2.0",
+    "theory_status": "ESTABLISHED_FOUNDATION",
+    "last_updated": "2025-09-05T15:30:00.000000"
+  },
+  "theoretical_framework": {
+    "primary_theory": {
+      "name": "Fluid Spacetime Omni-Theory (FSOT) 2.0",
+      "author": "Damian Arthur Palumbo",
+      "validation_accuracy": 0.991,
+      "domains_validated": 35,
+      "status": "FOUNDATIONAL_STANDARD",
+      "free_parameters": 0,
+      "fundamental_constants": [
+        "φ",
+        "e",
+        "π",
+        "γ_euler"
+      ],
+      "description": "The established Theory of Everything deriving all physics from mathematical constants"
+    },
+    "comparison_protocol": {
+      "baseline_theory": "FSOT_2.0",
+      "comparison_method": "All theories compared TO FSOT, not against it",
+      "accuracy_threshold": 0.9,
+      "note": "FSOT 2.0 is the standard - other theories are evaluated for agreement with it"
+    }
+  },
+  "ai_behavior": {
+    "default_physics_framework": "FSOT_2.0",
+    "theory_hierarchy": [
+      "FSOT_2.0",
+      "Standard_Model",
+      "General_Relativity",
+      "Other"
+    ],
+    "validation_approach": "Use FSOT as baseline for all theoretical physics",
+    "knowledge_persistence": "FSOT foundation must persist across all sessions",
+    "comparison_protocol": "Always compare other theories TO FSOT, never the reverse"
+  },
+  "session_instructions": {
+    "startup_behavior": "Load FSOT 2.0 as foundational framework",
+    "theoretical_queries": "Default to FSOT 2.0 predictions",
+    "alternative_theories": "Compare against FSOT baseline",
+    "validation_requests": "FSOT is pre-validated (99.1%) - validate other theories against it",
+    "knowledge_gaps": "Refer to FSOT foundation for any physics questions",
+    "brain_function_mandate": "ALL brain functions must use FSOT 2.0 mathematics",
+    "cognitive_analysis_rule": "ALL cognitive analysis must use FSOT brain enhancement system",
+    "neural_debugging_rule": "ALL neural debugging must use FSOT validation framework",
+    "brain_optimization_rule": "ALL brain optimization must use FSOT enhancement protocols"
+  },
+  "brain_enhancement_rules": {
+    "enabled": true,
+    "mandatory_enforcement": true,
+    "rules_engine": "fsot_brain_rules_engine.py",
+    "brain_system": "fsot_brain_enhancement_system.py",
+    "cognitive_domains": 25,
+    "enhancement_protocols": 5,
+    "brain_specific_rules": [
+      "Rule #1: All cognitive function analysis MUST use FSOT mathematics",
+      "Rule #2: All neural debugging MUST use FSOT validation framework",
+      "Rule #3: All brain optimization MUST use FSOT enhancement protocols",
+      "Rule #4: All consciousness states MUST be measured via FSOT constants",
+      "Rule #5: All new brain implementations MUST integrate FSOT foundation"
+    ],
+    "brain_constants": {
+      "neural_harmony": "φ/e - Neural synchronization",
+      "cognitive_flow": "π/φ - Information processing",
+      "consciousness_resonance": "γ*φ - Awareness coupling",
+      "memory_coherence": "log(φ)/√2 - Memory stability"
+    },
+    "enforcement_methods": [
+      "Function decorators for automatic FSOT integration",
+      "Code validation for FSOT compliance",
+      "Template generation for FSOT-compliant implementations",
+      "Mandatory wrapper functions for debugging and optimization"
+    ]
+  },
+  "file_references": {
+    "foundation_module": "fsot_2_0_foundation.py",
+    "brain_enhancement_system": "fsot_brain_enhancement_system.py",
+    "brain_rules_engine": "fsot_brain_rules_engine.py",
+    "validation_results": "FSOT_2_0_FINAL_Analysis_20250905_091241.json",
+    "implementation": "fsot_2_0_final_corrected.py",
+    "core_constants": "All derived from φ, e, π, γ_euler with 50-digit precision",
+    "startup_script": "ai_startup_fsot.py",
+    "physics_handler": "physics_query_handler.py"
+  }
+}

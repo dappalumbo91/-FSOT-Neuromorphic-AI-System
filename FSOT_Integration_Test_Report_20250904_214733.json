@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-09-04T21:47:33.835400",
+  "total_execution_time": 0.19902729988098145,
+  "test_summary": {
+    "total_tests": 4,
+    "passed_tests": 3,
+    "failed_tests": 1,
+    "success_rate": 0.75
+  },
+  "test_results": [
+    {
+      "name": "FSOT Compatibility Tests",
+      "passed": false,
+      "execution_time": 0.0016093254089355469,
+      "details": {
+        "basic_decorator": true,
+        "class_constructor": false,
+        "neural_integration": false
+      },
+      "error_message": ""
+    },
+    {
+      "name": "Pattern Recognition Application",
+      "passed": true,
+      "execution_time": 4.935264587402344e-05,
+      "details": {
+        "recognition_accuracy": 0.87,
+        "processing_speed_pps": 150,
+        "network_type": "neuromorphic_vision"
+      },
+      "error_message": ""
+    },
+    {
+      "name": "Real-time Processing Application",
+      "passed": true,
+      "execution_time": 0.00033664703369140625,
+      "details": {
+        "average_latency_ms": 50.0,
+        "throughput_cps": 20.0,
+        "real_time_capable": true
+      },
+      "error_message": ""
+    },
+    {
+      "name": "Adaptive Learning Application",
+      "passed": true,
+      "execution_time": 1.049041748046875e-05,
+      "details": {
+        "initial_accuracy": 0.6,
+        "final_accuracy": 0.7050303492420287,
+        "learning_speed": 0.01050303492420287,
+        "adaptation_successful": false
+      },
+      "error_message": ""
+    }
+  ],
+  "benchmark_summary": {
+    "total_benchmarks": 3,
+    "average_speedup": 1.3260570200371655,
+    "total_memory_efficiency": 170.5
+  },
+  "benchmark_results": [
+    {
+      "test_name": "Forward Pass Speed",
+      "neuromorphic_time": 1.0,
+      "traditional_time": 0.017731499671936036,
+      "speedup_factor": 0.017731499671936036,
+      "memory_usage_mb": 50.0,
+      "accuracy_comparison": {
+        "neuromorphic": 0.85,
+        "traditional": 0.82
+      }
+    },
+    {
+      "test_name": "Learning Efficiency",
+      "neuromorphic_time": 0.5,
+      "traditional_time": 1.0,
+      "speedup_factor": 2.0,
+      "memory_usage_mb": 75.0,
+      "accuracy_comparison": {
+        "neuromorphic_final": 0.85,
+        "traditional_final": 0.8,
+        "neuromorphic_convergence_speed": 0.85,
+        "traditional_convergence_speed": 0.6
+      }
+    },
+    {
+      "test_name": "Memory Efficiency",
+      "neuromorphic_time": 0.1,
+      "traditional_time": 0.1,
+      "speedup_factor": 1.9604395604395606,
+      "memory_usage_mb": 45.5,
+      "accuracy_comparison": {
+        "neuromorphic_memory_mb": 45.5,
+        "traditional_memory_mb": 89.2,
+        "memory_efficiency": 1.9604395604395606
+      }
+    }
+  ],
+  "recommendations": [
+    "Fix 1 failing tests before production deployment",
+    "Implement continuous integration testing for FSOT compliance",
+    "Develop domain-specific benchmarks for each application area",
+    "Create user documentation for neuromorphic application development",
+    "Establish performance monitoring for production deployments"
+  ]
+}

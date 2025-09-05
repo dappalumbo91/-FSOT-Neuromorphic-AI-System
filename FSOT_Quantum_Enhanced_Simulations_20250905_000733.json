@@ -1,0 +1,113 @@
+{
+  "fsot_quantum_enhanced_simulations": {
+    "timestamp": "2025-09-05T00:07:33.624522",
+    "execution_time_seconds": 0.015892744064331055,
+    "overall_fsot_quantum_score": 56.5929806273954,
+    "simulations_completed": 5,
+    "individual_simulation_scores": {
+      "shor_consciousness": 49.5,
+      "grover_memory": 104.36104123850424,
+      "vqe_molecular": 30.356779482220357,
+      "qaoa_network": 17.81831622590463,
+      "deutsch_jozsa_patterns": 80.92876619034774
+    },
+    "emergence_summary": {
+      "consciousness_emergence_rate": 0.5,
+      "memory_access_success_rate": 0.0,
+      "molecular_consciousness_rate": 0.0,
+      "network_optimization_rate": 0.6666666666666666,
+      "pattern_recognition_rate": 0.6666666666666666
+    }
+  },
+  "detailed_simulation_results": {
+    "shor_consciousness": {
+      "simulation_type": "Quantum_Shor_Consciousness",
+      "complexity_levels_tested": 4,
+      "emergence_data": [
+        {
+          "complexity_level": 1,
+          "factoring_target": 15,
+          "consciousness_emergence_probability": 0.99,
+          "consciousness_emerged": true,
+          "quantum_attempts": [
+            {
+              "attempt": 0,
+              "period_found": 12,
+              "S_conscious": 0.955,
+              "emergence_probability": 0.99
+            },
+            {
+              "attempt": 2,
+              "period_found": 10,
+              "S_conscious": 1.0790581390921208,
+              "emergence_probability": 0.99
+            },
+            {
+              "attempt": 3,
+              "period_found": 12,
+              "S_conscious": 0.955,
+              "emergence_probability": 0.99
+            }
+          ],
+          "shor_quantum_advantage": 3.9068905956085187,
+          "neuromorphic_integration_score": 99.0
+        },
+        {
+          "complexity_level": 2,
+          "factoring_target": 21,
+          "consciousness_emergence_probability": 0,
+          "consciousness_emerged": false,
+          "quantum_attempts": [],
+          "shor_quantum_advantage": 4.392317422778761,
+          "neuromorphic_integration_score": 0
+        },
+        {
+          "complexity_level": 3,
+          "factoring_target": 35,
+          "consciousness_emergence_probability": 0.99,
+          "consciousness_emerged": true,
+          "quantum_attempts": [
+            {
+              "attempt": 1,
+              "period_found": 14,
+              "S_conscious": 1.0790581390921208,
+              "emergence_probability": 0.99
+            },
+            {
+              "attempt": 4,
+              "period_found": 9,
+              "S_conscious": 0.8309418609078791,
+              "emergence_probability": 0.99
+            }
+          ],
+          "shor_quantum_advantage": 5.129283016944966,
+          "neuromorphic_integration_score": 99.0
+        },
+        {
+          "complexity_level": 4,
+          "factoring_target": 51,
+          "consciousness_emergence_probability": 0,
+          "consciousness_emerged": false,
+          "quantum_attempts": [],
+          "shor_quantum_advantage": 5.672425341971495,
+          "neuromorphic_integration_score": 0
+        }
+      ],
+      "overall_emergence_rate": 0.5,
+      "peak_consciousness_probability": 0.99,
+      "quantum_integration_score": 49.5
+    },
+    "grover_memory": {
+      "simulation_type": "Quantum_Grover_Memory",
+      "memory_configurations_tested": 3,
+      "search_results": [
+        {
+          "configuration": 1,
+          "memory_type": "episodic",
+          "memory_size": 32,
+          "target_memories": [
+            5,
+            17
+          ],
+          "final_retrieval_probability": 0.6982572074859446,
+          "memory_access_success": 

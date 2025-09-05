@@ -1,0 +1,65 @@
+{
+  "timestamp": "2025-09-04T19:59:29.758499",
+  "archive_location": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive",
+  "categories": {
+    "consciousness": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\01_Consciousness_Simulations\\Current",
+      "description": "Monte Carlo consciousness evolution and awareness visualizations",
+      "file_count": 4,
+      "total_size_bytes": 766872,
+      "total_size_mb": 0.73
+    },
+    "neural": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\02_Neural_Networks\\Current",
+      "description": "Neural network architectures and processing visualizations",
+      "file_count": 12,
+      "total_size_bytes": 196792,
+      "total_size_mb": 0.19
+    },
+    "fractal": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\03_Fractal_Patterns\\Current",
+      "description": "Fractal analysis and consciousness pattern recognition",
+      "file_count": 0,
+      "total_size_bytes": 0,
+      "total_size_mb": 0.0
+    },
+    "artistic": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\04_AI_Artistic_Creation\\Current",
+      "description": "AI-generated artwork and creative visualizations",
+      "file_count": 5,
+      "total_size_bytes": 155153,
+      "total_size_mb": 0.15
+    },
+    "search": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\05_Search_Analysis\\Current",
+      "description": "Google search results and image analysis",
+      "file_count": 8,
+      "total_size_bytes": 16260,
+      "total_size_mb": 0.02
+    },
+    "reports": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\06_System_Reports\\Current",
+      "description": "System reports, logs, and analysis documents",
+      "file_count": 26,
+      "total_size_bytes": 193951,
+      "total_size_mb": 0.18
+    },
+    "experiments": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\07_Experiments\\Current",
+      "description": "Experimental visualizations and test results",
+      "file_count": 26,
+      "total_size_bytes": 347284,
+      "total_size_mb": 0.33
+    },
+    "documentation": {
+      "path": "C:\\Users\\damia\\Desktop\\FSOT-Neuromorphic-AI-System\\FSOT_Visual_Archive\\08_Documentation\\Current",
+      "description": "System documentation and guides",
+      "file_count": 2,
+      "total_size_bytes": 9244,
+      "total_size_mb": 0.01
+    }
+  },
+  "total_files": 83,
+  "total_size": 1685556,
+  "total_size_mb": 1.61
+}

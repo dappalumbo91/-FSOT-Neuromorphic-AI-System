@@ -1,0 +1,20 @@
+{
+    "include": [
+        ".",
+        "FSOT_Clean_System"
+    ],
+    "extraPaths": [
+        "FSOT_Clean_System"
+    ],
+    "pythonVersion": "3.8",
+    "pythonPlatform": "Windows",
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "reportMissingImports": "warning",
+    "reportMissingTypeStubs": false,
+    "reportGeneralTypeIssues": "warning",
+    "reportOptionalMemberAccess": "warning",
+    "reportOptionalOperand": "warning",
+    "reportOptionalSubscript": "warning",
+    "reportPrivateImportUsage": "warning"
+}

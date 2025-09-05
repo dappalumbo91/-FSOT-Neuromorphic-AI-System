@@ -1,0 +1,23 @@
+{
+    "brain": {
+        "consciousness_threshold": 0.5,
+        "learning_rate": 0.001,
+        "memory_capacity": 10000,
+        "neural_signal_timeout": 1.0,
+        "auto_cleanup": true
+    },
+    "fsot": {
+        "max_dimensions": 25,
+        "default_dimensions": 12,
+        "scaling_constant": 0.4202,
+        "consciousness_factor": 0.288,
+        "use_observer_effects": true
+    },
+    "system": {
+        "log_level": "INFO",
+        "web_port": 8000,
+        "enable_web_interface": true,
+        "auto_save_interval": 300,
+        "max_concurrent_tasks": 10
+    }
+}

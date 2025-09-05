@@ -1,0 +1,19 @@
+# Smart Fix Integration Workflow Commands
+
+# After importing fixes:
+python smart_fix_integration.py --type=import_fix
+
+# After type fixes:
+python smart_fix_integration.py --type=type_fix
+
+# After attribute fixes:
+python smart_fix_integration.py --type=attribute_fix
+
+# After dependency updates:
+python smart_fix_integration.py --type=dependency_update
+
+# General assessment:
+python smart_fix_integration.py
+
+# Setup automatic monitoring:
+python post_update_assessment.py --setup-hooks
