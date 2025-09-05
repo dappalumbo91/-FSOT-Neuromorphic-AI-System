@@ -1,0 +1,18 @@
+# FSOT 2.0 Neuromorphic AI System Dependencies
+# Core mathematical and scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+mpmath>=1.2.0
+
+# Testing framework
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-xdist>=3.0.0
+
+# Optional dependencies for advanced features
+# These will be installed if available but won't break CI if missing
+sympy>=1.9.0
+
+# Development and debugging tools (optional)
+# matplotlib>=3.5.0  # For visualizations
+# jupyter>=1.0.0     # For notebook support
