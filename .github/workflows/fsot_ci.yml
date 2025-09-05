@@ -47,7 +47,7 @@ jobs:
         python fsot_compliance_validator.py --strict
     
     - name: Upload Test Results
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: fsot-test-results-${{ matrix.python-version }}
         path: |
